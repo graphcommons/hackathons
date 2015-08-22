@@ -48,7 +48,7 @@ Geliştirilen modellere göre programatik olarak veri derleyen araçlar gelişti
 
 *Veri derleme araçları* ile oluşturulan veriler **[Graph Commons](https://graphcommons.com)** platformuna aktarılarak interaktif ağ haritaları yaratılacak. Yapılan haritalar okumaya ve analize tabi tutulacak, tartışılacak ve platform üzerinde yayınlanacak.
 
-<img style="float:right; width:300px;" src="/img/graphcommons-cartography-presentation.png">
+<img style="float:right; width:300px;" src="http://blog.graphcommons.com/wp-content/uploads/2015/08/graphcommons-cartography-presentation.png">
 
 #### 4. Sunumlar
 
@@ -275,7 +275,7 @@ Yaygın kullanılan yayın platformlarında oluşturulan içerikleri haritaland�
 - [Facebook Social Graph API](https://developers.facebook.com/docs/graph-api)
 
 
-<img style="float:right; width:300px;" src="/img/graphcommons-publishing-sharing.png">
+<img style="float:right; width:300px;" src="http://blog.graphcommons.com/wp-content/uploads/2015/08/graphcommons-publishing-sharing.png">
 
 ### Lisans
 

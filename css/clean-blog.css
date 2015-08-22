@@ -1,9 +1,3 @@
-/*!
- * Clean Blog v1.0.0 (http://startbootstrap.com)
- * Copyright 2015 Start Bootstrap
- * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
- */
-
 body {
   font-family: 'Georgia', 'Times New Roman', serif;
   font-size: 20px;
@@ -330,9 +324,9 @@ form .row:first-child .floating-label-form-group {
 }
 .btn {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  -webkit-border-radius: 2px;
-  -moz-border-radius: 2px;
-  border-radius: 2px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 700;
@@ -354,10 +348,10 @@ form .row:first-child .floating-label-form-group {
   color: #FFFFFF;
   border-color: #ffc400;
 }
-.btn-lg:hover,
-.btn-lg:focus {
-  border-color: #NaNNaNNaN;
-  background-color: #NaNNaNNaN;
+.btn-default.btn-lg:hover,
+.btn-default.btn-lg:focus {
+  border-color: #cca933;
+  background-color: #cca933;
 }
 .pager {
   margin: 20px 0 0;
