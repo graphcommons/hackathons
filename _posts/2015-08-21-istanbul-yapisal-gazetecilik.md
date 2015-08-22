@@ -32,19 +32,19 @@ Halbuki yazılanların içinde gömülü çok detaylı ve değerli bilgiler mevc
 
 Çalışma üç aşamada gerçekleşecek:
 
-<img style="float:right; width: 200px" src="http://blog.graphcommons.com/wp-content/uploads/2014/12/graphcommons-collaborative-mapping.png">
+<img style="float:right; width: 300px" src="http://blog.graphcommons.com/wp-content/uploads/2014/12/graphcommons-collaborative-mapping.png">
 
 #### 1. Ağ Modelleme
 
 Mentörlerin alanlarındaki uzmanlıkları ile katılımcıların teknik bilgileri veri modelleme aşamasında kesişecek. Kağıt kalemle beyin fırtınası şeklinde yapılacak bu çalışmada, alandaki önemli aktörler ve aralarındaki kritik ilişkiler belirlenecek. Aciliyet gerektiren sorular ve aranan cevaplar belirlenecek.
 
-<img style="float:right; width: 200px" src="http://blog.graphcommons.com/wp-content/uploads/2015/08/graph-json-structure.png">
+<img style="float:right; width: 300px" src="http://blog.graphcommons.com/wp-content/uploads/2015/08/graph-json-structure.png">
 
 #### 2. Araç Geliştirme
 
 Geliştirilen modellere göre programatik olarak veri derleyen araçlar geliştirilecek. Katılımcılar ilgilerine göre ya **[yayın platformları](https://github.com/graphcommons/hackathons/wiki/Yap%C4%B1sal-Gazetecilik-ve-A%C4%9F-Haritalama-Hackathonu#yay%C4%B1n-platformlar%C4%B1ndan-veri-%C3%A7%C4%B1karma)** ya da **[veri kaynakları](https://github.com/graphcommons/hackathons/wiki/Yap%C4%B1sal-Gazetecilik-ve-A%C4%9F-Haritalama-Hackathonu#muhtemel-alanlar-ment%C3%B6rler-veri-kaynaklar%C4%B1)** üzerinden veri çıkartan araçlar üretecekler. Araçların ilk prototipleri aynı gün içerisinde çalışır hale gelecek ve ikinci gün iyileştirilecek. Ayrıca sonraki beta versiyonu neler içermeli, daha gelişkin versiyonlarda neler yapılabilir tartışılacak.
 
-<img style="float:right; width: 200px" src="http://blog.graphcommons.com/wp-content/uploads/2015/08/graphcommons-mapping-analysis.png">
+<img style="float:right; width: 300px" src="http://blog.graphcommons.com/wp-content/uploads/2015/08/graphcommons-mapping-analysis.png">
 
 #### 3. Haritalama
 *Veri derleme araçları* ile oluşturulan veriler **[Graph Commons](https://graphcommons.com)** platformuna aktarılarak interaktif ağ haritaları yaratılacak. Yapılan haritalar okumaya ve analize tabi tutulacak, tartışılacak ve platform üzerinde yayınlanacak.
