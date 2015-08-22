@@ -15,7 +15,10 @@ place: TMMOB Mimarlar Odası, Karaköy, İstanbul
 <br>
 **TMMOB Mimarlar Odası, Karaköy, İstanbul**
 
-[Katılım](#katilim) - [Program](#program) - [Konular, Mentörler, Kaynaklar](#konular-mentorler-kaynaklar) - [İletişim](#iletisim)
+<a href="#katilim" class="btn btn-default">Katılım</a>
+<a href="#program" class="btn btn-default">Program</a>
+<a href="#konular-mentorler-kaynaklar" class="btn btn-default">Konular, Mentörler, Kaynaklar</a>
+<a href="#iletisim" class="btn btn-default">İletişim</a>
 
 Gazetecilikte haberler ya da sivil toplum çalışmalarında raporlar ve basın bildirileri genellikle düz yazı olarak üretilyor, ve yayınlandıktan kısa bir süre sonra değerleri oldukça azalabiliyor, tekrar tekrar kullanımı ise mümkün olamıyor.
 
