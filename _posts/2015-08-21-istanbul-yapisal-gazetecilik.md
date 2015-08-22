@@ -5,11 +5,11 @@ subtitle:   ""
 scheduled_date:       12-13 Eylül 2015
 author:     "Start Bootstrap"
 header-img: "img/post-bg-06.jpg"
-description: 12-13 Eylül 2015'de, TMMOB Mimarlar Odası'nda Yapisal Yapısal Gazetecilik ve Ağ Haritalama Hackathonu yapiliyor.
+description: 12-13 Eylül 2015'de, TMMOB Mimarlar Odası'nda Yapısal Gazetecilik ve Ağ Haritalama Hackathonu.
 place: TMMOB Mimarlar Odası, Karaköy, İstanbul
 ---
 
-<img style="float:right; width: 200px" src="http://blog.graphcommons.com/wp-content/uploads/2014/12/graphcommons-collaborative-mapping.png">
+<img src="http://blog.graphcommons.com/wp-content/uploads/2015/08/CivilSociety-NGO-STK-Network-Mapping-Workshop-istanbul.jpeg">
 
 ## Ağlarımızı örüyoruz!
 
@@ -32,11 +32,22 @@ Halbuki yazılanların içinde gömülü çok detaylı ve değerli bilgiler mevc
 
 Çalışma üç aşamada gerçekleşecek:
 
-**1. Ağ Modelleme** – Mentörlerin alanlarındaki uzmanlıkları ile katılımcıların teknik bilgileri veri modelleme aşamasında kesişecek. Kağıt kalemle beyin fırtınası şeklinde yapılacak bu çalışmada, alandaki önemli aktörler ve aralarındaki kritik ilişkiler belirlenecek. Aciliyet gerektiren sorular ve aranan cevaplar belirlenecek.
+<img style="float:right; width: 200px" src="http://blog.graphcommons.com/wp-content/uploads/2014/12/graphcommons-collaborative-mapping.png">
 
-**2. Araç Geliştirme** – Geliştirilen modellere göre programatik olarak veri derleyen araçlar geliştirilecek. Katılımcılar ilgilerine göre ya **[yayın platformları](https://github.com/graphcommons/hackathons/wiki/Yap%C4%B1sal-Gazetecilik-ve-A%C4%9F-Haritalama-Hackathonu#yay%C4%B1n-platformlar%C4%B1ndan-veri-%C3%A7%C4%B1karma)** ya da **[veri kaynakları](https://github.com/graphcommons/hackathons/wiki/Yap%C4%B1sal-Gazetecilik-ve-A%C4%9F-Haritalama-Hackathonu#muhtemel-alanlar-ment%C3%B6rler-veri-kaynaklar%C4%B1)** üzerinden veri çıkartan araçlar üretecekler. Araçların ilk prototipleri aynı gün içerisinde çalışır hale gelecek ve ikinci gün iyileştirilecek. Ayrıca sonraki beta versiyonu neler içermeli, daha gelişkin versiyonlarda neler yapılabilir tartışılacak.
+#### 1. Ağ Modelleme
 
-**3. Haritalama** – *Veri derleme araçları* ile oluşturulan veriler **[Graph Commons](https://graphcommons.com)** platformuna aktarılarak interaktif ağ haritaları yaratılacak. Yapılan haritalar okumaya ve analize tabi tutulacak, tartışılacak ve platform üzerinde yayınlanacak.
+Mentörlerin alanlarındaki uzmanlıkları ile katılımcıların teknik bilgileri veri modelleme aşamasında kesişecek. Kağıt kalemle beyin fırtınası şeklinde yapılacak bu çalışmada, alandaki önemli aktörler ve aralarındaki kritik ilişkiler belirlenecek. Aciliyet gerektiren sorular ve aranan cevaplar belirlenecek.
+
+<img style="float:right; width: 200px" src="http://blog.graphcommons.com/wp-content/uploads/2015/08/graph-json-structure.png">
+
+#### 2. Araç Geliştirme
+
+Geliştirilen modellere göre programatik olarak veri derleyen araçlar geliştirilecek. Katılımcılar ilgilerine göre ya **[yayın platformları](https://github.com/graphcommons/hackathons/wiki/Yap%C4%B1sal-Gazetecilik-ve-A%C4%9F-Haritalama-Hackathonu#yay%C4%B1n-platformlar%C4%B1ndan-veri-%C3%A7%C4%B1karma)** ya da **[veri kaynakları](https://github.com/graphcommons/hackathons/wiki/Yap%C4%B1sal-Gazetecilik-ve-A%C4%9F-Haritalama-Hackathonu#muhtemel-alanlar-ment%C3%B6rler-veri-kaynaklar%C4%B1)** üzerinden veri çıkartan araçlar üretecekler. Araçların ilk prototipleri aynı gün içerisinde çalışır hale gelecek ve ikinci gün iyileştirilecek. Ayrıca sonraki beta versiyonu neler içermeli, daha gelişkin versiyonlarda neler yapılabilir tartışılacak.
+
+<img style="float:right; width: 200px" src="http://blog.graphcommons.com/wp-content/uploads/2015/08/graphcommons-mapping-analysis.png">
+
+#### 3. Haritalama
+*Veri derleme araçları* ile oluşturulan veriler **[Graph Commons](https://graphcommons.com)** platformuna aktarılarak interaktif ağ haritaları yaratılacak. Yapılan haritalar okumaya ve analize tabi tutulacak, tartışılacak ve platform üzerinde yayınlanacak.
 
 <a name="katilim"></a>
 
@@ -102,7 +113,7 @@ Veri derlenebilecek kaynaklar düz metin (haber, rapor vb.), yarı yapısal (HTM
 
 Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@graphcommons.com** adresine gönderebilirsiniz.
 
-#### Ekoloji ve Kent Hakkı
+### Ekoloji ve Kent Hakkı
 - Mentörler
     - Elif İnce
     - Yaşar Adanalı
@@ -118,7 +129,7 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
     - http://bianet.org/bianet/cevre
     - http://bianet.org/bianet/kent
 
-#### İnternet ve İfade Özgürlüğü
+### İnternet ve İfade Özgürlüğü
 - Mentörler
     - Aslı Telli Aydemir
     - Işık Mater
@@ -130,7 +141,7 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
     - http://engelliweb.com
     - http://bianet.org/bianet/ifade-ozgurlugu
 
-#### Meclis ve Kanunlar
+### Meclis ve Kanunlar
 - Mentörler
     - Özlem Zıngıl
     - Esra Gürakar
@@ -138,13 +149,13 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
     - https://tbmm.gov.tr
     - [TBMM Soru Önergeleri Sorgulama](https://www.tbmm.gov.tr/develop/owa/yazili_sozlu_soru_sd.sorgu_baslangic)
 
-#### Bölgesel Kamu Politikaları ve Yatırımları
+### Bölgesel Kamu Politikaları ve Yatırımları
 - Mentörler
     - Emel Kurma
 - Kaynaklar
     - http://yereldemokrasi.net
 
-#### Tekelcilik, Yolsuzluk, Şeffaflık
+### Tekelcilik, Yolsuzluk, Şeffaflık
 - Mentörler
     - Mustafa Sönmez
     - Esra Gürakar
@@ -154,7 +165,7 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
     - [Bilgi Edinme Hakkı Kanunu](https://tr.wikipedia.org/wiki/Bilgi_Edinme_Hakk%C4%B1_Kanunu)
     - http://mulksuzlestirme.org
 
-#### Medya sahipliği
+### Medya Sahipliği
 - Mentörler
     - Ceren Sözeri
     - Murat İnceoglu
@@ -168,14 +179,14 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
     - [RATEM Sektör Raporu, 2013](http://www.ratem.org/web/RATEM_Sektor_Raporu_2014.pdf)
     - [Medya temsilcileri Darbeleri Araştırma Komisyonu'na ne anlattı?](http://t24.com.tr/haber/tbmm-darbe-ve-muhtiralari-arastirma-komisyonu-tutanaklari,217339)
 
-#### İş Cinayetleri
+### İş Cinayetleri
 - Mentörler
     - Aslı Odman
 - Kaynaklar
     - http://guvenlicalisma.org
     - [Yangın Kulesi](http://guvenlicalisma.org/index.php?option=com_content&view=category&id=142:yangin-kulesi&Itemid=229)
 
-#### Kadın hakları
+### Kadın Hakları
 - Mentörler
     - İdil Elveriş
     - Çiçek Tahaoğlu
@@ -188,7 +199,7 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
     - http://www.5harfliler.com/
     - http://bianet.org/bianet/kadin
 
-#### LGBTİ hakları
+### LGBTİ Hakları
 - Mentörler
     - Çiçek Tahaoğlu
     - Burcu Karakaş
@@ -197,14 +208,14 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
     - http://www.lambdaistanbul.org
     - http://bianet.org/bianet/lgbti
 
-#### Eğitim Reformu
+### Eğitim Reformu
 - Mentörler
     - Batuhan Aydagül
 - Kaynaklar
     - [Eğitim Reformu Girişimi](http://erg.sabanciuniv.edu/en)
     - [Yüksek Eğitim Endüstriyel Kompleksi](burak-arikan.com/ozeluniversiteler)
 
-#### Göçmen hakları
+### Göçmen Hakları
 - Mentörler
     - Özge Aktaş Mazman
 - Veri kaynakları
@@ -213,7 +224,7 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
     - [Avrupa ve Çevresi Göçmen Kampı Haritaları, 2005-2009, Migreurop](http://dugumkume.org/avrupa-ve-cevresi-gocmen-kampi-haritalari-2005-2009-migreurop/)
     - [Migreurop Network](http://www.migreurop.org/article643.html?lang=en)
 
-#### Militarizm
+### Militarizm
 - Mentörler
     - Kerem Çiftçioğlu
 - Veri kaynakları
@@ -223,16 +234,12 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
     - http://bianet.org/bianet/militarizm
     - [Vicdani Ret Derneği](http://vicdaniret.org/)
 
-#### Engelli hakları
+### Engelli Hakları
 - Kaynaklar
     - [Türkiye'de engelli hakları](https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_engelli_haklar%C4%B1)
     - http://www.engelliler.biz
 
-#### Azınlıklar
-
-#### Sağlık
-
-#### Genel
+### Genel
 -  Veri Kaynakları
     - https://tr.wikipedia.org/
     - https://www.wikidata.org
@@ -244,30 +251,26 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
     - http://data.worldbank.org
     - http://bbcnewslabs.co.uk/projects/
 
-## Yayın platformlarından veri çıkarma
+<a name="yayin-platformlari"></a>
 
-Yaygın kullanılan yayın platformlarında biriken içerikten haritalanmak üzere yapısal veri çıkarma araçları. Siz de bildiğiniz kullandığınız yayın platformlarını ekleyebilirsiniz.
+### Yayın platformlarından veri çıkarma
+
+Yaygın kullanılan yayın platformlarında oluşturulan içerikleri haritalandırmak üzere çıkararak yapısal veriye dönüştürme. Pluginler, RSSlerden ve APIlerden haritaya çeviren uygulamalar, canonical scrape uygulamaları, kütüphaneler geliştirilebilir.
 
 - [Wordpress Plugin Development](https://codex.wordpress.org/Writing_a_Plugin)
 - [Drupal API](https://www.drupal.org/developing/api)
-- RSS Beslemeleri
+- [RSS Beslemeleri](https://en.wikipedia.org/wiki/RSS)
 - [Twitter API](https://dev.twitter.com/overview/documentation)
 - [Facebook Social Graph API](https://developers.facebook.com/docs/graph-api)
 
-## Muhtemel çalışma çıktıları
-- Wordpress, Drupal gibi platformlar için pluginler
-- APIlerden haritaya çeviren uygulamalar
-- Canonical scrape uygulamaları
-- Kütüphaneler
-
 <a name="iletisim"></a>
 
-## Hackathon iletişim
+## Hackathon İletişim
 
-### Katılımcılar için koordinasyon
+#### Katılımcılar için koordinasyon
 - https://github.com/graphcommons/hackathons
 - https://graphcommons.com
 - Graph Commons Slack grubu
 
-### Genel iletişim
+#### Genel iletişim
 - https://graphcommons.com/contact
