@@ -9,6 +9,23 @@ $(function() {
     $("[data-toggle='tooltip']").tooltip();
 });
 
+// smooth scroll
+$(function() {
+  $('a[href*=#]:not([href=#])').click(function() {
+    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+      var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+      if (target.length) {
+        $('html,body').animate({
+          scrollTop: target.offset().top
+      }, 500);
+        return false;
+      }
+    }
+  });
+});
+
+
 // Contact Form Scripts
 
 $(function() {
@@ -1009,7 +1026,7 @@ $(document).ready(function() {
 });
 
 // responsive embed videos
-$(document).ready(function () { 
+$(document).ready(function () {
     $('iframe[src*="youtube.com"]').wrap('<div class="embed-responsive embed-responsive-16by9"></div>');
 	$('iframe[src*="youtube.com"]').addClass('embed-responsive-item');
     $('iframe[src*="vimeo.com"]').wrap('<div class="embed-responsive embed-responsive-16by9"></div>');
