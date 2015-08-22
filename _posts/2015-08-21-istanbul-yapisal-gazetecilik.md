@@ -4,12 +4,10 @@ title:      "Yapısal Gazetecilik ve Ağ Haritalama Hackathonu"
 subtitle:   ""
 scheduled_date:       12-13 Eylül 2015
 author:     "Start Bootstrap"
-header-img: "img/post-bg-06.jpg"
+header-img: "img/CivilSociety-NGO-STK-Network-Mapping-Workshop-istanbul.jpeg"
 description: 12-13 Eylül 2015'de, TMMOB Mimarlar Odası'nda Yapısal Gazetecilik ve Ağ Haritalama Hackathonu.
 place: TMMOB Mimarlar Odası, Karaköy, İstanbul
 ---
-
-<img src="http://blog.graphcommons.com/wp-content/uploads/2015/08/CivilSociety-NGO-STK-Network-Mapping-Workshop-istanbul.jpeg">
 
 ## Ağlarımızı örüyoruz!
 
