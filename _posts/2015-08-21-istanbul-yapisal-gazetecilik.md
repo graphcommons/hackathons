@@ -128,8 +128,8 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 
 ### Ekoloji ve Kent Hakkı
 - Mentörler
-    - Elif İnce
-    - Yaşar Adanalı
+    - [Elif İnce](https://twitter.com/elifince)
+    - [Yaşar Adanalı](https://twitter.com/ysrdnl)
 - Kaynaklar
     - [İMECE](http://www.toplumunsehircilikhareketi.org)
     - [http://www.ekolojikolektifi.org](http://www.ekolojikolektifi.org)
@@ -143,9 +143,9 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 
 ### İnternet ve İfade Özgürlüğü
 - Mentörler
-    - Aslı Telli Aydemir
-    - Işık Mater
-    - Ahmet Sabancı
+    - [Aslı Telli Aydemir](https://www.sehir.edu.tr/Pages/Akademik/AkademikKadro.aspx?akademid=64)
+    - [Işık Mater](https://twitter.com/isik5)
+    - [Ahmet Sabancı](https://twitter.com/ahmetasabanci)
 - Kaynaklar
     - [https://alternatifbilisim.org](https://alternatifbilisim.org)
     - [Internet Ungovernance Forum](https://iuf.alternatifbilisim.org)
@@ -155,8 +155,8 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 
 ### Meclis ve Kanunlar
 - Mentörler
-    - Özlem Zıngıl
-    - Esra Gürakar
+    - [Özlem Zıngıl](https://twitter.com/ozlemzingil)
+    - [Esra Gürakar](http://www.iq.harvard.edu/people/esra-gurakar)
 - Kaynaklar
     - [https://tbmm.gov.tr](https://tbmm.gov.tr)
     - [TBMM Soru Önergeleri Sorgulama](https://www.tbmm.gov.tr/develop/owa/yazili_sozlu_soru_sd.sorgu_baslangic)
@@ -169,9 +169,9 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 
 ### Tekelcilik, Yolsuzluk, Şeffaflık
 - Mentörler
-    - Mustafa Sönmez
-    - Esra Gürakar
-    - Özlem Zıngıl
+    - [Mustafa Sönmez](http://mustafasonmez.net/)
+    - [Esra Gürakar](http://www.iq.harvard.edu/people/esra-gurakar)
+    - [Özlem Zıngıl](https://twitter.com/ozlemzingil)
 - Kaynaklar
     - [Hazine Müsteşarlığı Merkezi Finans ve İhale](http://www.cfcu.gov.tr)
     - [Bilgi Edinme Hakkı Kanunu](https://tr.wikipedia.org/wiki/Bilgi_Edinme_Hakk%C4%B1_Kanunu)
@@ -179,13 +179,12 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 
 ### Medya Sahipliği
 - Mentörler
-    - Ceren Sözeri
-    - Murat İnceoglu
-    - Defne Özonur
+    - [Ceren Sözeri](https://twitter.com/cerensozeri)
+    - [Murat İnceoglu](https://twitter.com/muratinceoglu)
+    - [Defne Özonur](https://twitter.com/defneozonur)
 - Kaynaklar
     - [Türkiye Medya Sahipleri Ağı](https://graphcommons.com/graphs/09426282-c311-4b39-be2c-1bd4f93b5771)
-    - [http://bianet.org/bianet/medya](http://bianet.org/bianet/medya)
-    - [Türkiye’de medya sahipliği 2015](http://platform24.org/medya-izleme/813/-hukumeti-destekleyene-butun-kapilar-aciliyor)
+    - [http://bianet.org/bianet/medya](http://bianet.org/bianet/medya) - [Türkiye’de medya sahipliği 2015](http://platform24.org/medya-izleme/813/-hukumeti-destekleyene-butun-kapilar-aciliyor)
     - [Türkiye'de Medya-İktidar İlişkileri Raporu, 2015](http://platform24.org/Content/Uploads/Editor/T%C3%BCrkiye%E2%80%99de%20Medya-%C4%B0ktidar%20%C4%B0li%C5%9Fkileri-BASKI.pdf)
     - [RTÜK](http://www.rtuk.org.tr/Home/SolMenu/109#)
     - [RATEM Sektör Raporu, 2013](http://www.ratem.org/web/RATEM_Sektor_Raporu_2014.pdf)
@@ -193,16 +192,16 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 
 ### İş Cinayetleri
 - Mentörler
-    - Aslı Odman
+    - [Aslı Odman](https://twitter.com/odmanasli)
 - Kaynaklar
     - [http://guvenlicalisma.org](http://guvenlicalisma.org)
     - [Yangın Kulesi](http://guvenlicalisma.org/index.php?option=com_content&view=category&id=142:yangin-kulesi&Itemid=229)
 
 ### Kadın Hakları
 - Mentörler
-    - İdil Elveriş
-    - Çiçek Tahaoğlu
-    - Burcu Karakaş
+    - [İdil Elveriş](https://twitter.com/idilika)
+    - [Çiçek Tahaoğlu](http://bianet.org/yazar/cicek-tahaoglu)
+    - [Burcu Karakaş](https://twitter.com/burcuas)
 - Kaynaklar
     - [http://www.anitsayac.com](http://www.anitsayac.com)
     - [Twitter'da #sendeanlat](https://twitter.com/search?q=%23sendeanlat&src=tyah)
@@ -213,8 +212,8 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 
 ### LGBTİ Hakları
 - Mentörler
-    - Çiçek Tahaoğlu
-    - Burcu Karakaş
+    - [Çiçek Tahaoğlu](http://bianet.org/yazar/cicek-tahaoglu)
+    - [Burcu Karakaş](https://twitter.com/burcuas)
 - Kaynaklar
     - [Türkiye'de LGBT hakları](https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_LGBT_haklar%C4%B1)
     - [http://www.lambdaistanbul.org](http://www.lambdaistanbul.org)
@@ -222,14 +221,14 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 
 ### Eğitim Reformu
 - Mentörler
-    - Batuhan Aydagül
+    - [Batuhan Aydagül](http://batuhanaydagul.org/)
 - Kaynaklar
     - [Eğitim Reformu Girişimi](http://erg.sabanciuniv.edu/en)
     - [Yüksek Eğitim Endüstriyel Kompleksi](burak-arikan.com/ozeluniversiteler)
 
 ### Göçmen Hakları
 - Mentörler
-    - Özge Aktaş Mazman
+    - [Özge Aktaş Mazman](http://www.tesev.org.tr/ozge-aktas-mazman/Content/1834.html)
 - Veri kaynakları
     - [http://gocmendayanisma.org](http://gocmendayanisma.org)
     - [http://www.multeci.net](http://www.multeci.net)
@@ -238,7 +237,7 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 
 ### Militarizm
 - Mentörler
-    - Kerem Çiftçioğlu
+    - [Kerem Çiftçioğlu](https://twitter.com/keyhude)
 - Veri kaynakları
     - [http://www.askerhaklari.com](http://www.askerhaklari.com)
     - [http://www.zorlakaybetmeler.org](http://www.zorlakaybetmeler.org)
