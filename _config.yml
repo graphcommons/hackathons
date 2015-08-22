@@ -1,7 +1,7 @@
 # Site settings
 title: Graph Commons Hackathons
 header-img: img/home-bg.jpg
-email: hackathons@graphcommons.com
+email: contact@graphcommons.com
 description: Together we untangle those relations
 baseurl: "/hackathons"
 url: "http://graphcommons.github.io"
