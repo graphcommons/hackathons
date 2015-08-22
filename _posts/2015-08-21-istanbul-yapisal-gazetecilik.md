@@ -24,7 +24,7 @@ Gazetecilikte haberler ya da sivil toplum çalışmalarında raporlar ve basın 
 
 Halbuki yazılanların içinde gömülü çok detaylı ve değerli bilgiler mevcut. Bu gömülü bilgiler yapısallaştırılarak yeniden kullanılabilen veri parçacıklarına dönüştürülebilir. Böylece bilgiler hem farklı bağlamlarla yeniden ilişkilendirilebilir, hem de daha sonra bu verilerle karşılaşanlar için birer referans kaynağı oluşturur. Bu şekilde bir üretim yapmanın bir yolu ise “ilişki haritalama” ya da "ağ haritalama" pratiğinden geçmekte.
 
-"Ağ haritalama" karmaşık sistemleri anlamlandırabilmek için bize hem matematiksel hem görsel bir dil sağlar. Aktörler nokta olarak ve aralarındaki ilişkiler çizgi olarak belirtildiğinde, görsel okunabilecek diyagramlar ortaya çıkar. Diyagramlar bilgisayar ortamında modellenerek üzerine işlem yapılabililir. Dolayısıyla yüksek miktarda ilişkiden oluşan karmaşık ağlar veri tabanı haline sokulabilir ve hakkında algoritmik çıkarsamalar yapılabilir.
+"Ağ haritalama" karmaşık sistemleri anlamlandırabilmek için bize hem matematiksel hem görsel bir dil sağlar. Aktörler nokta olarak ve aralarındaki ilişkiler çizgi olarak belirtilerek diyagramlar oluşturulur. Bu diyagramlar bilgisayar ortamında modellenerek üzerine işlem yapılabililir. Dolayısıyla yüksek miktarda ilişkiden oluşan karmaşık ağlar veri tabanı haline sokulabilir ve hakkında algoritmik çıkarsamalar yapılabilir.
 
 "Yapısal gazetecilik" ile veri gazeteciliği birbirine yakın gözükse de temelden farklı pratikler. Veri gazeteciliği derlenmiş verilerden analiz ve görselleştirme ile anlam ve haber çıkarmayı amaçlarken, yapısal gazetecilik düz yazıyı ya da araştırma sonuçlarını bir veri yapısına sokarak yeniden kullanım sağlamayı amaçlar.
 
