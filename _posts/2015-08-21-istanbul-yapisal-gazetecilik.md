@@ -52,7 +52,7 @@ Geliştirilen modellere göre programatik olarak veri derleyen araçlar gelişti
 
 #### 4. Sunumlar
 
-Yapılan çalışmalar ikinci gününde herkese açık sunumda gösterilecek ve tartışılacak.
+Yapılan çalışmalar ikinci gününün sonunda herkese açık sunumda gösterilecek ve tartışılacak. Haritaların veri modeli, görsel dili, ve verileri derleyen aracı nasıl çalışıyor beraber incelenecek ve tartışılacak.
 
 <br>
 <a name="katilim"></a>
@@ -273,6 +273,13 @@ Yaygın kullanılan yayın platformlarında oluşturulan içerikleri haritaland�
 - [RSS Beslemeleri](https://en.wikipedia.org/wiki/RSS)
 - [Twitter API](https://dev.twitter.com/overview/documentation)
 - [Facebook Social Graph API](https://developers.facebook.com/docs/graph-api)
+
+
+<img style="float:right; width:300px;" src="/img/graphcommons-publishing-sharing.png">
+
+### Lisans
+
+Hackathon'da geliştirilecek tüm araçlar geliştiren kişilere aittir ve özgür bir lisans ile açık kaynaklı yapılması beklenecektir. Graph Commons üzerinde yayınlanan ağ haritaları [Creative Commons International 4.0](https://creativecommons.org/licenses/by/4.0/) lisansı ile yaratıcılarına lisanslanır.
 
 <br>
 <a name="iletisim"></a>
