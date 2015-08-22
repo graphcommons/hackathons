@@ -130,17 +130,16 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 - Mentörler
     - Elif İnce
     - Yaşar Adanalı
-    - imece
 - Kaynaklar
-    - http://www.toplumunsehircilikhareketi.org
-    - http://www.ekolojikolektifi.org
-    - https://mutlukent.wordpress.com
-    - http://www.kuzeyormanlari.org
-    - http://mulksuzlestirme.org
-    - http://www.direncevre.org
-    - http://www.karaatlas.org
-    - http://bianet.org/bianet/cevre
-    - http://bianet.org/bianet/kent
+    - [İMECE](http://www.toplumunsehircilikhareketi.org)
+    - [http://www.ekolojikolektifi.org](http://www.ekolojikolektifi.org)
+    - [https://mutlukent.wordpress.com](https://mutlukent.wordpress.com)
+    - [http://www.kuzeyormanlari.org](http://www.kuzeyormanlari.org)
+    - [http://mulksuzlestirme.org](http://mulksuzlestirme.org)
+    - [http://www.direncevre.org](http://www.direncevre.org)
+    - [http://www.karaatlas.org](http://www.karaatlas.org)
+    - [http://bianet.org/bianet/cevre](http://bianet.org/bianet/cevre)
+    - [http://bianet.org/bianet/kent](http://bianet.org/bianet/kent)
 
 ### İnternet ve İfade Özgürlüğü
 - Mentörler
@@ -148,25 +147,25 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
     - Işık Mater
     - Ahmet Sabancı
 - Kaynaklar
-    - https://alternatifbilisim.org
+    - [https://alternatifbilisim.org](https://alternatifbilisim.org)
     - [Internet Ungovernance Forum](https://iuf.alternatifbilisim.org)
-    - http://privacy.cyber-rights.org.tr
-    - http://engelliweb.com
-    - http://bianet.org/bianet/ifade-ozgurlugu
+    - [http://privacy.cyber-rights.org.tr](http://privacy.cyber-rights.org.tr)
+    - [http://engelliweb.com](http://engelliweb.com)
+    - [http://bianet.org/bianet/ifade-ozgurlugu](http://bianet.org/bianet/ifade-ozgurlugu)
 
 ### Meclis ve Kanunlar
 - Mentörler
     - Özlem Zıngıl
     - Esra Gürakar
 - Kaynaklar
-    - https://tbmm.gov.tr
+    - [https://tbmm.gov.tr](https://tbmm.gov.tr)
     - [TBMM Soru Önergeleri Sorgulama](https://www.tbmm.gov.tr/develop/owa/yazili_sozlu_soru_sd.sorgu_baslangic)
 
 ### Bölgesel Kamu Politikaları ve Yatırımları
 - Mentörler
     - Emel Kurma
 - Kaynaklar
-    - http://yereldemokrasi.net
+    - [http://yereldemokrasi.net](http://yereldemokrasi.net)
 
 ### Tekelcilik, Yolsuzluk, Şeffaflık
 - Mentörler
@@ -174,9 +173,9 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
     - Esra Gürakar
     - Özlem Zıngıl
 - Kaynaklar
-    - Hazine Müsteşarlığı Merkezi Finans ve İhale http://www.cfcu.gov.tr
+    - [Hazine Müsteşarlığı Merkezi Finans ve İhale](http://www.cfcu.gov.tr)
     - [Bilgi Edinme Hakkı Kanunu](https://tr.wikipedia.org/wiki/Bilgi_Edinme_Hakk%C4%B1_Kanunu)
-    - http://mulksuzlestirme.org
+    - [http://mulksuzlestirme.org](http://mulksuzlestirme.org)
 
 ### Medya Sahipliği
 - Mentörler
@@ -185,7 +184,7 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
     - Defne Özonur
 - Kaynaklar
     - [Türkiye Medya Sahipleri Ağı](https://graphcommons.com/graphs/09426282-c311-4b39-be2c-1bd4f93b5771)
-    - http://bianet.org/bianet/medya
+    - [http://bianet.org/bianet/medya](http://bianet.org/bianet/medya)
     - [Türkiye’de medya sahipliği 2015](http://platform24.org/medya-izleme/813/-hukumeti-destekleyene-butun-kapilar-aciliyor)
     - [Türkiye'de Medya-İktidar İlişkileri Raporu, 2015](http://platform24.org/Content/Uploads/Editor/T%C3%BCrkiye%E2%80%99de%20Medya-%C4%B0ktidar%20%C4%B0li%C5%9Fkileri-BASKI.pdf)
     - [RTÜK](http://www.rtuk.org.tr/Home/SolMenu/109#)
@@ -196,7 +195,7 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 - Mentörler
     - Aslı Odman
 - Kaynaklar
-    - http://guvenlicalisma.org
+    - [http://guvenlicalisma.org](http://guvenlicalisma.org)
     - [Yangın Kulesi](http://guvenlicalisma.org/index.php?option=com_content&view=category&id=142:yangin-kulesi&Itemid=229)
 
 ### Kadın Hakları
@@ -205,12 +204,12 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
     - Çiçek Tahaoğlu
     - Burcu Karakaş
 - Kaynaklar
-    - http://www.anitsayac.com/
-    - https://twitter.com/search?q=%23sendeanlat&src=tyah
-    - https://bianet.org/konu/cetele
-    - http://www.cinsomedya.org/
-    - http://www.5harfliler.com/
-    - http://bianet.org/bianet/kadin
+    - [http://www.anitsayac.com](http://www.anitsayac.com)
+    - [Twitter'da #sendeanlat](https://twitter.com/search?q=%23sendeanlat&src=tyah)
+    - [https://bianet.org/konu/cetele](https://bianet.org/konu/cetele)
+    - [http://www.cinsomedya.org](http://www.cinsomedya.org)
+    - [http://www.5harfliler.com](http://www.5harfliler.com)
+    - [http://bianet.org/bianet/kadin](http://bianet.org/bianet/kadin)
 
 ### LGBTİ Hakları
 - Mentörler
@@ -218,8 +217,8 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
     - Burcu Karakaş
 - Kaynaklar
     - [Türkiye'de LGBT hakları](https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_LGBT_haklar%C4%B1)
-    - http://www.lambdaistanbul.org
-    - http://bianet.org/bianet/lgbti
+    - [http://www.lambdaistanbul.org](http://www.lambdaistanbul.org)
+    - [http://bianet.org/bianet/lgbti](http://bianet.org/bianet/lgbti)
 
 ### Eğitim Reformu
 - Mentörler
@@ -232,8 +231,8 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 - Mentörler
     - Özge Aktaş Mazman
 - Veri kaynakları
-    - http://gocmendayanisma.org
-    - http://www.multeci.net
+    - [http://gocmendayanisma.org](http://gocmendayanisma.org)
+    - [http://www.multeci.net](http://www.multeci.net)
     - [Avrupa ve Çevresi Göçmen Kampı Haritaları, 2005-2009, Migreurop](http://dugumkume.org/avrupa-ve-cevresi-gocmen-kampi-haritalari-2005-2009-migreurop/)
     - [Migreurop Network](http://www.migreurop.org/article643.html?lang=en)
 
@@ -241,11 +240,11 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 - Mentörler
     - Kerem Çiftçioğlu
 - Veri kaynakları
-    - http://www.askerhaklari.com
-    - http://www.zorlakaybetmeler.org
-    - http://hakikatadalethafiza.org
-    - http://bianet.org/bianet/militarizm
-    - [Vicdani Ret Derneği](http://vicdaniret.org/)
+    - [http://www.askerhaklari.com](http://www.askerhaklari.com)
+    - [http://www.zorlakaybetmeler.org](http://www.zorlakaybetmeler.org)
+    - [http://hakikatadalethafiza.org](http://hakikatadalethafiza.org)
+    - [http://bianet.org/bianet/militarizm](http://bianet.org/bianet/militarizm)
+    - [Vicdani Ret Derneği](http://vicdaniret.org)
 
 ### Engelli Hakları
 - Kaynaklar
@@ -254,15 +253,15 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 
 ### Genel
 -  Veri Kaynakları
-    - https://tr.wikipedia.org/
-    - https://www.wikidata.org
-    - http://www.tuik.gov.tr/
+    - [https://tr.wikipedia.org](https://tr.wikipedia.org)
+    - [https://www.wikidata.org](https://www.wikidata.org)
+    - [http://www.tuik.gov.tr](http://www.tuik.gov.tr)
     - [Google APIs](https://code.google.com/apis/console)
-    - http://www.nytimes.com/pages/topics/
-    - https://sunlightfoundation.com/api/
+    - [http://www.nytimes.com/pages/topics](http://www.nytimes.com/pages/topics)
+    - [https://sunlightfoundation.com/api](https://sunlightfoundation.com/api)
     - [Avrupa İnsan Hakları Mahkemesi Veritabanı](http://hudoc.echr.coe.int/)
-    - http://data.worldbank.org
-    - http://bbcnewslabs.co.uk/projects/
+    - [http://data.worldbank.org](http://data.worldbank.org)
+    - [http://bbcnewslabs.co.uk/projects](http://bbcnewslabs.co.uk/projects)
 
 <a name="yayin-platformlari"></a>
 
@@ -289,9 +288,9 @@ Hackathon'da geliştirilecek tüm araçlar geliştiren kişilere aittir ve özg�
 ## Hackathon İletişim
 <p/>
 #### Katılımcılar için koordinasyon
-- https://github.com/graphcommons/hackathons
-- https://graphcommons.com
+- [https://github.com/graphcommons/hackathons](https://github.com/graphcommons/hackathons)
+- [https://graphcommons.com](https://graphcommons.com)
 - Graph Commons Slack grubu
 
 #### Genel iletişim
-- https://graphcommons.com/contact
+- [https://graphcommons.com/contact](https://graphcommons.com/contact)
