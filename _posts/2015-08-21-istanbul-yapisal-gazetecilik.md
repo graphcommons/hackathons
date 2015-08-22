@@ -9,7 +9,7 @@ description: 12-13 Eylül 2015'de, TMMOB Mimarlar Odası'nda Yapısal Gazetecili
 place: TMMOB Mimarlar Odası, Karaköy, İstanbul
 ---
 
-## Ağlarımızı örüyoruz!
+# Ağlarımızı örüyoruz!
 
 **Hackathon 12-13 Eylül 2015, haftasonu iki tam gün.**
 <br>
@@ -23,6 +23,8 @@ place: TMMOB Mimarlar Odası, Karaköy, İstanbul
 Gazetecilikte haberler ya da sivil toplum çalışmalarında raporlar ve basın bildirileri genellikle düz yazı olarak üretilyor, ve yayınlandıktan kısa bir süre sonra değerleri oldukça azalabiliyor, tekrar tekrar kullanımı ise mümkün olamıyor.
 
 Halbuki yazılanların içinde gömülü çok detaylı ve değerli bilgiler mevcut. Bu gömülü bilgiler yapısallaştırılarak yeniden kullanılabilen veri parçacıklarına dönüştürülebilir. Böylece bilgiler hem farklı bağlamlarla yeniden ilişkilendirilebilir, hem de daha sonra bu verilerle karşılaşanlar için birer referans kaynağı oluşturur. Bu şekilde bir üretim yapmanın bir yolu ise “ilişki haritalama” ya da "ağ haritalama" pratiğinden geçmekte.
+
+"Ağ haritalama" karmaşık sistemleri anlamlandırabilmek için bize hem matematiksel hem görsel bir dil sağlar. Aktörler nokta olarak ve aralarındaki ilişkiler çizgi olarak belirtildiğinde, görsel okunabilecek diyagramlar ortaya çıkar. Diyagramlar bilgisayar ortamında modellenerek üzerine işlem yapılabililir. Dolayısıyla yüksek miktarda ilişkiden oluşan karmaşık ağlar veri tabanı haline sokulabilir ve hakkında algoritmik çıkarsamalar yapılabilir.
 
 "Yapısal gazetecilik" ile veri gazeteciliği birbirine yakın gözükse de temelden farklı pratikler. Veri gazeteciliği derlenmiş verilerden analiz ve görselleştirme ile anlam ve haber çıkarmayı amaçlarken, yapısal gazetecilik düz yazıyı ya da araştırma sonuçlarını bir veri yapısına sokarak yeniden kullanım sağlamayı amaçlar.
 
