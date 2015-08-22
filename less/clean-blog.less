@@ -26,7 +26,7 @@ h4,
 h5,
 h6 {
 	.sans-serif;
-	font-weight: 800;
+	font-weight: 700;
 }
 
 a {
@@ -67,14 +67,14 @@ hr.small {
 	z-index: 3;
 	.sans-serif;
 	.navbar-brand {
-		font-weight: 800;
+		font-weight: 700;
 	}
 	.nav {
 		li {
 			a {
 				text-transform: uppercase;
 				font-size: 12px;
-				font-weight: 800;
+				font-weight: 700;
 				letter-spacing: 1px;
 			}
 		}
@@ -178,6 +178,7 @@ hr.small {
 		h1 {
 			margin-top: 0;
 			font-size: 50px;
+			letter-spacing: -1px;
 		}
 		.subheading {
 			font-size: 24px;
@@ -196,6 +197,7 @@ hr.small {
 	.post-heading {
 		h1 {
 			font-size: 35px;
+			letter-spacing: -1px;
 		}
 		.subheading,
 		.meta {
@@ -369,18 +371,14 @@ form .row:first-child .floating-label-form-group {
 
 .btn {
 	.sans-serif;
+	.border-radius;
 	text-transform: uppercase;
 	font-size: 14px;
-	font-weight: 800;
+	font-weight: 700;
 	letter-spacing: 1px;
-	border-radius: 0;
 	padding: 15px 25px;
 	text-decoration: none;
-}
-
-.btn-lg {
-	font-size: 16px;
-	padding: 25px 35px;
+	margin-bottom: 5px;
 }
 
 .btn-default {
@@ -389,6 +387,19 @@ form .row:first-child .floating-label-form-group {
 		background-color: @brand-primary;
 		border: 1px solid @brand-primary;
 		color: white;
+	}
+}
+
+.btn-lg {
+	font-size: 16px;
+	padding: 25px 35px;
+	background-color: @brand-primary;
+	color: #FFFFFF;
+	border-color: @brand-primary;
+	&:hover,
+	&:focus {
+		border-color: @brand-primary-dark;
+		background-color: @brand-primary-dark;
 	}
 }
 
@@ -404,7 +415,7 @@ form .row:first-child .floating-label-form-group {
 			.sans-serif;
 			text-transform: uppercase;
 			font-size: 14px;
-			font-weight: 800;
+			font-weight: 700;
 			letter-spacing: 1px;
 			padding: 10px 5px;
 			background-color: white;

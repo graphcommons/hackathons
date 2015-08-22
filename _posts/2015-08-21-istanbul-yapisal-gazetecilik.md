@@ -28,7 +28,7 @@ Halbuki yazılanların içinde gömülü çok detaylı ve değerli bilgiler mevc
 
 *Yapısal Gazetecilik ve Ağ Haritalama Hackathonu* gazetecilik ve sivil toplum alanında kritik konulara dair verilerin modellenmesini ve bilgisayar programları ile türlü kaynaklardan yığın veri halinde derlenerek ilişki haritalarının çıkarılmasını amaçlamaktadır. "Eli kod tutan" kişilerden oluşacak katılımcılar bir yanda ağ haritalama ve analizi konusunda bilgi ve becerilerini geliştirirken diğer yanda alanında uzman mentörlerin desteğiyle tekrar tekrar kullanılabilir araçlar üretecekler.
 
-Çalışma üç aşamada gerçekleşecek:
+Çalışma dört aşamada gerçekleşecek:
 
 <img style="float:right; width:300px" src="http://blog.graphcommons.com/wp-content/uploads/2014/12/graphcommons-collaborative-mapping.png">
 
@@ -48,6 +48,12 @@ Geliştirilen modellere göre programatik olarak veri derleyen araçlar gelişti
 
 *Veri derleme araçları* ile oluşturulan veriler **[Graph Commons](https://graphcommons.com)** platformuna aktarılarak interaktif ağ haritaları yaratılacak. Yapılan haritalar okumaya ve analize tabi tutulacak, tartışılacak ve platform üzerinde yayınlanacak.
 
+<img style="float:right; width:300px;" src="/img/graphcommons-cartography-presentation.png">
+
+#### 4. Sunumlar
+
+Yapılan çalışmalar ikinci gününde herkese açık sunumda gösterilecek ve tartışılacak.
+
 <br>
 <a name="katilim"></a>
 
@@ -58,16 +64,17 @@ Geliştirilen modellere göre programatik olarak veri derleyen araçlar gelişti
 Bilgisayar programlayabilen (backend, frontend, veri analiz, ya da başka türlerde), yetenekleriyle yaratıcı ve eleştirel uygulamalar geliştirmek isteyenler, ve özellikle hak odaklı gazetecilik ve sivil toplum alanına ilgi gösterenler.
 
 #### Katılımcılar nasıl faydalanacak?
-
+<p/>
 - Yığın veri ("big data") ile çalışma becerilerini geliştirme,
 - Ağ haritalama, okuma, ve analizini öğrenme,
 - Bilgi mimarisi ve ilişkisel düşünme yeteneklerini iyileştirme,
 - Programlama yeteneklerini sivil toplum alanında etkin kullanma,
 - Bu konularla ilgilenen diğer programcılarla ve mentörlerle tanışma imkanı.
+<p/>
 
-#### Katılım başvuru formu
+#### Katılım başvurusu
 
-Katılım ücretsizdir. Yer sınırımız olduğundan formu doldurduktan sonra katılımınız hakkında bilgi verilecek.
+Katılım ücretsizdir. Yer sınırımız olduğundan, başvuru formunu doldurup gönderdikten sonra katılımınız hakkında sizle iletişime geçilerek bilgi verilecek.
 
 <a class="btn btn-default btn-lg" href="https://docs.google.com/forms/d/1hs11dAkdyhzZny5y8R1XV8ou5YvfEtai0USCXBjDGV8/viewform">
 Katılım Başvuru Formu
@@ -271,7 +278,7 @@ Yaygın kullanılan yayın platformlarında oluşturulan içerikleri haritaland�
 <a name="iletisim"></a>
 
 ## Hackathon İletişim
-
+<p/>
 #### Katılımcılar için koordinasyon
 - https://github.com/graphcommons/hackathons
 - https://graphcommons.com
