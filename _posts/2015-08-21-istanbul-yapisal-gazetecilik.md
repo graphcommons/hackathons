@@ -15,10 +15,7 @@ place: TMMOB Mimarlar Odası, Karaköy, İstanbul
 <br>
 **TMMOB Mimarlar Odası, Karaköy, İstanbul**
 
-- [Katılım](#katilim)
-- [Program](#program)
-- [Konular, Mentörler, Kaynaklar](#konular-mentorler-kaynaklar)
-- [İletişim](#iletisim)
+[Katılım](#katilim) - [Program](#program) - [Konular, Mentörler, Kaynaklar](#konular-mentorler-kaynaklar) - [İletişim](#iletisim)
 
 Gazetecilikte haberler ya da sivil toplum çalışmalarında raporlar ve basın bildirileri genellikle düz yazı olarak üretilyor, ve yayınlandıktan kısa bir süre sonra değerleri oldukça azalabiliyor, tekrar tekrar kullanımı ise mümkün olamıyor.
 
@@ -40,7 +37,7 @@ Mentörlerin alanlarındaki uzmanlıkları ile katılımcıların teknik bilgile
 
 #### 2. Araç Geliştirme
 
-Geliştirilen modellere göre programatik olarak veri derleyen araçlar geliştirilecek. Katılımcılar ilgilerine göre ya **[yayın platformları](https://github.com/graphcommons/hackathons/wiki/Yap%C4%B1sal-Gazetecilik-ve-A%C4%9F-Haritalama-Hackathonu#yay%C4%B1n-platformlar%C4%B1ndan-veri-%C3%A7%C4%B1karma)** ya da **[veri kaynakları](https://github.com/graphcommons/hackathons/wiki/Yap%C4%B1sal-Gazetecilik-ve-A%C4%9F-Haritalama-Hackathonu#muhtemel-alanlar-ment%C3%B6rler-veri-kaynaklar%C4%B1)** üzerinden veri çıkartan araçlar üretecekler. Araçların ilk prototipleri aynı gün içerisinde çalışır hale gelecek ve ikinci gün iyileştirilecek. Ayrıca sonraki beta versiyonu neler içermeli, daha gelişkin versiyonlarda neler yapılabilir tartışılacak.
+Geliştirilen modellere göre programatik olarak veri derleyen araçlar geliştirilecek. Katılımcılar ilgilerine göre ya **[yayın platformları](#yayin-platformlari)** ya da **[veri kaynakları](#konular-mentorler-kaynaklar)** üzerinden veri çıkartan araçlar üretecekler. Araçların ilk prototipleri aynı gün içerisinde çalışır hale gelecek ve ikinci gün iyileştirilecek. Ayrıca sonraki beta versiyonu neler içermeli, daha gelişkin versiyonlarda neler yapılabilir tartışılacak.
 
 <img style="float:right; width: 300px" src="http://blog.graphcommons.com/wp-content/uploads/2015/08/graphcommons-mapping-analysis.png">
 
@@ -67,7 +64,9 @@ Bilgisayar programlaması yapabilen (backend, frontend, veri analiz, ya da başk
 
 Katılım ücretsizdir. Yer sınırımız olduğundan formu doldurduktan sonra katılımınız hakkında bilgi verilecek.
 
-##### [Katılım Başvuru Formu](https://docs.google.com/forms/d/1hs11dAkdyhzZny5y8R1XV8ou5YvfEtai0USCXBjDGV8/viewform)
+<a class="btn btn-default btn-lg" href="https://docs.google.com/forms/d/1hs11dAkdyhzZny5y8R1XV8ou5YvfEtai0USCXBjDGV8/viewform">
+Katılım Başvuru Formu
+</a>
 
 <a name="program"></a>
 
