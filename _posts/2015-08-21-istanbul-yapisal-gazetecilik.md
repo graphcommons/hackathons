@@ -90,6 +90,7 @@ Katılım Başvuru Formu
 09:30 - 10:00 Kayıt & kahve
 
 10:00 - 10:45 Giriş
+<p/>
 - Yapısal gazetecilik nedir? (10dk)
 - Ağ haritalama nedir, nasıl yapılır? (15dk)
 - Ağ haritaları nasıl okunur? (10dk)
@@ -100,9 +101,10 @@ Katılım Başvuru Formu
 12:00 - 13:00 Yemek arası
 
 13:30 - 19:00 Çalışma
+<p/>
 - Mentörlerle ağ modelleme beyin fırtınası (1 saat)
 - Araç geliştirme (4 saat)
-
+<p/>
 #### İkinci Gün
 
 09:30 - 10:00 Kahve
