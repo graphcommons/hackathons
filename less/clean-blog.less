@@ -201,7 +201,7 @@ hr.small {
 		}
 		.subheading,
 		.meta {
-			line-height: 1.1;
+			line-height: 1.5;
 			display: block;
 		}
 		.subheading {
@@ -211,10 +211,10 @@ hr.small {
 			font-weight: 600;
 		}
 		.meta {
-			.serif;
-			font-style: italic;
-			font-weight: 300;
-			font-size: 20px;
+			.sans-serif;
+			// font-style: italic;
+			font-weight: 400;
+			font-size: 22px;
 			a {
 				color: white;
 			}
@@ -229,6 +229,7 @@ hr.small {
 		}
 	}
 }
+
 
 // Post Preview Pages
 
@@ -403,6 +404,12 @@ form .row:first-child .floating-label-form-group {
 		border-color: @brand-primary-dark;
 		background-color: @brand-primary-dark;
 	}
+}
+
+.btn-outline {
+	background: none;
+	color: rgba(255,255,255,0.75);
+	margin-top: 25px;
 }
 
 // Pager Styling
