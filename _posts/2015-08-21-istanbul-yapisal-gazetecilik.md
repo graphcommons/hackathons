@@ -5,7 +5,7 @@ subtitle:   ""
 scheduled_date:       12-13 Eylül 2015
 author:     "Start Bootstrap"
 header-img: "img/CivilSociety-NGO-STK-Network-Mapping-Workshop-istanbul.jpeg"
-description: 12-13 Eylül 2015'de, TMMOB Mimarlar Odası'nda Yapısal Gazetecilik ve Ağ Haritalama Hackathonu.
+description: 12-13 Eylül 2015, TMMOB Mimarlar Odası, Karaköy, İstanbul
 place: TMMOB Mimarlar Odası, Karaköy, İstanbul
 ---
 
