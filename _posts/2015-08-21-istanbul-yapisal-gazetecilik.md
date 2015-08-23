@@ -24,7 +24,7 @@ Gazetecilikte haberler ya da sivil toplum çalışmalarında raporlar ve basın 
 
 Halbuki yazılanların içinde gömülü çok detaylı ve değerli bilgiler mevcut. Bu gömülü bilgiler yapısallaştırılarak yeniden kullanılabilen veri parçacıklarına dönüştürülebilir. Böylece bilgiler hem farklı bağlamlarla yeniden ilişkilendirilebilir, hem de daha sonra bu verilerle karşılaşanlar için birer referans kaynağı oluşturur. Dolayısıyla yayınlanan malzemeler hem editörlerin kendi üretimi için hem de okuyuclar için çok daha uzun süre kullanımda kalarak değerine değer katar. Bu şekilde bir üretim yapmanın bir yolu ise “ilişki haritalama” ya da "ağ haritalama" pratiğinden geçmekte.
 
-"Ağ haritalama" karmaşık sistemleri anlamlandırabilmek için bize hem görsel hem matematiksel bir dil sağlar. Aktörler nokta olarak ve aralarındaki ilişkiler çizgi olarak belirtilerek diyagramlar oluşturulur. Bu diyagramlar bilgisayarda modellenerek üzerinde işlem yapılabilir hale gelir ve veriye gömülü olan merkezi aktörler, kümeler, köprüler, dolaylı ilişkiler kolayca keşfedilir. Sonuçta yüksek miktarda ilişkiden oluşan karmaşık ağlar veri tabanı haline sokulabilir ve hakkında algoritmik çıkarsamalar yapılabilir.
+"Ağ haritalama" karmaşık sistemleri anlamlandırabilmek için bize hem görsel hem matematiksel bir dil sağlar. Haberlerin ya da raporların içinde yer alan pek çok aktör ve ilişkiyi noktalar ve aralarında çizgiler olarak belirterek diyagramlarını oluşturabiliriz. Bu diyagramlar bilgisayarda modellenerek üzerinde işlem yapılabilir hale gelir, dolayısıyla veriye gömülü olan merkezi aktörler, kümeler, köprüler, dolaylı ilişkiler kolayca keşfedilir. Sonuçta, oluşturulan ağ veri tabanı ve analiz sonuçları içinde daimi olarak arama, dolaşma, karşılaştırma yapılarak ihtiyaca göre tekrar tekrar kullanılabilir.
 
 "Yapısal gazetecilik" ile veri gazeteciliği birbirine yakın gözükse de temelden farklı pratikler. Veri gazeteciliği derlenmiş verilerden analiz ve görselleştirme ile anlam ve haber çıkarmayı amaçlarken, yapısal gazetecilik düz yazıyı ya da araştırma sonuçlarını bir veri yapısına sokarak yeniden kullanım sağlamayı amaçlar.
 
@@ -78,9 +78,7 @@ Bilgisayar programlayabilen (backend, frontend, veri analiz, ya da başka türle
 
 Katılım ücretsizdir. Yer sınırımız olduğundan, başvuru formunu doldurup gönderdikten sonra katılımınız hakkında sizle iletişime geçilerek bilgi verilecek.
 
-<a class="btn btn-default btn-lg" href="https://docs.google.com/forms/d/1hs11dAkdyhzZny5y8R1XV8ou5YvfEtai0USCXBjDGV8/viewform">
-Katılım Başvuru Formu
-</a>
+<a class="btn btn-default btn-lg" href="https://docs.google.com/forms/d/1hs11dAkdyhzZny5y8R1XV8ou5YvfEtai0USCXBjDGV8/viewform">Katılım Başvuru Formu</a>
 
 <br>
 <a name="program"></a>
