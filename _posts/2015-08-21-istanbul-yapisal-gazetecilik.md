@@ -271,6 +271,7 @@ Yaygın kullanılan yayın platformlarında oluşturulan içerikleri haritaland�
 - [Wordpress Plugin Development](https://codex.wordpress.org/Writing_a_Plugin)
 - [Drupal API](https://www.drupal.org/developing/api)
 - [RSS Beslemeleri](https://en.wikipedia.org/wiki/RSS)
+- [Jekyll](http://jekyllrb.com/)
 - [Twitter API](https://dev.twitter.com/overview/documentation)
 - [Facebook Social Graph API](https://developers.facebook.com/docs/graph-api)
 
