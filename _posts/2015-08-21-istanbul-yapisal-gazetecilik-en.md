@@ -6,7 +6,7 @@ subtitle: ""
 scheduled_date: September 12-13, 2015
 author:     "Graph Commons"
 header-img: "img/CivilSociety-NGO-STK-Network-Mapping-Workshop-istanbul.jpeg"
-description: "12-13 Eylül 2015, TMMOB Mimarlar Odası, Karaköy, İstanbul"
+description: "September 12-13, 2015, TMMOB Chamber of Architects, Karaköy, Istanbul"
 place: "TMMOB Chamber of Architects, Karaköy, Istanbul"
 ---
 
@@ -15,7 +15,7 @@ place: "TMMOB Chamber of Architects, Karaköy, Istanbul"
 # We build our networks!
 
 **Hackathon September 12-13 2015 **<br>
-** TMMOB Chamber of Architects, Karaköy, Istanbul**
+**TMMOB Chamber of Architects, Karaköy, Istanbul**
 
 <a href="#katilim" class="btn btn-default">PARTICIPATE</a>
 <a href="#program" class="btn btn-default">PROGRAM</a>
@@ -26,7 +26,7 @@ News in journalism, and reports and press statements in NGO's are generally prod
 
 Yet, in these productions there are embedded detailed information and valuable knowledge.Embedded information can in fact be structured and fragmented into its meaningful pieces and can be reused. This way information can be used with different associations, and can be transformed into a constantly growing resource of references. This form of production does therefore requires a practice of relational or network mapping. 
 
-Network maps offer us a "common language", that is both visual and mathematical. We can use it to study systems that may differ in their nature, appearance, or scope. For example, the actors and relationships in a news article or a report could be mapped as a network diagram. Then such a diagram can be fed into a software which could make an analysis to reveal central actors, indirect connections, organic clusters and bridges that are otherwise hidden in the data. Thus, as we turn our network maps into a graph database, we can always query actors, browse their relations, make comparisons and discover interesting relations within our work. 
+Network maps offer us a "common language", that is both visual and mathematical. We can use it to study systems that may differ in their nature, appearance, or scope. For example, the actors and relationships in a news article or a report could be mapped as a network diagram. Then such a diagram can be fed into a software which could make an analysis to reveal central actors, indirect connections, organic clusters and bridges that are otherwise hidden in the data. Thus, as we turn our network maps into a graph database, we can always query actors, browse their relations, make comparisons and discover interesting relations within our work.
 
 Structured and data journalism, despite their likeness, are fundamentally different from one another. Data journalism aims to curate data via analysis and extract more meaning via visualization techniques, whereas structural journalism aims to transform the text into structured data and to reuse of the information generated for textual production.
 
