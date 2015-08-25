@@ -64,7 +64,7 @@ At the end of the second day, all participants' work will be presented and debat
 ## Participation
 <p/>
 
-The workshop language will be in Turkish, please go to the [Turkish Hackathon page](/hackathons/2015/08/21/istanbul-yapisal-gazetecilik) for qualifications, the application form, and other resources.
+The workshop will be in Turkish, please go to the [Turkish Hackathon page](/hackathons/2015/08/21/istanbul-yapisal-gazetecilik) for qualifications, the application form, and other resources.
 
 
 <br>
