@@ -20,7 +20,7 @@ place: TMMOB Mimarlar Odası, Karaköy, İstanbul
 <a href="#konular-mentorler-kaynaklar" class="btn btn-default">KONULAR, MENTÖRLER, KAYNAKLAR</a>
 <a href="#iletisim" class="btn btn-default">İLETİŞİM</a>
 
-Gazetecilikte haberler ya da sivil toplum çalışmalarında raporlar ve basın bildirileri genellikle düz yazı olarak üretilyor, ve yayınlandıktan kısa bir süre sonra değerleri oldukça azalabiliyor, tekrar tekrar kullanımı ise mümkün olamıyor.
+Gazetecilikte haberler ya da sivil toplum çalışmalarında raporlar ve basın bildirileri genellikle düz yazı olarak üretiliyor, ve yayınlandıktan kısa bir süre sonra değerleri oldukça azalabiliyor, tekrar tekrar kullanımı ise mümkün olamıyor.
 
 Halbuki yazılanların içinde gömülü çok detaylı ve değerli bilgiler mevcut. Bu gömülü bilgiler yapısallaştırılarak yeniden kullanılabilen veri parçacıklarına dönüştürülebilir. Böylece bilgiler hem farklı bağlamlarla yeniden ilişkilendirilebilir, hem de daha sonra bu verilerle karşılaşanlar için birer referans kaynağı oluşturur. Dolayısıyla yayınlanan malzemeler hem editörlerin kendi üretimi için hem de okuyuclar için çok daha uzun süre kullanımda kalarak değerine değer katar. Bu şekilde bir üretim yapmanın bir yolu ise “ilişki haritalama” ya da "ağ haritalama" pratiğinden geçmekte.
 
