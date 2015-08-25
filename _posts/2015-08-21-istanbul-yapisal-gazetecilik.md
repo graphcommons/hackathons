@@ -10,7 +10,7 @@ description: "12-13 Eylül 2015, TMMOB Mimarlar Odası, Karaköy, İstanbul"
 place: "TMMOB Mimarlar Odası, Karaköy, İstanbul"
 ---
 
-[English](/hackathons/2015/08/21/istanbul-yapisal-gazetecilik.en)
+[English](/hackathons/2015/08/21/istanbul-yapisal-gazetecilik-en)
 
 # Ağlarımızı örüyoruz!
 
