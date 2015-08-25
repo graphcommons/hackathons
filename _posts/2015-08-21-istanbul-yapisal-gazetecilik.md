@@ -251,7 +251,9 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
     - http://www.engelliler.biz
 
 ### Genel
--  Veri Kaynakları
+- Mentörler
+   - [Serdar Paktın](https://twitter.com/paktin)
+- Veri Kaynakları
     - [https://tr.wikipedia.org](https://tr.wikipedia.org)
     - [https://www.wikidata.org](https://www.wikidata.org)
     - [http://www.tuik.gov.tr](http://www.tuik.gov.tr)
