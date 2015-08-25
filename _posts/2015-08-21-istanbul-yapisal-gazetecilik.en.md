@@ -263,7 +263,7 @@ Please recommend data sources to **workshop@graphcommons.com**
 
 ### License
 
-All tools created in the workshop belongs to its createors and expected to be licensed under a free and open source license. The network maps or graphs created on Graph Commons belongs to its authors and licensed with [Creative Commons International 4.0](https://creativecommons.org/licenses/by/4.0/).
+All tools created in the workshop belongs to its creators and expected to be licensed under a [free and open source software license](http://choosealicense.com/). The network maps or graphs created on Graph Commons belongs to its authors and licensed with [Creative Commons International 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 <br>
 <a name="iletisim"></a>
