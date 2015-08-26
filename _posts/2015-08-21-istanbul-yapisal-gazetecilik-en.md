@@ -22,9 +22,9 @@ place: "TMMOB Chamber of Architects, Karaköy, Istanbul"
 <a href="#konular-mentorler-kaynaklar" class="btn btn-default">TOPICS, MENTORS, RESOURCES</a>
 <a href="#iletisim" class="btn btn-default">CONTACT</a>
 
-News in journalism, and reports and press statements in NGO's are generally produced as raw texts. A short while after the publication date, these texts lose their relevance and thus their significance. Reusing these texts, likewise is rarely the case.
+News articles, press statements and reports are usually produced as raw texts. A short while after the publication date, these texts lose their relevance and thus their significance. Reusing these texts, likewise is rarely the case.
 
-Yet, in these productions there are embedded detailed information and valuable knowledge.Embedded information can in fact be structured and fragmented into its meaningful pieces and can be reused. This way information can be used with different associations, and can be transformed into a constantly growing resource of references. This form of production does therefore requires a practice of relational or network mapping. 
+Yet, such texts contain highly valuable embedded information which, in fact, can be fragmented and structured into meaningful pieces of data and become reusable. Then, information can be used with variety of new contexts, and can be transformed into a constantly growing resource of references. One of the ways of working in this form, requires a practice of relational or network mapping. 
 
 Network maps offer us a "common language", that is both visual and mathematical. We can use it to study systems that may differ in their nature, appearance, or scope. For example, the actors and relationships in a news article or a report could be mapped as a network diagram. Then such a diagram can be fed into a software which could make an analysis to reveal central actors, indirect connections, organic clusters and bridges that are otherwise hidden in the data. Thus, as we turn our network maps into a graph database, we can always query actors, browse their relations, make comparisons and discover interesting relations within our work.
 
