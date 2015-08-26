@@ -232,9 +232,20 @@ Please recommend data sources to **workshop@graphcommons.com**
     - [http://bianet.org/bianet/militarizm](http://bianet.org/bianet/militarizm)
     - [Vicdani Ret Derneği](http://vicdaniret.org)
 
+### Sustainable Agriculture & Food
+- Mentörler
+    - [Defne Koryürek](https://twitter.com/dkoryurek)
+- Kaynaklar
+    - [Buğday Derneği](http://www.bugday.org)
+    - [Fikir Sahibi Damaklar](http://www.fikirsahibidamaklar.org/)
+    - [Gıda Güvenliği Hareketi](http://www.gidahareketi.org)
+    - http://www.tusedad.org
+    - http://www.gdoyahayir.net
+
 ### General
 - Mentors
    - [Serdar Paktın](https://twitter.com/paktin)
+   - [Gökhan Biçici](https://twitter.com/gokhanbicici)
 - Veri Kaynakları
     - [https://tr.wikipedia.org](https://tr.wikipedia.org)
     - [https://www.wikidata.org](https://www.wikidata.org)

@@ -249,6 +249,8 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
     - [Vicdani Ret Derneği](http://vicdaniret.org)
 
 ### Sürdürülebilir Tarım ve Gıda
+- Mentörler
+    - [Defne Koryürek](https://twitter.com/dkoryurek)
 - Kaynaklar
     - [Buğday Derneği](http://www.bugday.org)
     - [Fikir Sahibi Damaklar](http://www.fikirsahibidamaklar.org/)
@@ -264,6 +266,7 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 ### Genel
 - Mentörler
    - [Serdar Paktın](https://twitter.com/paktin)
+   - [Gökhan Biçici](https://twitter.com/gokhanbicici)
 - Veri Kaynakları
     - [https://tr.wikipedia.org](https://tr.wikipedia.org)
     - [https://www.wikidata.org](https://www.wikidata.org)
