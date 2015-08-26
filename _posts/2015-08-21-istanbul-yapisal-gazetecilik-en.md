@@ -24,15 +24,15 @@ place: "TMMOB Chamber of Architects, Karaköy, Istanbul"
 
 News articles, press statements and reports are usually produced as raw texts. A short while after the publication date, these texts lose their relevance and thus their significance. Reusing these texts, likewise is rarely the case.
 
-Yet, such texts contain highly valuable embedded information which, in fact, can be fragmented and structured into meaningful pieces of data and become reusable. Then, information can be used with variety of new contexts, and can be transformed into a constantly growing resource of references. One of the ways of working in this form, requires a practice of relational or network mapping. 
+Yet, such texts contain highly valuable embedded information, which, in fact, can be fragmented and structured into meaningful pieces of data and become reusable. Then, information can be used with variety of new contexts, and can be transformed into a constantly growing resource of references. One of the ways of working in this form, requires a practice of relational or network mapping. 
 
 Network maps offer us a "common language", that is both visual and mathematical. We can use it to study systems that may differ in their nature, appearance, or scope. For example, the actors and relationships in a news article or a report could be mapped as a network diagram. Then such a diagram can be fed into a software which could make an analysis to reveal central actors, indirect connections, organic clusters and bridges that are otherwise hidden in the data. Thus, as we turn our network maps into a graph database, we can always query actors, browse their relations, make comparisons and discover interesting relations within our work.
 
-Structured and data journalism, despite their likeness, are fundamentally different from one another. Data journalism aims to curate data via analysis and extract more meaning via visualization techniques, whereas structural journalism aims to transform the text into structured data and to reuse of the information generated for textual production.
+*<a href="https://structureofnews.wordpress.com/structured-journalism/" target="_blank">Structured journalism</a>* and *data journalism*, despite their likeness, are fundamentally different from one another. Data journalism aims to create stories from data via visualization techniques, whereas structured journalism aims to transform the plain text into structured data in order to make it reusable.
 
-Structural journalism and network mapping hackathon likewise aims to model data on critical topics in the field of journalism and non governmental organisations and compile data from available big data hubs, run these data via software and generate network maps. Code savy participants will work in the guidance of mentors, improve their understanding of complex networks and network analysis as well as will produce tools that can be utilized by many.
+*Structural Journalism and Network Mapping Hackathon* likewise aims to model semantic networks on topics in the field of journalism and civil society, compile relatively big data from available sources into graph databases, and generate network maps. Code savvy participants will work in the guidance of mentors for modeling, and they will improve their understanding of complex networks and network analysis as well as develop tools that can be utilized by everybody.
 
-Workshop will consist of four parts.
+The hackathon has four parts:
 
 <img style="float:right; width:300px" src="http://blog.graphcommons.com/wp-content/uploads/2014/12/graphcommons-collaborative-mapping.png">
 
