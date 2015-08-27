@@ -115,7 +115,7 @@ Please recommend data sources to **workshop@graphcommons.com**
 
 ### Ecology and Right to the City
 - Mentors
-    - [Elif İnce](https://twitter.com/elifince), Gazeteci
+    - [Elif İnce](https://twitter.com/elifince), Gazeteci, Ekoloji Kolektifi
     - [Yaşar Adanalı](https://twitter.com/ysrdnl), Mutlu Kent
 - Data Sources
     - [İMECE](http://www.toplumunsehircilikhareketi.org)

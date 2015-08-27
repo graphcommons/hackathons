@@ -131,7 +131,7 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 
 ### Ekoloji ve Kent Hakkı
 - Mentörler
-    - [Elif İnce](https://twitter.com/elifince), Gazeteci
+    - [Elif İnce](https://twitter.com/elifince), Gazeteci, Ekoloji Kolektifi
     - [Yaşar Adanalı](https://twitter.com/ysrdnl), Mutlu Kent
 - Kaynaklar
     - [İMECE](http://www.toplumunsehircilikhareketi.org)
