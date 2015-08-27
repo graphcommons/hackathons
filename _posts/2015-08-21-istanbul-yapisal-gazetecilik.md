@@ -259,7 +259,7 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 
 ### Genel
 - Mentörler
-   - [Serdar Paktın](https://twitter.com/paktin), Pakt Semiyotik | Strateji
+   - [Serdar Paktın](https://twitter.com/paktin), pakt semiyotik | strateji
    - [Gökhan Biçici](https://twitter.com/gokhanbicici), TAREM, dokuz8Haber
 - Veri Kaynakları
     - [https://tr.wikipedia.org](https://tr.wikipedia.org)
