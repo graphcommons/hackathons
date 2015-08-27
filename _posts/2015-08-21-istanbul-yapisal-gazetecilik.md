@@ -226,7 +226,7 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
     - [Batuhan Aydagül](http://batuhanaydagul.org/), Eğitim Reformu Girişimi
 - Kaynaklar
     - [Eğitim Reformu Girişimi](http://erg.sabanciuniv.edu/en)
-    - [Yüksek Eğitim Endüstriyel Kompleksi](burak-arikan.com/ozeluniversiteler)
+    - [Yüksek Eğitim Endüstriyel Kompleksi](http://burak-arikan.com/ozeluniversiteler)
 
 ### Göçmen Hakları
 - Mentörler
