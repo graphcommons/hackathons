@@ -115,8 +115,8 @@ Please recommend data sources to **workshop@graphcommons.com**
 
 ### Ecology and Right to the City
 - Mentors
-    - [Elif İnce](https://twitter.com/elifince)
-    - [Yaşar Adanalı](https://twitter.com/ysrdnl)
+    - [Elif İnce](https://twitter.com/elifince), Gazeteci
+    - [Yaşar Adanalı](https://twitter.com/ysrdnl), Mutlu Kent
 - Data Sources
     - [İMECE](http://www.toplumunsehircilikhareketi.org)
     - [http://www.ekolojikolektifi.org](http://www.ekolojikolektifi.org)
@@ -130,9 +130,9 @@ Please recommend data sources to **workshop@graphcommons.com**
 
 ### Internet Freedom
 - Mentors
-    - [Aslı Telli Aydemir](https://www.sehir.edu.tr/Pages/Akademik/AkademikKadro.aspx?akademid=64)
-    - [Işık Mater](https://twitter.com/isik5)
-    - [Ahmet Sabancı](https://twitter.com/ahmetasabanci)
+    - [Aslı Telli Aydemir](https://twitter.com/aslitelli), Alternatif Bilişim Derneği, İstanbul Şehir Üniversitesi
+    - [Işık Mater](https://twitter.com/isik5), Alternatif Bilişim Derneği
+    - [Ahmet Sabancı](https://twitter.com/ahmetasabanci), Alternatif Bilişim Derneği, Jiyan
 - Data Sources
     - [https://alternatifbilisim.org](https://alternatifbilisim.org)
     - [Internet Ungovernance Forum](https://iuf.alternatifbilisim.org)
@@ -142,23 +142,23 @@ Please recommend data sources to **workshop@graphcommons.com**
 
 ### Open Government and Laws
 - Mentors
-    - [Özlem Zıngıl](https://twitter.com/ozlemzingil)
-    - [Esra Gürakar](http://www.iq.harvard.edu/people/esra-gurakar)
+    - [Özlem Zıngıl](https://twitter.com/ozlemzingil), Şeffaflık Derneği
+    - [Esra Gürakar](https://twitter.com/esra_gurakar), Okan Üniversitesi
 - Data Sources
     - [https://tbmm.gov.tr](https://tbmm.gov.tr)
     - [TBMM Soru Önergeleri Sorgulama](https://www.tbmm.gov.tr/develop/owa/yazili_sozlu_soru_sd.sorgu_baslangic)
 
 ### Regional Public Policies and Investments
 - Mentors
-    - Emel Kurma
+    - [Emel Kurma](https://twitter.com/emelkurma), Helsinki Yurttaşlar Derneği
 - Data Sources
     - [http://yereldemokrasi.net](http://yereldemokrasi.net)
 
 ### Monopoly, Corruption, Transparency
 - Mentors
-    - [Mustafa Sönmez](http://mustafasonmez.net/)
-    - [Esra Gürakar](http://www.iq.harvard.edu/people/esra-gurakar)
-    - [Özlem Zıngıl](https://twitter.com/ozlemzingil)
+    - [Mustafa Sönmez](https://twitter.com/mustfsnmz), Birgün
+    - [Esra Gürakar](https://twitter.com/esra_gurakar), Okan Üniversitesi
+    - [Özlem Zıngıl](https://twitter.com/ozlemzingil), Şeffaflık Derneği
 - Data Sources
     - [Hazine Müsteşarlığı Merkezi Finans ve İhale](http://www.cfcu.gov.tr)
     - [Bilgi Edinme Hakkı Kanunu](https://tr.wikipedia.org/wiki/Bilgi_Edinme_Hakk%C4%B1_Kanunu)
@@ -166,8 +166,8 @@ Please recommend data sources to **workshop@graphcommons.com**
 
 ### Media Ownership
 - Mentors
-    - [Ceren Sözeri](https://twitter.com/cerensozeri)
-    - [Murat İnceoglu](https://twitter.com/muratinceoglu)
+    - [Ceren Sözeri](https://twitter.com/cerensozeri), Galatasaray Üniversitesi
+    - [Murat İnceoglu](https://twitter.com/muratinceoglu), Gazeteci
 - Data Sources
     - [Türkiye Medya Sahipleri Ağı](https://graphcommons.com/graphs/09426282-c311-4b39-be2c-1bd4f93b5771)
     - [http://bianet.org/bianet/medya](http://bianet.org/bianet/medya) - [Türkiye’de medya sahipliği 2015](http://platform24.org/medya-izleme/813/-hukumeti-destekleyene-butun-kapilar-aciliyor)
@@ -178,16 +178,16 @@ Please recommend data sources to **workshop@graphcommons.com**
 
 ### Labor Crimes
 - Mentors
-    - [Aslı Odman](https://twitter.com/odmanasli)
+    - [Aslı Odman](https://twitter.com/odmanasli), Mimar Sinan Üniversitesi, İşçi Sağlığı ve İş Güvenliği Meclisi
 - Data Sources
     - [http://guvenlicalisma.org](http://guvenlicalisma.org)
     - [Yangın Kulesi](http://guvenlicalisma.org/index.php?option=com_content&view=category&id=142:yangin-kulesi&Itemid=229)
 
 ### Woman Rights
 - Mentors
-    - [İdil Elveriş](https://twitter.com/idilika)
-    - [Çiçek Tahaoğlu](http://bianet.org/yazar/cicek-tahaoglu)
-    - [Burcu Karakaş](https://twitter.com/burcuas)
+    - [İdil Elveriş](https://twitter.com/idilika), İstanbul Bilgi Üniversitesi
+    - [Çiçek Tahaoğlu](http://bianet.org/yazar/cicek-tahaoglu), Bianet
+    - [Burcu Karakaş](https://twitter.com/burcuas), Gazeteci
 - Data Sources
     - [http://www.anitsayac.com](http://www.anitsayac.com)
     - [Twitter'da #sendeanlat](https://twitter.com/search?q=%23sendeanlat&src=tyah)
@@ -198,8 +198,8 @@ Please recommend data sources to **workshop@graphcommons.com**
 
 ### LGBTI Rights
 - Mentors
-    - [Çiçek Tahaoğlu](http://bianet.org/yazar/cicek-tahaoglu)
-    - [Burcu Karakaş](https://twitter.com/burcuas)
+    - [Çiçek Tahaoğlu](http://bianet.org/yazar/cicek-tahaoglu), Bianet
+    - [Burcu Karakaş](https://twitter.com/burcuas), Gazeteci
 - Data Sources
     - [Türkiye'de LGBT hakları](https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_LGBT_haklar%C4%B1)
     - [http://www.lambdaistanbul.org](http://www.lambdaistanbul.org)
@@ -207,14 +207,14 @@ Please recommend data sources to **workshop@graphcommons.com**
 
 ### Education Reform
 - Mentors
-    - [Batuhan Aydagül](http://batuhanaydagul.org/)
+    - [Batuhan Aydagül](http://batuhanaydagul.org/), Eğitim Reformu Girişimi
 - Data Sources
     - [Eğitim Reformu Girişimi](http://erg.sabanciuniv.edu/en)
     - [Yüksek Eğitim Endüstriyel Kompleksi](burak-arikan.com/ozeluniversiteler)
 
 ### Immigrant Rights
 - Mentors
-    - [Özge Aktaş Mazman](http://www.tesev.org.tr/ozge-aktas-mazman/Content/1834.html)
+    - [Özge Aktaş Mazman](http://www.tesev.org.tr/ozge-aktas-mazman/Content/1834.html), TESEV
 - Data Source
     - [http://gocmendayanisma.org](http://gocmendayanisma.org)
     - [http://www.multeci.net](http://www.multeci.net)
@@ -223,7 +223,7 @@ Please recommend data sources to **workshop@graphcommons.com**
 
 ### Militarizm
 - Mentors
-    - [Kerem Çiftçioğlu](https://twitter.com/keyhude)
+    - [Kerem Çiftçioğlu](https://twitter.com/keyhude), Hakikat Adalet Hafıza
 - Data Source
     - [http://www.askerhaklari.com](http://www.askerhaklari.com)
     - [http://www.zorlakaybetmeler.org](http://www.zorlakaybetmeler.org)
@@ -233,7 +233,7 @@ Please recommend data sources to **workshop@graphcommons.com**
 
 ### Sustainable Agriculture & Food
 - Mentörler
-    - [Defne Koryürek](https://twitter.com/dkoryurek)
+    - [Defne Koryürek](https://twitter.com/dkoryurek), Fikir Sahibi Damaklar
 - Kaynaklar
     - [Buğday Derneği](http://www.bugday.org)
     - [Fikir Sahibi Damaklar](http://www.fikirsahibidamaklar.org/)
@@ -243,8 +243,8 @@ Please recommend data sources to **workshop@graphcommons.com**
 
 ### General
 - Mentors
-   - [Serdar Paktın](https://twitter.com/paktin)
-   - [Gökhan Biçici](https://twitter.com/gokhanbicici)
+   - [Serdar Paktın](https://twitter.com/paktin), Pakt Semiotics | Strategy
+   - [Gökhan Biçici](https://twitter.com/gokhanbicici), TAREM, dokuz8Haber
 - Veri Kaynakları
     - [https://tr.wikipedia.org](https://tr.wikipedia.org)
     - [https://www.wikidata.org](https://www.wikidata.org)

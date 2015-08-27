@@ -131,8 +131,8 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 
 ### Ekoloji ve Kent Hakkı
 - Mentörler
-    - [Elif İnce](https://twitter.com/elifince)
-    - [Yaşar Adanalı](https://twitter.com/ysrdnl)
+    - [Elif İnce](https://twitter.com/elifince), Gazeteci
+    - [Yaşar Adanalı](https://twitter.com/ysrdnl), Mutlu Kent
 - Kaynaklar
     - [İMECE](http://www.toplumunsehircilikhareketi.org)
     - [http://www.ekolojikolektifi.org](http://www.ekolojikolektifi.org)
@@ -146,9 +146,9 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 
 ### İnternet ve İfade Özgürlüğü
 - Mentörler
-    - [Aslı Telli Aydemir](https://www.sehir.edu.tr/Pages/Akademik/AkademikKadro.aspx?akademid=64)
-    - [Işık Mater](https://twitter.com/isik5)
-    - [Ahmet Sabancı](https://twitter.com/ahmetasabanci)
+    - [Aslı Telli Aydemir](https://twitter.com/aslitelli), Alternatif Bilişim Derneği, İstanbul Şehir Üniversitesi
+    - [Işık Mater](https://twitter.com/isik5), Alternatif Bilişim Derneği
+    - [Ahmet Sabancı](https://twitter.com/ahmetasabanci), Alternatif Bilişim Derneği, Jiyan
 - Kaynaklar
     - [https://alternatifbilisim.org](https://alternatifbilisim.org)
     - [Internet Ungovernance Forum](https://iuf.alternatifbilisim.org)
@@ -158,23 +158,23 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 
 ### Meclis ve Kanunlar
 - Mentörler
-    - [Özlem Zıngıl](https://twitter.com/ozlemzingil)
-    - [Esra Gürakar](http://www.iq.harvard.edu/people/esra-gurakar)
+    - [Özlem Zıngıl](https://twitter.com/ozlemzingil), Şeffaflık Derneği
+    - [Esra Gürakar](https://twitter.com/esra_gurakar), Okan Üniversitesi
 - Kaynaklar
     - [https://tbmm.gov.tr](https://tbmm.gov.tr)
     - [TBMM Soru Önergeleri Sorgulama](https://www.tbmm.gov.tr/develop/owa/yazili_sozlu_soru_sd.sorgu_baslangic)
 
 ### Bölgesel Kamu Politikaları ve Yatırımları
 - Mentörler
-    - Emel Kurma
+    - [Emel Kurma](https://twitter.com/emelkurma), Helsinki Yurttaşlar Derneği
 - Kaynaklar
     - [http://yereldemokrasi.net](http://yereldemokrasi.net)
 
 ### Tekelcilik, Yolsuzluk, Şeffaflık
 - Mentörler
-    - [Mustafa Sönmez](http://mustafasonmez.net/)
-    - [Esra Gürakar](http://www.iq.harvard.edu/people/esra-gurakar)
-    - [Özlem Zıngıl](https://twitter.com/ozlemzingil)
+    - [Mustafa Sönmez](https://twitter.com/mustfsnmz), Birgün
+    - [Esra Gürakar](https://twitter.com/esra_gurakar), Okan Üniversitesi
+    - [Özlem Zıngıl](https://twitter.com/ozlemzingil), Şeffaflık Derneği
 - Kaynaklar
     - [Hazine Müsteşarlığı Merkezi Finans ve İhale](http://www.cfcu.gov.tr)
     - [Bilgi Edinme Hakkı Kanunu](https://tr.wikipedia.org/wiki/Bilgi_Edinme_Hakk%C4%B1_Kanunu)
@@ -182,8 +182,8 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 
 ### Medya Sahipliği
 - Mentörler
-    - [Ceren Sözeri](https://twitter.com/cerensozeri)
-    - [Murat İnceoglu](https://twitter.com/muratinceoglu)
+    - [Ceren Sözeri](https://twitter.com/cerensozeri), Galatasaray Üniversitesi
+    - [Murat İnceoglu](https://twitter.com/muratinceoglu), Gazeteci
 - Kaynaklar
     - [Türkiye Medya Sahipleri Ağı](https://graphcommons.com/graphs/09426282-c311-4b39-be2c-1bd4f93b5771)
     - [http://bianet.org/bianet/medya](http://bianet.org/bianet/medya) - [Türkiye’de medya sahipliği 2015](http://platform24.org/medya-izleme/813/-hukumeti-destekleyene-butun-kapilar-aciliyor)
@@ -194,16 +194,16 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 
 ### İş Cinayetleri
 - Mentörler
-    - [Aslı Odman](https://twitter.com/odmanasli)
+    - [Aslı Odman](https://twitter.com/odmanasli), Mimar Sinan Üniversitesi, İşçi Sağlığı ve İş Güvenliği Meclisi
 - Kaynaklar
     - [http://guvenlicalisma.org](http://guvenlicalisma.org)
     - [Yangın Kulesi](http://guvenlicalisma.org/index.php?option=com_content&view=category&id=142:yangin-kulesi&Itemid=229)
 
 ### Kadın Hakları
 - Mentörler
-    - [İdil Elveriş](https://twitter.com/idilika)
-    - [Çiçek Tahaoğlu](http://bianet.org/yazar/cicek-tahaoglu)
-    - [Burcu Karakaş](https://twitter.com/burcuas)
+    - [İdil Elveriş](https://twitter.com/idilika), İstanbul Bilgi Üniversitesi
+    - [Çiçek Tahaoğlu](http://bianet.org/yazar/cicek-tahaoglu), Bianet
+    - [Burcu Karakaş](https://twitter.com/burcuas), Gazeteci
 - Kaynaklar
     - [http://www.anitsayac.com](http://www.anitsayac.com)
     - [Twitter'da #sendeanlat](https://twitter.com/search?q=%23sendeanlat&src=tyah)
@@ -214,8 +214,8 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 
 ### LGBTİ Hakları
 - Mentörler
-    - [Çiçek Tahaoğlu](http://bianet.org/yazar/cicek-tahaoglu)
-    - [Burcu Karakaş](https://twitter.com/burcuas)
+    - [Çiçek Tahaoğlu](http://bianet.org/yazar/cicek-tahaoglu), Bianet
+    - [Burcu Karakaş](https://twitter.com/burcuas), Gazeteci
 - Kaynaklar
     - [Türkiye'de LGBT hakları](https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_LGBT_haklar%C4%B1)
     - [http://www.lambdaistanbul.org](http://www.lambdaistanbul.org)
@@ -223,14 +223,14 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 
 ### Eğitim Reformu
 - Mentörler
-    - [Batuhan Aydagül](http://batuhanaydagul.org/)
+    - [Batuhan Aydagül](http://batuhanaydagul.org/), Eğitim Reformu Girişimi
 - Kaynaklar
     - [Eğitim Reformu Girişimi](http://erg.sabanciuniv.edu/en)
     - [Yüksek Eğitim Endüstriyel Kompleksi](burak-arikan.com/ozeluniversiteler)
 
 ### Göçmen Hakları
 - Mentörler
-    - [Özge Aktaş Mazman](http://www.tesev.org.tr/ozge-aktas-mazman/Content/1834.html)
+    - [Özge Aktaş Mazman](http://www.tesev.org.tr/ozge-aktas-mazman/Content/1834.html), TESEV
 - Veri kaynakları
     - [http://gocmendayanisma.org](http://gocmendayanisma.org)
     - [http://www.multeci.net](http://www.multeci.net)
@@ -239,7 +239,7 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 
 ### Militarizm
 - Mentörler
-    - [Kerem Çiftçioğlu](https://twitter.com/keyhude)
+    - [Kerem Çiftçioğlu](https://twitter.com/keyhude), Hakikat Adalet Hafıza Merkezi
 - Veri kaynakları
     - [http://www.askerhaklari.com](http://www.askerhaklari.com)
     - [http://www.zorlakaybetmeler.org](http://www.zorlakaybetmeler.org)
@@ -249,7 +249,7 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 
 ### Sürdürülebilir Tarım ve Gıda
 - Mentörler
-    - [Defne Koryürek](https://twitter.com/dkoryurek)
+    - [Defne Koryürek](https://twitter.com/dkoryurek), Fikir Sahibi Damaklar
 - Kaynaklar
     - [Buğday Derneği](http://www.bugday.org)
     - [Fikir Sahibi Damaklar](http://www.fikirsahibidamaklar.org/)
@@ -257,15 +257,10 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
     - http://www.tusedad.org
     - http://www.gdoyahayir.net
 
-### Engelli Hakları
-- Kaynaklar
-    - [Türkiye'de engelli hakları](https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_engelli_haklar%C4%B1)
-    - http://www.engelliler.biz
-
 ### Genel
 - Mentörler
-   - [Serdar Paktın](https://twitter.com/paktin)
-   - [Gökhan Biçici](https://twitter.com/gokhanbicici)
+   - [Serdar Paktın](https://twitter.com/paktin), Pakt Semiyotik | Strateji
+   - [Gökhan Biçici](https://twitter.com/gokhanbicici), TAREM, dokuz8Haber
 - Veri Kaynakları
     - [https://tr.wikipedia.org](https://tr.wikipedia.org)
     - [https://www.wikidata.org](https://www.wikidata.org)
