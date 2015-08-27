@@ -210,7 +210,7 @@ Please recommend data sources to **workshop@graphcommons.com**
     - [Batuhan Aydagül](http://batuhanaydagul.org/), Eğitim Reformu Girişimi
 - Data Sources
     - [Eğitim Reformu Girişimi](http://erg.sabanciuniv.edu/en)
-    - [Yüksek Eğitim Endüstriyel Kompleksi](burak-arikan.com/ozeluniversiteler)
+    - [Yüksek Eğitim Endüstriyel Kompleksi](http://burak-arikan.com/ozeluniversiteler)
 
 ### Immigrant Rights
 - Mentors
