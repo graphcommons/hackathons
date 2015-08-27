@@ -243,7 +243,7 @@ Please recommend data sources to **workshop@graphcommons.com**
 
 ### General
 - Mentors
-   - [Serdar Paktın](https://twitter.com/paktin), pakt semiotics | strategy
+   - [Serdar Paktın](https://twitter.com/paktin), pakt semiotics & strategy
    - [Gökhan Biçici](https://twitter.com/gokhanbicici), TAREM, dokuz8Haber
 - Veri Kaynakları
     - [https://tr.wikipedia.org](https://tr.wikipedia.org)
