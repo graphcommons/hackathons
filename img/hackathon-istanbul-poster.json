@@ -1,0 +1,14 @@
+{
+  "Hackathon": "Yapısal Gazetecilik ve Ağ Haritalama",
+  "Tarih": "12-13 Eylül 2015",
+  "Yer": "TMMOB Mimarlar Odası, Karaköy, İstanbul",
+  "Amaç": "Ağlarımızı örüyoruz",
+  "Kim kim": "Programcılar, gazeteciler ve hak mücadelelerinden mentörler",
+  "Ne yapıyoruz": ["veri derleme","araç geliştirme","ağ haritalama/analiz"],
+  "Katılım": {
+      "Fiyatı": "Ücretsiz",
+      "Başvuru": "Websitesindeki formdan başvurunuz",
+      "Şartlar": "Yer sınırı olduğundan size email ile haber verilecektir",
+  },
+  "Websitesi": "https://graphcommons.com"
+}
