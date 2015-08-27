@@ -88,7 +88,7 @@ Katılım ücretsizdir. Yer sınırımız olduğundan, başvuru formunu doldurup
 
 ## Hackathon Programı
 <p/>
-#### Birinci gün
+#### Birinci gün (12 Eyül Cumartesi)
 
 09:30 - 10:00 Kayıt & kahve
 
@@ -108,7 +108,7 @@ Katılım ücretsizdir. Yer sınırımız olduğundan, başvuru formunu doldurup
 - Mentörlerle ağ modelleme beyin fırtınası (1 saat)
 - Araç geliştirme (4 saat)
 <p/>
-#### İkinci Gün
+#### İkinci Gün (13 Eyül Pazar)
 
 09:30 - 10:00 Kahve
 
@@ -184,7 +184,6 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 - Mentörler
     - [Ceren Sözeri](https://twitter.com/cerensozeri)
     - [Murat İnceoglu](https://twitter.com/muratinceoglu)
-    - [Defne Özonur](https://twitter.com/defneozonur)
 - Kaynaklar
     - [Türkiye Medya Sahipleri Ağı](https://graphcommons.com/graphs/09426282-c311-4b39-be2c-1bd4f93b5771)
     - [http://bianet.org/bianet/medya](http://bianet.org/bianet/medya) - [Türkiye’de medya sahipliği 2015](http://platform24.org/medya-izleme/813/-hukumeti-destekleyene-butun-kapilar-aciliyor)

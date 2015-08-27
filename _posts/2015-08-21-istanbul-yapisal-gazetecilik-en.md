@@ -72,7 +72,7 @@ The workshop will be in Turkish, please go to the [Turkish Hackathon page](/hack
 
 ## Program
 <p/>
-#### First Day
+#### First Day (Sep 12 Saturday)
 
 09:30 - 10:00 Registration & Coffee
 
@@ -92,7 +92,7 @@ The workshop will be in Turkish, please go to the [Turkish Hackathon page](/hack
 - Brain storming and network modelling with mentors (1 hr)
 - Tool Development (4 hrs)
 <p/>
-#### Second Day
+#### Second Day (Sep 13 Sunday)
 
 09:30 - 10:00 Coffee
 
@@ -168,7 +168,6 @@ Please recommend data sources to **workshop@graphcommons.com**
 - Mentors
     - [Ceren Sözeri](https://twitter.com/cerensozeri)
     - [Murat İnceoglu](https://twitter.com/muratinceoglu)
-    - [Defne Özonur](https://twitter.com/defneozonur)
 - Data Sources
     - [Türkiye Medya Sahipleri Ağı](https://graphcommons.com/graphs/09426282-c311-4b39-be2c-1bd4f93b5771)
     - [http://bianet.org/bianet/medya](http://bianet.org/bianet/medya) - [Türkiye’de medya sahipliği 2015](http://platform24.org/medya-izleme/813/-hukumeti-destekleyene-butun-kapilar-aciliyor)
