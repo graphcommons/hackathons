@@ -237,6 +237,7 @@ Please recommend data sources to **workshop@graphcommons.com**
 - Kaynaklar
     - [Buğday Derneği](http://www.bugday.org)
     - [Fikir Sahibi Damaklar](http://www.fikirsahibidamaklar.org/)
+    - [Slow Food Hareketi](http://slowfood.com/)
     - [Yeryüzü Derneği](http://www.yeryuzudernegi.org)
     - [Gıda Güvenliği Hareketi](http://www.gidahareketi.org)
     - [Doğa Derneği](http://www.dogadernegi.org/)
@@ -247,6 +248,7 @@ Please recommend data sources to **workshop@graphcommons.com**
     - [http://www.gdoyahayir.net](http://www.suhakki.org)
     - [http://www.suhakki.org](http://www.suhakki.org)
     - [Tohum Takas Ağı](https://www.tohumtakas.org/TohumTakasAgiHakkinda.php)
+    - [tarimdunyasi.net](http://www.tarimdunyasi.net/)
     - [Heifer](http://www.heifer.org/)
     - [Grist](http://grist.org/)
     - [Yeşil Gazete](http://yesilgazete.org/)
