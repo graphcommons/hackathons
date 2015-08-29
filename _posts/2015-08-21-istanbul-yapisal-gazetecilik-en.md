@@ -30,7 +30,7 @@ Network maps offer us a "common language", that is both visual and mathematical.
 
 *<a href="https://structureofnews.wordpress.com/structured-journalism/" target="_blank">Structured journalism</a>* and *data journalism*, despite their likeness, are fundamentally different from one another. Data journalism aims to create stories from data via visualization techniques, whereas structured journalism aims to transform the plain text into structured data in order to make it reusable.
 
-*Structural Journalism and Network Mapping Hackathon* likewise aims to model semantic networks on topics in the field of journalism and civil society, compile relatively big data from available sources into graph databases, and generate network maps. Code savvy participants will work in the guidance of mentors for modeling, and they will improve their understanding of complex networks and network analysis as well as develop tools that can be utilized by everybody.
+*Structured Journalism and Network Mapping Hackathon* likewise aims to model semantic networks on topics in the field of journalism and civil society, compile relatively big data from available sources into graph databases, and generate network maps. Code savvy participants will work in the guidance of mentors for modeling, and they will improve their understanding of complex networks and network analysis as well as develop tools that can be utilized by everybody.
 
 The hackathon has four parts:
 
