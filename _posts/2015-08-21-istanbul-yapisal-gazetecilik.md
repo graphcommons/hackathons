@@ -222,11 +222,13 @@ Aşağıdaki konularda bildiğiniz veri kaynakları önerilerinizi **workshop@gr
 - [RATEM Sektör Raporu, 2013](http://www.ratem.org/web/RATEM_Sektor_Raporu_2014.pdf)
 - [Medya temsilcileri Darbeleri Araştırma Komisyonu'na ne anlattı?](http://t24.com.tr/haber/tbmm-darbe-ve-muhtiralari-arastirma-komisyonu-tutanaklari,217339)
 
-### İş Cinayetleri
+### İş Cinayetleri ve İşçi Eylemleri
 
 ##### Mentörler
 
 - [Aslı Odman](https://twitter.com/odmanasli), Mimar Sinan Üniversitesi, İşçi Sağlığı ve İş Güvenliği Meclisi
+- [Ebru Işıklı](http://boun.academia.edu/EbruIsikli)
+- [Orhun Aras Köksal](http://ku.academia.edu/OrhunArasK%C3%B6ksal)
 
 ##### Kaynaklar
 
