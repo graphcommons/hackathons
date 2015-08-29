@@ -103,11 +103,13 @@ Katılım ücretsizdir. Yer sınırımız olduğundan, başvuru formunu doldurup
 
 12:00 - 13:00 Yemek arası
 
-13:30 - 19:00 Çalışma
+13:30 - 18:00 Çalışma
 <p/>
 - Mentörlerle ağ modelleme beyin fırtınası (1 saat)
 - Araç geliştirme (4 saat)
 <p/>
+18:00 - 19:00 İlk prototiplerin incelenmesi
+
 #### İkinci Gün (13 Eyül Pazar)
 
 09:30 - 10:00 Kahve
@@ -133,6 +135,7 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 - Mentörler
     - [Elif İnce](https://twitter.com/elifince), Gazeteci, Ekoloji Kolektifi
     - [Yaşar Adanalı](https://twitter.com/ysrdnl), Mutlu Kent
+    - [Bengi Akbulut](https://independent.academia.edu/BengiAkbulut), Ekoloji Kolektifi
 - Kaynaklar
     - [İMECE](http://www.toplumunsehircilikhareketi.org)
     - [http://www.ekolojikolektifi.org](http://www.ekolojikolektifi.org)

@@ -117,6 +117,7 @@ Please recommend data sources to **workshop@graphcommons.com**
 - Mentors
     - [Elif İnce](https://twitter.com/elifince), Gazeteci, Ekoloji Kolektifi
     - [Yaşar Adanalı](https://twitter.com/ysrdnl), Mutlu Kent
+    - [Bengi Akbulut](https://independent.academia.edu/BengiAkbulut), Ekoloji Kolektifi
 - Data Sources
     - [İMECE](http://www.toplumunsehircilikhareketi.org)
     - [http://www.ekolojikolektifi.org](http://www.ekolojikolektifi.org)
