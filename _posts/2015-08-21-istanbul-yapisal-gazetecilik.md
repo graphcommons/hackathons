@@ -132,162 +132,218 @@ Veri derlenebilecek kaynaklar düz metin (haber, rapor vb.), yarı yapısal (HTM
 Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@graphcommons.com** adresine gönderebilirsiniz.
 
 ### Ekoloji ve Kent Hakkı
-- Mentörler
-    - [Elif İnce](https://twitter.com/elifince), Gazeteci, Ekoloji Kolektifi
-    - [Yaşar Adanalı](https://twitter.com/ysrdnl), Mutlu Kent
-    - [Bengi Akbulut](https://independent.academia.edu/BengiAkbulut), Ekoloji Kolektifi
-- Kaynaklar
-    - [İMECE](http://www.toplumunsehircilikhareketi.org)
-    - [http://www.ekolojikolektifi.org](http://www.ekolojikolektifi.org)
-    - [https://mutlukent.wordpress.com](https://mutlukent.wordpress.com)
-    - [http://www.kuzeyormanlari.org](http://www.kuzeyormanlari.org)
-    - [http://mulksuzlestirme.org](http://mulksuzlestirme.org)
-    - [http://www.direncevre.org](http://www.direncevre.org)
-    - [http://www.karaatlas.org](http://www.karaatlas.org)
-    - [http://bianet.org/bianet/cevre](http://bianet.org/bianet/cevre)
-    - [http://bianet.org/bianet/kent](http://bianet.org/bianet/kent)
+
+##### Mentörler
+
+- [Elif İnce](https://twitter.com/elifince), Gazeteci, Ekoloji Kolektifi
+- [Yaşar Adanalı](https://twitter.com/ysrdnl), Mutlu Kent
+- [Bengi Akbulut](https://independent.academia.edu/BengiAkbulut), Ekoloji Kolektifi
+
+##### Kaynaklar
+
+- [İMECE](http://www.toplumunsehircilikhareketi.org)
+- [http://www.ekolojikolektifi.org](http://www.ekolojikolektifi.org)
+- [https://mutlukent.wordpress.com](https://mutlukent.wordpress.com)
+- [http://www.kuzeyormanlari.org](http://www.kuzeyormanlari.org)
+- [http://mulksuzlestirme.org](http://mulksuzlestirme.org)
+- [http://www.direncevre.org](http://www.direncevre.org)
+- [http://www.karaatlas.org](http://www.karaatlas.org)
+- [http://bianet.org/bianet/cevre](http://bianet.org/bianet/cevre)
+- [http://bianet.org/bianet/kent](http://bianet.org/bianet/kent)
 
 ### İnternet ve İfade Özgürlüğü
-- Mentörler
-    - [Aslı Telli Aydemir](https://twitter.com/aslitelli), Alternatif Bilişim Derneği, İstanbul Şehir Üniversitesi
-    - [Işık Mater](https://twitter.com/isik5), Alternatif Bilişim Derneği
-    - [Ahmet Sabancı](https://twitter.com/ahmetasabanci), Alternatif Bilişim Derneği, Jiyan
-- Kaynaklar
-    - [https://alternatifbilisim.org](https://alternatifbilisim.org)
-    - [Internet Ungovernance Forum](https://iuf.alternatifbilisim.org)
-    - [http://privacy.cyber-rights.org.tr](http://privacy.cyber-rights.org.tr)
-    - [http://engelliweb.com](http://engelliweb.com)
-    - [Bianet İfade Özgürlüğü Kategorisi](http://bianet.org/bianet/ifade-ozgurlugu)
+
+##### Mentörler
+
+- [Aslı Telli Aydemir](https://twitter.com/aslitelli), Alternatif Bilişim Derneği, İstanbul Şehir Üniversitesi
+- [Işık Mater](https://twitter.com/isik5), Alternatif Bilişim Derneği
+- [Ahmet Sabancı](https://twitter.com/ahmetasabanci), Alternatif Bilişim Derneği, Jiyan
+
+##### Kaynaklar
+
+- [https://alternatifbilisim.org](https://alternatifbilisim.org)
+- [Internet Ungovernance Forum](https://iuf.alternatifbilisim.org)
+- [http://privacy.cyber-rights.org.tr](http://privacy.cyber-rights.org.tr)
+- [http://engelliweb.com](http://engelliweb.com)
+- [Bianet İfade Özgürlüğü Kategorisi](http://bianet.org/bianet/ifade-ozgurlugu)
 
 ### Meclis ve Kanunlar
-- Mentörler
-    - [Özlem Zıngıl](https://twitter.com/ozlemzingil), Şeffaflık Derneği
-    - [Esra Gürakar](https://twitter.com/esra_gurakar), Okan Üniversitesi
-- Kaynaklar
-    - [https://tbmm.gov.tr](https://tbmm.gov.tr)
-    - [TBMM Soru Önergeleri Sorgulama](https://www.tbmm.gov.tr/develop/owa/yazili_sozlu_soru_sd.sorgu_baslangic)
+
+##### Mentörler
+
+- [Özlem Zıngıl](https://twitter.com/ozlemzingil), Şeffaflık Derneği
+- [Esra Gürakar](https://twitter.com/esra_gurakar), Okan Üniversitesi
+
+##### Kaynaklar
+
+- [https://tbmm.gov.tr](https://tbmm.gov.tr)
+- [TBMM Soru Önergeleri Sorgulama](https://www.tbmm.gov.tr/develop/owa/yazili_sozlu_soru_sd.sorgu_baslangic)
 
 ### Bölgesel Kamu Politikaları ve Yatırımları
-- Mentörler
-    - [Emel Kurma](https://twitter.com/emelkurma), Helsinki Yurttaşlar Derneği
-- Kaynaklar
-    - [http://yereldemokrasi.net](http://yereldemokrasi.net)
+
+##### Mentörler
+
+- [Emel Kurma](https://twitter.com/emelkurma), Helsinki Yurttaşlar Derneği
+
+##### Kaynaklar
+
+- [http://yereldemokrasi.net](http://yereldemokrasi.net)
 
 ### Tekelcilik, Yolsuzluk, Şeffaflık
-- Mentörler
-    - [Mustafa Sönmez](https://twitter.com/mustfsnmz), Birgün
-    - [Esra Gürakar](https://twitter.com/esra_gurakar), Okan Üniversitesi
-    - [Özlem Zıngıl](https://twitter.com/ozlemzingil), Şeffaflık Derneği
-- Kaynaklar
-    - [Hazine Müsteşarlığı Merkezi Finans ve İhale](http://www.cfcu.gov.tr)
-    - [Bilgi Edinme Hakkı Kanunu](https://tr.wikipedia.org/wiki/Bilgi_Edinme_Hakk%C4%B1_Kanunu)
-    - [http://mulksuzlestirme.org](http://mulksuzlestirme.org)
+
+##### Mentörler
+
+- [Mustafa Sönmez](https://twitter.com/mustfsnmz), Birgün
+- [Esra Gürakar](https://twitter.com/esra_gurakar), Okan Üniversitesi
+- [Özlem Zıngıl](https://twitter.com/ozlemzingil), Şeffaflık Derneği
+
+##### Kaynaklar
+
+- [Hazine Müsteşarlığı Merkezi Finans ve İhale](http://www.cfcu.gov.tr)
+- [Bilgi Edinme Hakkı Kanunu](https://tr.wikipedia.org/wiki/Bilgi_Edinme_Hakk%C4%B1_Kanunu)
+- [http://mulksuzlestirme.org](http://mulksuzlestirme.org)
 
 ### Medya Sahipliği
-- Mentörler
-    - [Ceren Sözeri](https://twitter.com/cerensozeri), Galatasaray Üniversitesi
-    - [Murat İnceoglu](https://twitter.com/muratinceoglu), Gazeteci
-- Kaynaklar
-    - [Türkiye Medya Sahipleri Ağı](https://graphcommons.com/graphs/09426282-c311-4b39-be2c-1bd4f93b5771)
-    - [Bianet medya kategorisi](http://bianet.org/bianet/medya)
-    - [Türkiye’de medya sahipliği 2015](http://platform24.org/medya-izleme/813/-hukumeti-destekleyene-butun-kapilar-aciliyor)
-    - [Türkiye'de Medya-İktidar İlişkileri Raporu, 2015](http://platform24.org/Content/Uploads/Editor/T%C3%BCrkiye%E2%80%99de%20Medya-%C4%B0ktidar%20%C4%B0li%C5%9Fkileri-BASKI.pdf)
-    - [RTÜK](http://www.rtuk.org.tr/Home/SolMenu/109#)
-    - [RATEM Sektör Raporu, 2013](http://www.ratem.org/web/RATEM_Sektor_Raporu_2014.pdf)
-    - [Medya temsilcileri Darbeleri Araştırma Komisyonu'na ne anlattı?](http://t24.com.tr/haber/tbmm-darbe-ve-muhtiralari-arastirma-komisyonu-tutanaklari,217339)
+
+##### Mentörler
+
+- [Ceren Sözeri](https://twitter.com/cerensozeri), Galatasaray Üniversitesi
+- [Murat İnceoglu](https://twitter.com/muratinceoglu), Gazeteci
+
+##### Kaynaklar
+
+- [Türkiye Medya Sahipleri Ağı](https://graphcommons.com/graphs/09426282-c311-4b39-be2c-1bd4f93b5771)
+- [Bianet medya kategorisi](http://bianet.org/bianet/medya)
+- [Türkiye’de medya sahipliği 2015](http://platform24.org/medya-izleme/813/-hukumeti-destekleyene-butun-kapilar-aciliyor)
+- [Türkiye'de Medya-İktidar İlişkileri Raporu, 2015](http://platform24.org/Content/Uploads/Editor/T%C3%BCrkiye%E2%80%99de%20Medya-%C4%B0ktidar%20%C4%B0li%C5%9Fkileri-BASKI.pdf)
+- [RTÜK](http://www.rtuk.org.tr/Home/SolMenu/109#)
+- [RATEM Sektör Raporu, 2013](http://www.ratem.org/web/RATEM_Sektor_Raporu_2014.pdf)
+- [Medya temsilcileri Darbeleri Araştırma Komisyonu'na ne anlattı?](http://t24.com.tr/haber/tbmm-darbe-ve-muhtiralari-arastirma-komisyonu-tutanaklari,217339)
 
 ### İş Cinayetleri
-- Mentörler
-    - [Aslı Odman](https://twitter.com/odmanasli), Mimar Sinan Üniversitesi, İşçi Sağlığı ve İş Güvenliği Meclisi
-- Kaynaklar
-    - [http://guvenlicalisma.org](http://guvenlicalisma.org)
-    - [Yangın Kulesi](http://guvenlicalisma.org/index.php?option=com_content&view=category&id=142:yangin-kulesi&Itemid=229)
+
+##### Mentörler
+
+- [Aslı Odman](https://twitter.com/odmanasli), Mimar Sinan Üniversitesi, İşçi Sağlığı ve İş Güvenliği Meclisi
+
+##### Kaynaklar
+
+- [http://guvenlicalisma.org](http://guvenlicalisma.org)
+- [Yangın Kulesi](http://guvenlicalisma.org/index.php?option=com_content&view=category&id=142:yangin-kulesi&Itemid=229)
 
 ### Kadın Hakları
-- Mentörler
-    - [İdil Elveriş](https://twitter.com/idilika), İstanbul Bilgi Üniversitesi
-    - [Çiçek Tahaoğlu](http://bianet.org/yazar/cicek-tahaoglu), Bianet
-    - [Burcu Karakaş](https://twitter.com/burcuas), Gazeteci
-- Kaynaklar
-    - [http://www.anitsayac.com](http://www.anitsayac.com)
-    - [Twitter'da #sendeanlat](https://twitter.com/search?q=%23sendeanlat&src=tyah)
-    - [https://bianet.org/konu/cetele](https://bianet.org/konu/cetele)
-    - [http://www.cinsomedya.org](http://www.cinsomedya.org)
-    - [http://www.5harfliler.com](http://www.5harfliler.com)
-    - [Bianet Kadın Kategorisi](http://bianet.org/bianet/kadin)
+
+##### Mentörler
+
+- [İdil Elveriş](https://twitter.com/idilika), İstanbul Bilgi Üniversitesi
+- [Çiçek Tahaoğlu](http://bianet.org/yazar/cicek-tahaoglu), Bianet
+- [Burcu Karakaş](https://twitter.com/burcuas), Gazeteci
+
+##### Kaynaklar
+
+- [http://www.anitsayac.com](http://www.anitsayac.com)
+- [Twitter'da #sendeanlat](https://twitter.com/search?q=%23sendeanlat&src=tyah)
+- [https://bianet.org/konu/cetele](https://bianet.org/konu/cetele)
+- [http://www.cinsomedya.org](http://www.cinsomedya.org)
+- [http://www.5harfliler.com](http://www.5harfliler.com)
+- [Bianet Kadın Kategorisi](http://bianet.org/bianet/kadin)
 
 ### LGBTİ Hakları
-- Mentörler
-    - [Çiçek Tahaoğlu](http://bianet.org/yazar/cicek-tahaoglu), Bianet
-    - [Burcu Karakaş](https://twitter.com/burcuas), Gazeteci
-- Kaynaklar
-    - [Türkiye'de LGBT hakları](https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_LGBT_haklar%C4%B1)
-    - [Lambda Istanbul](http://www.lambdaistanbul.org)
-    - [Bianet LGBTİ kategorisi](http://bianet.org/bianet/lgbti)
+
+##### Mentörler
+
+- [Çiçek Tahaoğlu](http://bianet.org/yazar/cicek-tahaoglu), Bianet
+- [Burcu Karakaş](https://twitter.com/burcuas), Gazeteci
+
+##### Kaynaklar
+
+- [Türkiye'de LGBT hakları](https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_LGBT_haklar%C4%B1)
+- [Lambda Istanbul](http://www.lambdaistanbul.org)
+- [Bianet LGBTİ kategorisi](http://bianet.org/bianet/lgbti)
 
 ### Eğitim Reformu
-- Mentörler
-    - [Batuhan Aydagül](http://batuhanaydagul.org/), Eğitim Reformu Girişimi
-- Kaynaklar
-    - [Eğitim Reformu Girişimi](http://erg.sabanciuniv.edu/en)
-    - [Yüksek Eğitim Endüstriyel Kompleksi](http://burak-arikan.com/ozeluniversiteler)
+
+##### Mentörler
+
+- [Batuhan Aydagül](http://batuhanaydagul.org/), Eğitim Reformu Girişimi
+
+##### Kaynaklar
+
+- [Eğitim Reformu Girişimi](http://erg.sabanciuniv.edu/en)
+- [Yüksek Eğitim Endüstriyel Kompleksi](http://burak-arikan.com/ozeluniversiteler)
 
 ### Göçmen Hakları
-- Mentörler
-    - [Özge Aktaş Mazman](http://www.tesev.org.tr/ozge-aktas-mazman/Content/1834.html), TESEV
-- Veri kaynakları
-    - [http://gocmendayanisma.org](http://gocmendayanisma.org)
-    - [http://www.multeci.net](http://www.multeci.net)
-    - [Avrupa ve Çevresi Göçmen Kampı Haritaları, 2005-2009, Migreurop](http://dugumkume.org/avrupa-ve-cevresi-gocmen-kampi-haritalari-2005-2009-migreurop/)
-    - [Migreurop Network](http://www.migreurop.org/article643.html?lang=en)
+
+##### Mentörler
+
+- [Özge Aktaş Mazman](http://www.tesev.org.tr/ozge-aktas-mazman/Content/1834.html), TESEV
+
+##### Kaynaklar
+
+- [http://gocmendayanisma.org](http://gocmendayanisma.org)
+- [http://www.multeci.net](http://www.multeci.net)
+- [Avrupa ve Çevresi Göçmen Kampı Haritaları, 2005-2009, Migreurop](http://dugumkume.org/avrupa-ve-cevresi-gocmen-kampi-haritalari-2005-2009-migreurop/)
+- [Migreurop Network](http://www.migreurop.org/article643.html?lang=en)
 
 ### Militarizm
-- Mentörler
-    - [Kerem Çiftçioğlu](https://twitter.com/keyhude), Hakikat Adalet Hafıza Merkezi
-- Veri kaynakları
-    - [http://www.askerhaklari.com](http://www.askerhaklari.com)
-    - [http://www.zorlakaybetmeler.org](http://www.zorlakaybetmeler.org)
-    - [http://hakikatadalethafiza.org](http://hakikatadalethafiza.org)
-    - [Bianet militarizm kategorisi](http://bianet.org/bianet/militarizm)
-    - [Vicdani Ret Derneği](http://vicdaniret.org)
+
+##### Mentörler
+
+- [Kerem Çiftçioğlu](https://twitter.com/keyhude), Hakikat Adalet Hafıza Merkezi
+
+##### Kaynaklar
+
+- [http://www.askerhaklari.com](http://www.askerhaklari.com)
+- [http://www.zorlakaybetmeler.org](http://www.zorlakaybetmeler.org)
+- [http://hakikatadalethafiza.org](http://hakikatadalethafiza.org)
+- [Bianet militarizm kategorisi](http://bianet.org/bianet/militarizm)
+- [Vicdani Ret Derneği](http://vicdaniret.org)
 
 ### Sürdürülebilir Tarım ve Gıda
-- Mentörler
-    - [Defne Koryürek](https://twitter.com/dkoryurek), Fikir Sahibi Damaklar
-- Kaynaklar
-    - [Buğday Derneği](http://www.bugday.org)
-    - [Fikir Sahibi Damaklar](http://www.fikirsahibidamaklar.org/)
-    - [Slow Food Hareketi](http://slowfood.com/)
-    - [Yeryüzü Derneği](http://www.yeryuzudernegi.org)
-    - [Gıda Güvenliği Hareketi](http://www.gidahareketi.org)
-    - [Doğa Derneği](http://www.dogadernegi.org/)
-    - [Doğa Okulu](http://dogaaskina.org/)
-    - [Greenpeace Türkiye](http://www.greenpeace.org/turkey/tr/)
-    - [http://www.tusedad.org](http://www.tusedad.org)
-    - [http://www.karasaban.net](http://www.karasaban.net)
-    - [http://www.gdoyahayir.net](http://www.suhakki.org)
-    - [http://www.suhakki.org](http://www.suhakki.org)
-    - [Tohum Takas Ağı](https://www.tohumtakas.org/TohumTakasAgiHakkinda.php)
-    - [tarimdunyasi.net](http://www.tarimdunyasi.net/)
-    - [Heifer](http://www.heifer.org/)
-    - [Grist](http://grist.org/)
-    - [Yeşil Gazete](http://yesilgazete.org/)
-    - [Yeşilist](http://www.yesilist.com/)
+
+##### Mentörler
+
+- [Defne Koryürek](https://twitter.com/dkoryurek), Fikir Sahibi Damaklar
+
+##### Kaynaklar
+
+- [Buğday Derneği](http://www.bugday.org)
+- [Fikir Sahibi Damaklar](http://www.fikirsahibidamaklar.org/)
+- [Slow Food Hareketi](http://slowfood.com/)
+- [Yeryüzü Derneği](http://www.yeryuzudernegi.org)
+- [Gıda Güvenliği Hareketi](http://www.gidahareketi.org)
+- [Doğa Derneği](http://www.dogadernegi.org/)
+- [Doğa Okulu](http://dogaaskina.org/)
+- [Greenpeace Türkiye](http://www.greenpeace.org/turkey/tr/)
+- [http://www.tusedad.org](http://www.tusedad.org)
+- [http://www.karasaban.net](http://www.karasaban.net)
+- [http://www.gdoyahayir.net](http://www.suhakki.org)
+- [http://www.suhakki.org](http://www.suhakki.org)
+- [Tohum Takas Ağı](https://www.tohumtakas.org/TohumTakasAgiHakkinda.php)
+- [tarimdunyasi.net](http://www.tarimdunyasi.net/)
+- [Heifer](http://www.heifer.org/)
+- [Grist](http://grist.org/)
+- [Yeşil Gazete](http://yesilgazete.org/)
+- [Yeşilist](http://www.yesilist.com/)
 
 ### Genel
-- Mentörler
-   - [Serdar Paktın](https://twitter.com/paktin), pakt semiyotik & strateji
-   - [Gökhan Biçici](https://twitter.com/gokhanbicici), TAREM, dokuz8Haber
-- Veri Kaynakları
-    - [https://tr.wikipedia.org](https://tr.wikipedia.org)
-    - [https://www.wikidata.org](https://www.wikidata.org)
-    - [http://www.tuik.gov.tr](http://www.tuik.gov.tr)
-    - [Google APIs](https://code.google.com/apis/console)
-    - [New York Times Konuları](http://www.nytimes.com/pages/topics)
-    - [BBC News Labs](http://bbcnewslabs.co.uk/projects)
-    - [Sunlight Foundation API](https://sunlightfoundation.com/api)
-    - [Avrupa İnsan Hakları Mahkemesi Veritabanı](http://hudoc.echr.coe.int/)
-    - [http://data.worldbank.org](http://data.worldbank.org)
+
+##### Mentörler
+
+- [Serdar Paktın](https://twitter.com/paktin), pakt semiyotik & strateji
+- [Gökhan Biçici](https://twitter.com/gokhanbicici), TAREM, dokuz8Haber
+
+##### Kaynaklar
+
+- [https://tr.wikipedia.org](https://tr.wikipedia.org)
+- [https://www.wikidata.org](https://www.wikidata.org)
+- [http://www.tuik.gov.tr](http://www.tuik.gov.tr)
+- [Google APIs](https://code.google.com/apis/console)
+- [New York Times Konuları](http://www.nytimes.com/pages/topics)
+- [BBC News Labs](http://bbcnewslabs.co.uk/projects)
+- [Sunlight Foundation API](https://sunlightfoundation.com/api)
+- [Avrupa İnsan Hakları Mahkemesi Veritabanı](http://hudoc.echr.coe.int/)
+- [http://data.worldbank.org](http://data.worldbank.org)
 
 <a name="yayin-platformlari"></a>
 
