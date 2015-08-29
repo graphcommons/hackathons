@@ -329,6 +329,7 @@ Please recommend data sources to **workshop@graphcommons.com**
 - [Sunlight Foundation API](https://sunlightfoundation.com/api)
 - [Avrupa İnsan Hakları Mahkemesi Veritabanı](http://hudoc.echr.coe.int/)
 - [http://data.worldbank.org](http://data.worldbank.org)
+- [List of news media APIs](https://en.wikipedia.org/wiki/List_of_news_media_APIs)
 
 <a name="yayin-platformlari"></a>
 

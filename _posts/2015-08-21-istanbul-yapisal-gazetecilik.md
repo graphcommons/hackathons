@@ -126,11 +126,11 @@ Katılım ücretsizdir. Yer sınırımız olduğundan, başvuru formunu doldurup
 
 ## Konular, Mentörler, Veri Kaynakları
 
-Her alan için konusunda uzman mentörler olacak, muhtemel kişiler aşağıda listelenmiştir. İlgili konuda hangi aktörler önemli, hangi özelliklerine bakmalı, hangi ilişkiler daha kritik, bu konularda modelleme yaparken yardımcı olacaklar.
+Aşağıda listelenen konularda uzman mentörler ilgili alanda hangi aktörler önemli, hangi özelliklerine bakmalı, hangi ilişkiler daha kritik, bu konularda modelleme yaparken yardımcı olacaklar.
 
-Veri derlenebilecek kaynaklar düz metin (haber, rapor vb.), yarı yapısal (HTML tablo, wiki sayfası vb), ya da tam yapısal (API, veritabanı vb) olabilir. Düz metinler ve yarı yapısal kaynaklar "[scrape](https://en.wikipedia.org/wiki/Web_scraping)" edilebilir, APIler ve açık veritabanları programatik olarak sorgulanabilir ya da varsa Excel/Spreadsheet'ten dönüştürlerek derlenebilir.
+Veri toplanacak kaynaklar düz metin (haber, rapor, bildiri), yarı yapısal (HTML tablo, wiki sayfası), ya da tam yapısal (API, veritabanı) kaynaklar olabilir. Düz metinler ve yarı yapısal kaynaklar "[scrape](https://en.wikipedia.org/wiki/Web_scraping)" edilebilir, APIler ve açık veritabanları programatik olarak sorgulanabilir ya da varsa Excel/Spreadsheet'ten dönüştürülerek derlenebilir.
 
-Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@graphcommons.com** adresine gönderebilirsiniz.
+Aşağıdaki konularda bildiğiniz veri kaynakları önerilerinizi **workshop@graphcommons.com** adresine gönderebilirsiniz.
 
 ### Ekoloji ve Kent Hakkı
 
@@ -345,6 +345,7 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
 - [Sunlight Foundation API](https://sunlightfoundation.com/api)
 - [Avrupa İnsan Hakları Mahkemesi Veritabanı](http://hudoc.echr.coe.int/)
 - [http://data.worldbank.org](http://data.worldbank.org)
+- [List of news media APIs](https://en.wikipedia.org/wiki/List_of_news_media_APIs)
 
 <a name="yayin-platformlari"></a>
 
