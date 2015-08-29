@@ -139,7 +139,7 @@ Please recommend data sources to **workshop@graphcommons.com**
     - [Internet Ungovernance Forum](https://iuf.alternatifbilisim.org)
     - [http://privacy.cyber-rights.org.tr](http://privacy.cyber-rights.org.tr)
     - [http://engelliweb.com](http://engelliweb.com)
-    - [http://bianet.org/bianet/ifade-ozgurlugu](http://bianet.org/bianet/ifade-ozgurlugu)
+    - [Bianet İfade Özgürlüğü Kategorisi](http://bianet.org/bianet/ifade-ozgurlugu)
 
 ### Open Government and Laws
 - Mentors
@@ -171,7 +171,8 @@ Please recommend data sources to **workshop@graphcommons.com**
     - [Murat İnceoglu](https://twitter.com/muratinceoglu), Gazeteci
 - Data Sources
     - [Türkiye Medya Sahipleri Ağı](https://graphcommons.com/graphs/09426282-c311-4b39-be2c-1bd4f93b5771)
-    - [http://bianet.org/bianet/medya](http://bianet.org/bianet/medya) - [Türkiye’de medya sahipliği 2015](http://platform24.org/medya-izleme/813/-hukumeti-destekleyene-butun-kapilar-aciliyor)
+    - [Bianet medya kategorisi](http://bianet.org/bianet/medya)
+    - [Türkiye’de medya sahipliği 2015](http://platform24.org/medya-izleme/813/-hukumeti-destekleyene-butun-kapilar-aciliyor)
     - [Türkiye'de Medya-İktidar İlişkileri Raporu, 2015](http://platform24.org/Content/Uploads/Editor/T%C3%BCrkiye%E2%80%99de%20Medya-%C4%B0ktidar%20%C4%B0li%C5%9Fkileri-BASKI.pdf)
     - [RTÜK](http://www.rtuk.org.tr/Home/SolMenu/109#)
     - [RATEM Sektör Raporu, 2013](http://www.ratem.org/web/RATEM_Sektor_Raporu_2014.pdf)
@@ -195,7 +196,7 @@ Please recommend data sources to **workshop@graphcommons.com**
     - [https://bianet.org/konu/cetele](https://bianet.org/konu/cetele)
     - [http://www.cinsomedya.org](http://www.cinsomedya.org)
     - [http://www.5harfliler.com](http://www.5harfliler.com)
-    - [http://bianet.org/bianet/kadin](http://bianet.org/bianet/kadin)
+    - [Bianet Kadın Kategorisi](http://bianet.org/bianet/kadin)
 
 ### LGBTI Rights
 - Mentors
@@ -203,8 +204,8 @@ Please recommend data sources to **workshop@graphcommons.com**
     - [Burcu Karakaş](https://twitter.com/burcuas), Gazeteci
 - Data Sources
     - [Türkiye'de LGBT hakları](https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_LGBT_haklar%C4%B1)
-    - [http://www.lambdaistanbul.org](http://www.lambdaistanbul.org)
-    - [http://bianet.org/bianet/lgbti](http://bianet.org/bianet/lgbti)
+    - [Lambda Istanbul](http://www.lambdaistanbul.org)
+    - [Bianet LGBTİ kategorisi](http://bianet.org/bianet/lgbti)
 
 ### Education Reform
 - Mentors
@@ -229,7 +230,7 @@ Please recommend data sources to **workshop@graphcommons.com**
     - [http://www.askerhaklari.com](http://www.askerhaklari.com)
     - [http://www.zorlakaybetmeler.org](http://www.zorlakaybetmeler.org)
     - [http://hakikatadalethafiza.org](http://hakikatadalethafiza.org)
-    - [http://bianet.org/bianet/militarizm](http://bianet.org/bianet/militarizm)
+    - [Bianet militarizm tag](http://bianet.org/bianet/militarizm)
     - [Vicdani Ret Derneği](http://vicdaniret.org)
 
 ### Sustainable Agriculture & Food
@@ -265,10 +266,10 @@ Please recommend data sources to **workshop@graphcommons.com**
     - [http://www.tuik.gov.tr](http://www.tuik.gov.tr)
     - [Google APIs](https://code.google.com/apis/console)
     - [NYTimes Topics](http://www.nytimes.com/pages/topics)
-    - [https://sunlightfoundation.com/api](https://sunlightfoundation.com/api)
+    - [BBC News Labs](http://bbcnewslabs.co.uk/projects)
+    - [Sunlight Foundation API](https://sunlightfoundation.com/api)
     - [Avrupa İnsan Hakları Mahkemesi Veritabanı](http://hudoc.echr.coe.int/)
     - [http://data.worldbank.org](http://data.worldbank.org)
-    - [http://bbcnewslabs.co.uk/projects](http://bbcnewslabs.co.uk/projects)
 
 <a name="yayin-platformlari"></a>
 
