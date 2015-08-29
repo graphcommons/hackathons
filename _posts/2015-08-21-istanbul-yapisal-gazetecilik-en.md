@@ -87,18 +87,21 @@ The workshop will be in Turkish, please go to the [Turkish Hackathon page](/hack
 
 12:00 - 13:00 Break
 
-13:30 - 19:00 Work, work, work
+13:30 - 18:00 Work
 <p/>
 - Brain storming and network modelling with mentors (1 hr)
-- Tool Development (4 hrs)
+- Tool Development and Mapping (4 hrs)
 <p/>
+
+18:00 - 19:00 Prototypes Review
+
 #### Second Day (Sep 13 Sunday)
 
 09:30 - 10:00 Coffee
 
-10:00 - 11:00 Review of the prototypes
+10:00 - 11:00 Prototypes Review
 
-11:00 - 16:00 Refinement of the projects
+11:00 - 16:00 Project Refinements
 
 17:00 - 19:00 Public Presentations
 
@@ -135,12 +138,14 @@ Please recommend data sources to **workshop@graphcommons.com**
 
 ### Internet Freedom
 
-Mentors
+##### Mentors
+
 - [Aslı Telli Aydemir](https://twitter.com/aslitelli), Alternatif Bilişim Derneği, İstanbul Şehir Üniversitesi
 - [Işık Mater](https://twitter.com/isik5), Alternatif Bilişim Derneği
 - [Ahmet Sabancı](https://twitter.com/ahmetasabanci), Alternatif Bilişim Derneği, Jiyan
 
-Data Sources
+##### Data Sources
+
 - [https://alternatifbilisim.org](https://alternatifbilisim.org)
 - [Internet Ungovernance Forum](https://iuf.alternatifbilisim.org)
 - [http://privacy.cyber-rights.org.tr](http://privacy.cyber-rights.org.tr)
@@ -352,7 +357,7 @@ All tools created in the workshop belongs to its creators and expected to be lic
 #### Coordination for participants
 - [Graph Commons Hackathon Repository](https://github.com/graphcommons/hackathons)
 - [https://graphcommons.com](https://graphcommons.com)
-- Graph Commons Slack grubu
+- Graph Commons on Slack
 
 #### General Contact
 - [https://graphcommons.com/contact](https://graphcommons.com/contact)

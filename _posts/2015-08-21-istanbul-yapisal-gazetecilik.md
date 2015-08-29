@@ -99,15 +99,16 @@ Katılım ücretsizdir. Yer sınırımız olduğundan, başvuru formunu doldurup
 - Ağ haritaları nasıl okunur? (10dk)
 - Soru & cevap (10dk)
 
-11:00 - 12:00 Temalar, mentörler ve grup oluşturma
+11:00 - 12:00 Temalar, mentörler ve çalışma grupları oluşturma
 
 12:00 - 13:00 Yemek arası
 
 13:30 - 18:00 Çalışma
 <p/>
 - Mentörlerle ağ modelleme beyin fırtınası (1 saat)
-- Araç geliştirme (4 saat)
+- Araç geliştirme ve Haritalama (4 saat)
 <p/>
+
 18:00 - 19:00 İlk prototiplerin incelenmesi
 
 #### İkinci Gün (13 Eyül Pazar)
