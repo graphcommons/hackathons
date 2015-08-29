@@ -126,9 +126,9 @@ Katılım ücretsizdir. Yer sınırımız olduğundan, başvuru formunu doldurup
 
 ## Konular, Mentörler, Veri Kaynakları
 
-Aşağıda listelenen konularda uzman mentörler ilgili alanda hangi aktörler önemli, hangi özelliklerine bakmalı, hangi ilişkiler daha kritik, bu konularda modelleme yaparken yardımcı olacaklar.
+Aşağıda listelenen konularda uzman mentörler hangi aktörler önemli, hangi özelliklere bakmalı, hangi ilişkiler daha kritik, bu konularda modelleme yaparken yardımcı olacaklar.
 
-Veri toplanacak kaynaklar düz metin (haber, rapor, bildiri), yarı yapısal (HTML tablo, wiki sayfası), ya da tam yapısal (API, veritabanı) kaynaklar olabilir. Düz metinler ve yarı yapısal kaynaklar "[scrape](https://en.wikipedia.org/wiki/Web_scraping)" edilebilir, APIler ve açık veritabanları programatik olarak sorgulanabilir ya da varsa Excel/Spreadsheet'ten dönüştürülerek derlenebilir.
+Veri toplanacak kaynaklar düz metin (haber, rapor, bildiri), yarı yapısal (HTML tablo, wiki), ya da tam yapısal (API, veritabanı) olabilir. Düz metin ve yarı yapısal kaynaklar için "[scrape](https://en.wikipedia.org/wiki/Web_scraping)" yöntemiyle, API ve açık veritabanları için programatik sorgulama ile veri derlenebilir. Ayrıca var olan Excel/Spreadsheet dosyaları yeniden düzenlenerek kullanışlı hale getirilebilir.
 
 Aşağıdaki konularda bildiğiniz veri kaynakları önerilerinizi **workshop@graphcommons.com** adresine gönderebilirsiniz.
 
