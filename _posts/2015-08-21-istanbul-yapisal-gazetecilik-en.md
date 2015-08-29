@@ -36,15 +36,15 @@ The hackathon has four parts:
 
 <img style="float:right; width:300px" src="http://blog.graphcommons.com/wp-content/uploads/2014/12/graphcommons-collaborative-mapping.png">
 
-#### 1. Network Modelling
+#### 1. Network Modeling
 
-Expertise of mentors will meet with technical knowledge of the participants during the data modelling process. This part consists of using pen and paper and identifying main actors and critical material relations within the field in a collective brainstorm. Urgent questions and how to answer them will be discussed and designed.
+Expertise of mentors will meet with technical knowledge of the participants during the data modeling process. This part consists of using pen and paper and identifying main actors and critical material relations within the field in a collective brainstorm. Urgent questions and how to answer them will be discussed and designed.
 
 <img style="float:right; width:300px; margin-top:20px;" src="http://blog.graphcommons.com/wp-content/uploads/2015/08/graph-json-structure.png">
 
 #### 2. Development of tools
 
-On the basis of colelctive modelling done in the previous stage, data compilation tools will be developed. Participants will work on either **[publication platforms](#yayin-platformlari)** or **[data mining tools](#konular-mentorler-kaynaklar)** that will programtically generate graph data according to the needs. First prototypes of the tools are planned to be finalized in the first day of the workshop and be polished in the second day of the hackathon. This way we will also find some time to debate what the beta versions should be like, how to improve and further develop these tools.
+On the basis of colelctive modeling done in the previous stage, data compilation tools will be developed. Participants will work on either **[publication platforms](#yayin-platformlari)** or **[data mining tools](#konular-mentorler-kaynaklar)** that will programtically generate graph data according to the needs. First prototypes of the tools are planned to be finalized in the first day of the workshop and be polished in the second day of the hackathon. This way we will also find some time to debate what the beta versions should be like, how to improve and further develop these tools.
 
 <img style="float:right; width:300px;" src="http://blog.graphcommons.com/wp-content/uploads/2015/08/graphcommons-mapping-analysis.png">
 
@@ -89,7 +89,7 @@ The workshop will be in Turkish, please go to the [Turkish Hackathon page](/hack
 
 13:30 - 18:00 Work
 <p/>
-- Brain storming and network modelling with mentors (1 hr)
+- Brain storming and network modeling with mentors (1 hr)
 - Tool Development and Mapping (4 hrs)
 <p/>
 
@@ -110,7 +110,7 @@ The workshop will be in Turkish, please go to the [Turkish Hackathon page](/hack
 
 ## Topics, Mentors, Data Sources
 
-Mentors are invited to advise and participate in the modelling of networks on their respective topics. They will point to important types of actors in the field, which of their properties is interesting, and the critical relationships between the actor types.
+Mentors are invited to advise and participate in the modeling of networks on their respective topics. They will point to important types of actors in the field, which of their properties is interesting, and the critical relationships between the actor types.
 
 Data sources could be plain text (news article, report etc.), semi-structured document (HTML table, wiki pages etc.), or full structured data source (APIs, databases etc.). While [web scraping](https://en.wikipedia.org/wiki/Web_scraping) could be used for plain and semi-structured content, APIs and databases will be programmatically queried.
 
