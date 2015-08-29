@@ -178,9 +178,10 @@ Please recommend data sources to **workshop@graphcommons.com**
 
 ##### Mentors
 
-- [Mustafa Sönmez](https://twitter.com/mustfsnmz), Birgün
-- [Esra Gürakar](https://twitter.com/esra_gurakar), Okan Üniversitesi
+- [Orhan Silier](http://www.tarihvakfi.com/urun_liste.asp?kid=33976)
 - [Özlem Zıngıl](https://twitter.com/ozlemzingil), Şeffaflık Derneği
+- [Esra Gürakar](https://twitter.com/esra_gurakar), Okan Üniversitesi
+- [Mustafa Sönmez](https://twitter.com/mustfsnmz), Birgün
 
 ##### Data Sources
 
