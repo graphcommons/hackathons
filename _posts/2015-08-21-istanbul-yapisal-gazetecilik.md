@@ -282,7 +282,7 @@ Konulara göre bildiğiniz veri kaynakları ya da önerilerinizi **workshop@grap
     - [https://www.wikidata.org](https://www.wikidata.org)
     - [http://www.tuik.gov.tr](http://www.tuik.gov.tr)
     - [Google APIs](https://code.google.com/apis/console)
-    - [http://www.nytimes.com/pages/topics](http://www.nytimes.com/pages/topics)
+    - [New York Times Konuları](http://www.nytimes.com/pages/topics)
     - [https://sunlightfoundation.com/api](https://sunlightfoundation.com/api)
     - [Avrupa İnsan Hakları Mahkemesi Veritabanı](http://hudoc.echr.coe.int/)
     - [http://data.worldbank.org](http://data.worldbank.org)
@@ -314,7 +314,7 @@ Hackathon'da geliştirilecek tüm araçlar geliştiren kişilere aittir ve özg�
 ## Hackathon İletişim
 <p/>
 #### Katılımcılar için koordinasyon
-- [https://github.com/graphcommons/hackathons](https://github.com/graphcommons/hackathons)
+- [Graph Commons Hackathon Repository](https://github.com/graphcommons/hackathons)
 - [https://graphcommons.com](https://graphcommons.com)
 - Graph Commons Slack grubu
 
