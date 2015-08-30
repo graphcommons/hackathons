@@ -222,7 +222,7 @@ Aşağıdaki konularda bildiğiniz veri kaynakları önerilerinizi **workshop@gr
 - [RATEM Sektör Raporu, 2013](http://www.ratem.org/web/RATEM_Sektor_Raporu_2014.pdf)
 - [Medya temsilcileri Darbeleri Araştırma Komisyonu'na ne anlattı?](http://t24.com.tr/haber/tbmm-darbe-ve-muhtiralari-arastirma-komisyonu-tutanaklari,217339)
 
-### İş Cinayetleri ve İşçi Eylemleri
+### Emek: çalışma koşulları, acısı ve direnişleri
 
 ##### Mentörler
 

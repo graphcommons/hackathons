@@ -206,11 +206,13 @@ Please recommend data sources to **workshop@graphcommons.com**
 - [RATEM Sektör Raporu, 2013](http://www.ratem.org/web/RATEM_Sektor_Raporu_2014.pdf)
 - [Medya temsilcileri Darbeleri Araştırma Komisyonu'na ne anlattı?](http://t24.com.tr/haber/tbmm-darbe-ve-muhtiralari-arastirma-komisyonu-tutanaklari,217339)
 
-### Labor Crimes
+### Labor: working conditions, struggles, and resistance
 
 ##### Mentors
 
 - [Aslı Odman](https://twitter.com/odmanasli), Mimar Sinan Üniversitesi, İşçi Sağlığı ve İş Güvenliği Meclisi
+- [Ebru Işıklı](http://boun.academia.edu/EbruIsikli)
+- [Orhun Aras Köksal](http://ku.academia.edu/OrhunArasK%C3%B6ksal)
 
 ##### Data Sources
 
