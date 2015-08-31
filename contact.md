@@ -7,8 +7,7 @@ header-img: "img/about-bg.jpg"
 
 #### Email
 <p>
-    <a href="mailto:contact@graphcommons.com">contact@graphcommons.com</a><br>
-    PGP: CCE6 0712 0883 78E0 BB5F 2985 C6A9 0E83 881C 991E
+    <a href="mailto:workshop@graphcommons.com">workshop@graphcommons.com</a>
 </p>
 
 #### Website
