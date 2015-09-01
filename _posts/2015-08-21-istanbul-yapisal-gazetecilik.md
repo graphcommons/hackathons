@@ -278,6 +278,8 @@ Aşağıdaki konularda bildiğiniz veri kaynakları önerilerinizi **workshop@gr
 
 ### Göçmen Hakları
 
+Şu anda Suriyeli göçmen/mülteci krizinde en önemli aktörler **göçmenler**, ilgili ülkelerin **politika yapıcıları**, **göçmenler için ayrılan bütçeleri**, **uluslararası ve ulusal STK'lar**, ve **basın** olarak sıralanabilir. Bölgede komşu ülkeler ile AB ülkeleri’nde uygulanan göç politikaları, bu konuya ayrılan bütçeler "policy oriented" bir haritalamaya imkan verebilir.  Göç yolculuğunu UNHCR verileri ile haritalamak, AB ülkelerinin ne derece atıl kaldığını gösterecektir. Bunun yanı sıra göç matrisleri (adnks’den çekilebilecek olanlar) kullanılarak göç veren ve göç alan yerler birbirlerine bağlanarak göç örüntüleri gösterilebilir. Ayrıca hergün Suriyeliler ile ilgili haber yapan basın, haber dilinde “göç dalgası”, “göç akımı”, “kaçak” gibi pejoratif kavramları ne sıklıkta kullanıyor buna bakılabilir.
+
 ##### Mentörler
 
 - [Özge Aktaş Mazman](http://www.tesev.org.tr/ozge-aktas-mazman/Content/1834.html), TESEV
