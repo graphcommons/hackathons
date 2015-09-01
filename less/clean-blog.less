@@ -1,7 +1,7 @@
 @import "variables.less";
 @import "mixins.less";
 
-// Global Components
+// Global Components - - - - - - - - - - - - - - - - - - - - -
 
 body {
 	.serif;
@@ -12,7 +12,7 @@ body {
 	}
 }
 
-// -- Typography
+// Typography - - - - - - - - - - - - - - - - - - - - -
 
 p {
 	line-height: 1.5;
@@ -59,7 +59,13 @@ hr.small {
 	border-color: white;
 }
 
-// Navigation
+article {
+	li a {
+		color: desaturate(@brand-primary, 40%);
+	}
+}
+
+// Navigation - - - - - - - - - - - - - - - - - - - - -
 
 .navbar-custom {
 	background: white;
@@ -157,7 +163,7 @@ hr.small {
 	}
 }
 
-// Header
+// Header - - - - - - - - - - - - - - - - - - - - -
 
 .intro-header {
 	background: no-repeat center center;
@@ -234,7 +240,7 @@ hr.small {
 }
 
 
-// Post Preview Pages
+// Post Preview Pages - - - - - - - - - - - - - - - - - - - - -
 
 .post-preview {
 	> a {
@@ -311,7 +317,7 @@ footer {
 	}
 }
 
-// Contact Form Styles
+// Contact Form Styles - - - - - - - - - - - - - - - - - - - - -
 
 .floating-label-form-group {
 	font-size: 14px;
@@ -415,7 +421,7 @@ form .row:first-child .floating-label-form-group {
 	margin-top: 25px;
 }
 
-// Pager Styling
+// Pager Styling - - - - - - - - - - - - - - - - - - - - -
 
 .pager {
 
