@@ -288,6 +288,12 @@ Aşağıdaki konularda bildiğiniz veri kaynakları önerilerinizi **workshop@gr
 - [http://www.multeci.net](http://www.multeci.net)
 - [Avrupa ve Çevresi Göçmen Kampı Haritaları, 2005-2009, Migreurop](http://dugumkume.org/avrupa-ve-cevresi-gocmen-kampi-haritalari-2005-2009-migreurop/)
 - [Migreurop Network](http://www.migreurop.org/article643.html?lang=en)
+- [Türkiye iç göç akımlarının güncel verisi ve göçmenlerin yaş ve eğitim profilleri](http://tuikapp.tuik.gov.tr/adnksdagitapp/adnks.zul)
+- [Suriyeli göçmenler ile ilgili güncel veriler](http://www.3rpsyriacrisis.org/the-3rp/turkey/) bu sayfadan indirilebilecek stratejik dokumandan da faydalanilabilir.
+- [Suriyeli göçmenler ile ilgili insani yardım ve araştırma için hangi ülke ve hangi kurum ne kadar fon veriyor](http://data.unhcr.org/syrianrefugees/country.php?id=224) Bu dökümanlar Orta Doğu’daki diğer ülkelerin de dahil olduğu bir harita üzerine akan fonları gösterebilir.
+- [Afad 2013 tarihli Suriyeliler saha raporları ve Suriyeli kadınlar ile ilgili 2014 tarihli raporu](https://www.afad.gov.tr/TR/IcerikDetay1.aspx?ID=16&IcerikID=1636)
+- [Uluslarlararasi göç örgütü Türkiye sayfası ](http://www.turkey.iom.int) Genel olarak Türkiye göçmen verileri.
+- [Suriyeliler ile ilgili araştırma yapmış Türkiye’deki STK’lar ve ne konuda araştırma yaptıkları](http://www.anadolukultur.org/tr/calisma-alanlari/kulturel-cesitlilik-ve-insan-haklari/suriyeli-multeciler-bekleme-odasindan-oturma-odasina/178)
 
 ### Militarizm
 
