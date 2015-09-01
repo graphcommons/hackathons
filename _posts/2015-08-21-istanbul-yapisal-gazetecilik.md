@@ -313,6 +313,8 @@ Aşağıdaki konularda bildiğiniz veri kaynakları önerilerinizi **workshop@gr
 
 ### Sürdürülebilir Tarım ve Gıda
 
+Ekosistem insanın kendine dönük değerlendirmesi içinde "kaynak" olarak kavranabiliyor, "gıda" bu kaynaklardan biri, "ekoloji" de sıklıkla bu kaynaklarla nasıl bir iletişim ve ilişkide olduğumuzla yüzleşmemizi sağlayan bir bilim dalı. Bu bağlamda kaynaklar: **biyotik kaynaklar** ve **abiyotik kaynaklar** olarak ikiye ayrılır, her ikisinin de **"gıda"** bağlamında haritalamasının ekolojik varlığımızı şeffaflaştıracaktır. Hem gıda, hem biyotik, hem de abiyotik üzerinden bakıldığında sucul kaynakların nasıl talan edildiğini hem de yeni av mevsiminin başladığı şu günlerde İstanbul'un haline bakarak, **balıkçılar**, **kooperatifler** ve **kabzımallar** üzerinden haritalandırabilir.
+
 ##### Mentörler
 
 - [Defne Koryürek](https://twitter.com/dkoryurek), Fikir Sahibi Damaklar
