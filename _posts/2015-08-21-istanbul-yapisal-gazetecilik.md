@@ -278,7 +278,9 @@ Aşağıdaki konularda bildiğiniz veri kaynakları önerilerinizi **workshop@gr
 
 ### Göçmen Hakları
 
-Şu anda yaşanan Suriyeli göçmen/mülteci krizinde en önemli aktörler **göçmenler**, ilgili ülkelerin **politika yapıcıları**, **göçmenler için ayrılan bütçeleri**, **uluslararası ve ulusal STK'lar**, ve **basın** olarak sıralanabilir. Bölgede **komşu ülkeler ile AB ülkeleri’nde uygulanan göç politikaları**, bu konuya ayrılan **bütçeler** "policy oriented" bir haritalamaya imkan verebilir. **Göç yolculuğu** UNHCR verileri ile haritalanabilir, AB ülkelerinin ne derece atıl kaldığını gösterecektir. Bunun yanı sıra göç matrisleri (adnks) kullanılarak **göç veren ve göç alan yerler** birbirlerine bağlanarak göç örüntüleri gösterilebilir. Ayrıca hergün Suriyeliler ile ilgili haber yapan basın, **haber dili** “göç dalgası”, “göç akımı”, “kaçak” gibi pejoratif kavramları ne sıklıkta kullanıyor buna bakılabilir.
+Şu anda yaşanan Suriyeli göçmen/mülteci krizinin en önemli aktörleri **göçmenler**, ilgili ülkelerin **politika yapıcıları** ve **göçmenler için ayrılan bütçeleri**, **uluslararası ve ulusal STK’lar**,  **basın** olarak sıralanabilir. Bölgede Suriye’ye **komşu ülkeler ile AB ülkeleri’nde uygulanan göç politikaları**, bu konuya ayrılan insani yardım **bütçeleri** politika odaklı bir haritalamaya imkan verebilir. **Göçmenlerin Suriye’den başlayıp komşu ülkeler veya Avrupa’da son bulan yolculukları** kısmen de olsa UNHCR verileri ile haritalanabilir. Hemen hemen hergün Suriyeli göçmenlerle ilgili haber yapan medyada kullanılan **haber diline bakarak**;  “göç dalgası”, “kaçak” gibi yerici (pejoratif) kavramların kullanım sıklığı incelenebilir.
+
+Türkiye’de gerçekleşen iç göçü anlamak için TÜİK ADNKS veritabanından çekilecek göç matrisleri üzerinde **göç veren ve göç alan yerler** birbirlerine bağlanarak göç örüntüleri gösterilebilir.
 
 ##### Mentörler
 
