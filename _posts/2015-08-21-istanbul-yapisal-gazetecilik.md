@@ -132,6 +132,8 @@ Veri toplanacak kaynaklar düz metin (haber, rapor, bildiri), yarı yapısal (HT
 
 Aşağıdaki konularda bildiğiniz veri kaynakları önerilerinizi **workshop@graphcommons.com** adresine gönderebilirsiniz.
 
+<a name="kent"></a>
+
 ### Ekoloji ve Kent Hakkı
 
 ##### Mentörler
@@ -152,6 +154,9 @@ Aşağıdaki konularda bildiğiniz veri kaynakları önerilerinizi **workshop@gr
 - [http://bianet.org/bianet/cevre](http://bianet.org/bianet/cevre)
 - [http://bianet.org/bianet/kent](http://bianet.org/bianet/kent)
 
+
+<a name="internet"></a>
+
 ### İnternet ve İfade Özgürlüğü
 
 ##### Mentörler
@@ -168,6 +173,9 @@ Aşağıdaki konularda bildiğiniz veri kaynakları önerilerinizi **workshop@gr
 - [http://engelliweb.com](http://engelliweb.com)
 - [Bianet İfade Özgürlüğü Kategorisi](http://bianet.org/bianet/ifade-ozgurlugu)
 
+
+<a name="meclis"></a>
+
 ### Meclis ve Kanunlar
 
 ##### Mentörler
@@ -180,6 +188,9 @@ Aşağıdaki konularda bildiğiniz veri kaynakları önerilerinizi **workshop@gr
 - [https://tbmm.gov.tr](https://tbmm.gov.tr)
 - [TBMM Soru Önergeleri Sorgulama](https://www.tbmm.gov.tr/develop/owa/yazili_sozlu_soru_sd.sorgu_baslangic)
 
+
+<a name="kamu"></a>
+
 ### Bölgesel Kamu Politikaları ve Yatırımları
 
 ##### Mentörler
@@ -189,6 +200,9 @@ Aşağıdaki konularda bildiğiniz veri kaynakları önerilerinizi **workshop@gr
 ##### Kaynaklar
 
 - [http://yereldemokrasi.net](http://yereldemokrasi.net)
+
+
+<a name="tekel"></a>
 
 ### Tekelcilik, Yolsuzluk, Şeffaflık
 
@@ -204,6 +218,9 @@ Aşağıdaki konularda bildiğiniz veri kaynakları önerilerinizi **workshop@gr
 - [Hazine Müsteşarlığı Merkezi Finans ve İhale](http://www.cfcu.gov.tr)
 - [Bilgi Edinme Hakkı Kanunu](https://tr.wikipedia.org/wiki/Bilgi_Edinme_Hakk%C4%B1_Kanunu)
 - [http://mulksuzlestirme.org](http://mulksuzlestirme.org)
+
+
+<a name="medya"></a>
 
 ### Medya Sahipliği
 
@@ -221,6 +238,7 @@ Aşağıdaki konularda bildiğiniz veri kaynakları önerilerinizi **workshop@gr
 - [RTÜK](http://www.rtuk.org.tr/Home/SolMenu/109#)
 - [RATEM Sektör Raporu, 2013](http://www.ratem.org/web/RATEM_Sektor_Raporu_2014.pdf)
 - [Medya temsilcileri Darbeleri Araştırma Komisyonu'na ne anlattı?](http://t24.com.tr/haber/tbmm-darbe-ve-muhtiralari-arastirma-komisyonu-tutanaklari,217339)
+
 
 <a name="emek"></a>
 
@@ -255,6 +273,7 @@ Alanda önemli olan aktörler **Sendikalar**, **Sendikamsı işçi örgütlenmel
 - İşveren Örgütleri raporları ([MESS](https://www.mess.org.tr) ...)
 
 
+<a name="kadin"></a>
 
 ### Kadın Hakları
 
@@ -273,6 +292,9 @@ Alanda önemli olan aktörler **Sendikalar**, **Sendikamsı işçi örgütlenmel
 - [http://www.5harfliler.com](http://www.5harfliler.com)
 - [Bianet Kadın Kategorisi](http://bianet.org/bianet/kadin)
 
+
+<a name="lgbti"></a>
+
 ### LGBTİ Hakları
 
 ##### Mentörler
@@ -286,6 +308,9 @@ Alanda önemli olan aktörler **Sendikalar**, **Sendikamsı işçi örgütlenmel
 - [Lambda Istanbul](http://www.lambdaistanbul.org)
 - [Bianet LGBTİ kategorisi](http://bianet.org/bianet/lgbti)
 
+
+<a name="egitim"></a>
+
 ### Eğitim Reformu
 
 ##### Mentörler
@@ -296,6 +321,9 @@ Alanda önemli olan aktörler **Sendikalar**, **Sendikamsı işçi örgütlenmel
 
 - [Eğitim Reformu Girişimi](http://erg.sabanciuniv.edu/en)
 - [Yüksek Eğitim Endüstriyel Kompleksi](http://burak-arikan.com/ozeluniversiteler)
+
+
+<a name="gocmen"></a>
 
 ### Göçmen Hakları
 
@@ -334,6 +362,9 @@ Türkiye’de gerçekleşen iç göçü anlamak için TÜİK ADNKS veritabanınd
 - [http://hakikatadalethafiza.org](http://hakikatadalethafiza.org)
 - [Bianet militarizm kategorisi](http://bianet.org/bianet/militarizm)
 - [Vicdani Ret Derneği](http://vicdaniret.org)
+
+
+<a name="gida"></a>
 
 ### Sürdürülebilir Tarım ve Gıda
 
@@ -383,6 +414,7 @@ Ekosistem insanın kendine dönük değerlendirmesi içinde "kaynak" olarak kavr
 - [Avrupa İnsan Hakları Mahkemesi Veritabanı](http://hudoc.echr.coe.int/)
 - [http://data.worldbank.org](http://data.worldbank.org)
 - [List of news media APIs](https://en.wikipedia.org/wiki/List_of_news_media_APIs)
+
 
 <a name="yayin-platformlari"></a>
 
