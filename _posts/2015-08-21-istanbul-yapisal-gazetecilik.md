@@ -224,16 +224,35 @@ Aşağıdaki konularda bildiğiniz veri kaynakları önerilerinizi **workshop@gr
 
 ### Emek: çalışma koşulları, acısı ve direnişleri
 
+Alanda önemli olan aktörler **Sendikalar**, **Sendikamsı işçi örgütlenmeleri** (bazen mahalle örgütlenmeleri ve dergi çevreleri ile içiçe), **DİSK_AR**, mesleki sağlık ve güvenlik alanında **TTB**, özellikle **İşçi Sağlığı ve İşyeri Hekimliği Kolu**, sayıları 130.000'i geçen TÜİSAG ve İSAG gibi  **İSİG uzmanları örgütlenmeleri**, **Çalışma ve Sosyal Güvenlik Bakanlığı**, **ÇŞB**, **Enerji Bakanlığı**, **OSGB (Ortak Sağlık ve Güvenlik Birimi) Sunucuları**, ve **İşveren Örgütleri**.
+
 ##### Mentörler
 
 - [Aslı Odman](https://twitter.com/odmanasli), Mimar Sinan Üniversitesi, İşçi Sağlığı ve İş Güvenliği Meclisi
+- [İrfan Kaygısız](https://twitter.com/rfankaygsz), Birleşik-Metal Sendikası Uzmanı
 - [Ebru Işıklı](http://boun.academia.edu/EbruIsikli)
 - [Orhun Aras Köksal](http://ku.academia.edu/OrhunArasK%C3%B6ksal)
 
 ##### Kaynaklar
 
-- [http://guvenlicalisma.org](http://guvenlicalisma.org)
+- [http://guvenlicalisma.org](http://guvenlicalisma.org) Haziran 2011'den beri aylık raporlar yayınlıyor.
 - [Yangın Kulesi](http://guvenlicalisma.org/index.php?option=com_content&view=category&id=142:yangin-kulesi&Itemid=229)
+- [İş Cinayetleri Almanakları 2013-3015](http://iscinayetleriniunutma.org) Ay ay ölümlerin 'hikayelerine' daha ayrıntılı giriyor ve meslek hastlalığı emare ve nedenlerine dair mülakatlar yayınlıyor.
+- [Türk Tabipler Birliği Mesleki Sağlık Güvenlik Dergisi](http://www.ttb.org.tr/MSG/) ve [İşçi Sağlığı ve İşyeri Hekimliği Kolu](http://www.ttb.org.tr/kol/is/)
+- TMMOB'a bağlı spesifik Oda'ların bazı raporları emekle ilgili veriler de içeriyor ([Maden Mühendisleri Odası](http://www.maden.org.tr/), [İnşaat Mühendisleri Odası](http://www.imo.org.tr/) ...)
+- Emek Direnişlerini 2013'den beri aylık olarak basın taramalarından tutan İrfan Kaygısız'ın işleri / makaleleri ([DİSK_AR dergisi](www.disk.org.tr/category/diskten/disk-ar/)) + 2015'den beri aylık raporlar hazırlayan ekibin işleri.
+- [sendika1.org](http://sendika1.org/) arşivleri 2000'den beri emek direnişlerinin nabzını tutuyor.
+- [Evrensel](http://www.evrensel.net/), [Özgür Gündem](http://www.ozgur-gundem.com/), [http://direnemek.org](http://direnemek.org)
+- [SGK](www.sgk.gov.tr/wps/portal/tr/kurumsal/istatistikler) iş kazaları / meslek hastalıkları verileri (soru önergelerine yansıdığı kadarıyla güncel veriler de)
+- [TÜİSAG](http://tuisag.com/yillik-is-kazalari-istatistikleri/) ve [İSAG](http://www.isag.org.tr) İş Sağlığı ve Güvenliği Profesyonelleri Toplulukları veri derlemeleri
+- [Çalışma ve Sosyal Güvenlik Bakanlığı](http://www.csgb.gov.tr/csgbPortal/csgb.portal) ve İş Sağlığı ve Güvenliği Genel Müdürlüğü'nün sağladığı resmi çalışan sayıları, sendikalı sayıları
+- [Hane halkı işgücü anketleri](http://www.tuik.gov.tr/Kitap.do?metod=KitapDetay&KT_ID=8&KITAP_ID=25) sonuçları
+- Eski DPT (Devlet Planlama Teşkilatı) 5 yıllık kalkınma raporlarının sektörel kısımları
+- [İş Müfettişleri Derneği](http://www.ismufder.org/)
+- [Yatırım Ortamını İyileştirme Koordinasyon Kurulu](http://www.yoikk.gov.tr/detay.cfm?MID=1) (YOİKK)
+- İşveren Örgütleri raporları ([MESS](https://www.mess.org.tr) ...)
+
+
 
 ### Kadın Hakları
 
@@ -290,6 +309,7 @@ Türkiye’de gerçekleşen iç göçü anlamak için TÜİK ADNKS veritabanınd
 
 - [http://gocmendayanisma.org](http://gocmendayanisma.org)
 - [http://www.multeci.net](http://www.multeci.net)
+- [http://www.themigrantsfiles.com](http://www.themigrantsfiles.com)
 - [Avrupa ve Çevresi Göçmen Kampı Haritaları, 2005-2009, Migreurop](http://dugumkume.org/avrupa-ve-cevresi-gocmen-kampi-haritalari-2005-2009-migreurop/)
 - [Migreurop Network](http://www.migreurop.org/article643.html?lang=en)
 - [Türkiye iç göç akımlarının güncel verisi ve göçmenlerin yaş ve eğitim profilleri](http://tuikapp.tuik.gov.tr/adnksdagitapp/adnks.zul)
