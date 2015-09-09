@@ -151,6 +151,15 @@ Please recommend data sources to **workshop@graphcommons.com**
 - [http://privacy.cyber-rights.org.tr](http://privacy.cyber-rights.org.tr)
 - [http://engelliweb.com](http://engelliweb.com)
 - [Bianet İfade Özgürlüğü Kategorisi](http://bianet.org/bianet/ifade-ozgurlugu)
+- [Article19](https://www.article19.org/)
+- [Access](https://www.accessnow.org/)
+- [Chaos Computing Club](https://www.ccc.de/en/)
+- [Çağdaş Gazeteciler Derneği](http://www.cgd.org.tr/)
+- [Index on censorship](https://www.indexoncensorship.org/)
+- [Sınır Tanımıyan Gazeteciler](https://en.rsf.org/)
+- [EDRI](https://edri.org/)
+- [Global Voices](https://globalvoicesonline.org/)
+
 
 ### Open Government and Laws
 
