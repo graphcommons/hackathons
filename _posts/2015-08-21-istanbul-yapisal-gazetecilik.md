@@ -277,9 +277,11 @@ AKP hükümeti sadece son (24.) dönemde meclise 744 kanun tasarısı sevk etti.
 
 ### Medya Sahipliği
 
-Medya sahipliğinin yıllara göre dağılımının değişimini göstermek önemli olacaktır. Medya sahipliği ile diğer yatırımlar arasındaki ilişki, bu ilişkinin tarihsel değişimi, hangi medya sahibi hangi yatırımlarla ne kadar büyümüş?
+Medya sahipliğinin yıllara göre dağılımının değişimini göstermek önemli olacaktır. Medya sahipliği ile diğer yatırımlar arasındaki ilişki, bu ilişkinin tarihsel değişimi, hangi medya sahibi hangi yatırımlarla ne kadar büyümüş? Medya sahiplerine verilen teşvikler nelerdir?
 
 Medya sahiplerinin kamu ihalelerine başvuru ve kazanma oranı (kamu ihalelerine ait veri tabanları kullanılabilir). İşten çıkarılan gazetecilerin sayısı ve ihaleler arası bir ilişki kurulabilir mi? Rekabet Kurulu'nun medya ile ilgili kararları tablolaştırılabilir. RTÜK sitesindeki lisans verilen şirketlerin haritalanması yapılabilir, çoğunlukla orada yazan şirket isimlerinden hangi medya grubuna ait olduğu anlaşılmayabiliyor. Bunları birleştirerek medya sahipliğine dair bir harita çok faydalı olacaktır.
+
+Medyada reklamveren ve reklam alan ilişkileri ile basın-ilan kurumundan ilan alma ilişkileri haritalandırılabilir. 
 
 Medya yöneticilerinin daha önce çalıştıkları yerlerin haritası. Geçmiş yönetim kurulu, yöneticilerini çıkararak kimin hangi medyayı kurduğunu ardından nereye geçtiğini görmek (Darbeleri Araştırma Komisyonu raporları kullanılabilir).
 
