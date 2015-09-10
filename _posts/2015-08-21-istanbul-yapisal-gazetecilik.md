@@ -165,9 +165,9 @@ Mahremiyet nasıl korunur? Sağlıktan sosyal medyaya ne tür **kişisel veriler
 
 **İnternet sansürü** içinde BTK, RTÜK vb devlet kurumlarının ve ISP'lerin rolleri ve ilişkileri nelerdir? 5651 kanun maddeleri hangi sansürleri nasıl bağlamaktadır?
 
-**Alternatif medya** hangi ilişikilerle sürdürülebilir kılınabilir? Yurttaş gazeteciliği, kitlesel fonlama, paylaşım ekonomisi, hibe fon desteği, medyalar arası dayanışma gibi modeller hali hazırda alternatif medya için nasıl işlemektedir?
+**Alternatif medya** hangi ilişikilerle sürdürülebilir hale gelebilir? Yurttaş gazeteciliği, kitlesel fonlama, paylaşım ekonomisi, hibe fon desteği, medyalar arası dayanışma gibi modeller hali hazırda alternatif medya için nasıl işlemektedir?
 
-**Sosyal medyada nefret söylemi ve troller** nasıl işliyor?
+**Sosyal medyada nefret söylemi ve troller** nasıl organize oluyor, nasıl yayılıyor, nasıl etki ediyor?
 
 ##### Mentörler
 
