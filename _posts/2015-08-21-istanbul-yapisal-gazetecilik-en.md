@@ -374,10 +374,11 @@ All tools created in the workshop belongs to its creators and expected to be lic
 
 ## Hackathon Contact
 <p/>
+
 #### Coordination for participants
-- [Graph Commons Hackathon Repository](https://github.com/graphcommons/hackathons)
-- [https://graphcommons.com](https://graphcommons.com)
-- Graph Commons on Slack
+- [Graph Commons](https://graphcommons.com)
+- [Graph Commons on Slack](https://graphcommons.com/slack)
+- [Graph Commons on Github](https://github.com/graphcommons)
 
 #### General Contact
 - [https://graphcommons.com/contact](https://graphcommons.com/contact)

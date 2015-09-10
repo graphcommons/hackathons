@@ -449,9 +449,9 @@ Hackathon'da geliştirilecek tüm araçlar geliştiren kişilere aittir ve özg�
 ## Hackathon İletişim
 <p/>
 #### Katılımcılar için koordinasyon
-- [Graph Commons Hackathon Repository](https://github.com/graphcommons/hackathons)
-- [https://graphcommons.com](https://graphcommons.com)
-- Graph Commons Slack grubu
+- [Graph Commons](https://graphcommons.com)
+- [Graph Commons Slack Chat Kanalı](https://graphcommons.com/slack)
+- [Graph Commons Github Kod Deposu](https://github.com/graphcommons)
 
 #### Genel iletişim
 - [https://graphcommons.com/contact](https://graphcommons.com/contact)
