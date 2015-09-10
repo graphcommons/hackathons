@@ -229,6 +229,8 @@ Mahremiyet nasıl korunur? Sağlıktan sosyal medyaya ne tür **kişisel veriler
 
 ### Tekelcilik, Yolsuzluk, Şeffaflık
 
+**Yerel yönetimde yolsuzluk** – Algımız genelde ulusal düzeyde ya da İstanbul-Ankara gibi şehirlerde olup bitenlere yönelmekte, ancak asıl "oy makinası" yerel düzeyde çalışmakta. Yerel düzeyde siyasi oluşumlar içinde aktörler neler? **İl/ilçe belediye meclis üyeleri**, **parti il/ilçe başkanları ve il/ilçe örgüt üyeleri**, **spor klüpleri yönetim kadroları**, **yerel medya sahipleri**, **hemşehri dernekleri**. Bu aktörler arasındaki ilişki biçimleri **kamu ihalelerinin dağıtımı**, **yerel siyasete devşirme**, çeşitli **yönetimlere atama** şeklinde olabiliyor. Yerel medyada ise anaakım medyada olanların küçük ölçeklileri gerçekleşmekte.
+
 ##### Mentörler
 
 - [Orhan Silier](http://www.tarihvakfi.com/urun_liste.asp?kid=33976)
