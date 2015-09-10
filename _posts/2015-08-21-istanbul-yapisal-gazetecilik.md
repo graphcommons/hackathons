@@ -201,6 +201,19 @@ Mahremiyet nasıl korunur? Sağlıktan sosyal medyaya ne tür **kişisel veriler
 
 ### Meclis ve Kanunlar
 
+AKP hükümeti sadece son (24.) dönemde meclise 744 kanun tasarısı sevk etti. Kanunlarda yapılan değişiklikler pek çok şirkete imtiyazlar vermekte. Sadece halkı mülksüzleştirmeye yol açan kanun değişikliklerine bakarsak:
+- 4734 sayılı kamu ihale kanunu ile 2008'de Md 20'ye yapılan bir değişiklik ile ihalelerin "belli istekliler"e verilmesinin yolu açıldı.
+- 3996 sayılı yap-işlet-devret kanunu
+- 5346 sayılı kanun (enerji)
+- 5396 sayılı Sağlık Hizmetleri Kanunu (hastaneleri İkitelli Sağlık Kent'e Yap-Kirala-Devret yöntemi ile taşıyıp, şehir içindeki hastane arazilerini TOKİ'ye bırakan kanun)
+- 5366 sayılı Yıpranan Tarihi ve Kültürel taşınmazların yenilenmesi ile ilgili kanun
+- 2985 sayılı toplu konut kanunu
+- 5273 sayılı arsa üretimi ve değerlendirilmesi kanunu (1164 sayılı Arsa Ofisi Kanunu) - Devlet Arsa Ofisine ait 64 milyon metrekare arsayı TOKİ'te transfer eden kanun
+- TOKİ'yi doğrudan başbakanlığa bağlayan kanun
+- TOKİ'nin özel firmalar ile ortak iş yapmasını sağlayan kanun
+- TOKİ'yi arazi vergisinden muaf kılan kanun
+- Yassıada'yı YİD kapsamına alan 6456 saylı kanun
+
 ##### Mentörler
 
 - [Özlem Zıngıl](https://twitter.com/ozlemzingil), Şeffaflık Derneği
