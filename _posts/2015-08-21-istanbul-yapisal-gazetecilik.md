@@ -138,7 +138,7 @@ Aşağıdaki konularda bildiğiniz veri kaynakları önerilerinizi **workshop@gr
 
 Devlet kurumları ile şirketler arasında müşterek varlıklarımızı elimizden alan ne tür ortaklıklar kuruluyor? İhale imtiyazlarından yararlana (21b pazarlık usülü, ÇED'den muafiyet, İmar planı değişikliği vb.) şirketler hangileri, bu imtiyazları sağlayan kamu kurumları hangileri?
 
-Gıda meselesinde organik ürün üreticileri aslında bu kirli ağlarda yer alan firmalardan mıdır? Ana gıda markaları, süpermarket zincirlerinin sahiplik ilişkilerini nasıldır? Gıda piyasasının diğer piyasalarla ilişkilerini gösterebilir miyiz? 
+Gıda meselesinde organik ürün üreticileri aslında bu kirli ağlarda yer alan firmalardan mıdır? Ana gıda markaları, süpermarket zincirlerinin sahiplik ilişkilerini nasıldır? Gıda piyasasının diğer piyasalarla ilişkilerini gösterebilir miyiz?
 
 ##### Mentörler
 
@@ -157,7 +157,8 @@ Gıda meselesinde organik ürün üreticileri aslında bu kirli ağlarda yer ala
 - [http://www.karaatlas.org](http://www.karaatlas.org)
 - [http://bianet.org/bianet/cevre](http://bianet.org/bianet/cevre)
 - [http://bianet.org/bianet/kent](http://bianet.org/bianet/kent)
-
+- ÇEB'in illere özel yaptığı duyurular, örn [Giresun ](http://www.csb.gov.tr/iller/giresun/index.php?Sayfa=duyuruliste), [Tunceli](http://www.csb.gov.tr/iller/tunceli/index.php?Sayfa=duyuruliste), [Erzincan](http://www.csb.gov.tr/iller/erzincan/index.php?Sayfa=duyuruliste)
+- [EKAP ihale arama motoru ](https://ekap.kik.gov.tr)
 
 <a name="internet"></a>
 
