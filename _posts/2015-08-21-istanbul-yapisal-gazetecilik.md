@@ -389,20 +389,6 @@ Türkiye’de gerçekleşen iç göçü anlamak için TÜİK ADNKS veritabanınd
 - [Uluslarlararasi göç örgütü Türkiye sayfası ](http://www.turkey.iom.int) Genel olarak Türkiye göçmen verileri.
 - [Suriyeliler ile ilgili araştırma yapmış Türkiye’de STK’lar ve araştırma konuları](http://www.anadolukultur.org/tr/calisma-alanlari/kulturel-cesitlilik-ve-insan-haklari/suriyeli-multeciler-bekleme-odasindan-oturma-odasina/178)
 
-### Militarizm
-
-##### Mentörler
-
-- [Kerem Çiftçioğlu](https://twitter.com/keyhude), Hakikat Adalet Hafıza Merkezi
-
-##### Kaynaklar
-
-- [http://www.askerhaklari.com](http://www.askerhaklari.com)
-- [http://www.zorlakaybetmeler.org](http://www.zorlakaybetmeler.org)
-- [http://hakikatadalethafiza.org](http://hakikatadalethafiza.org)
-- [Bianet militarizm kategorisi](http://bianet.org/bianet/militarizm)
-- [Vicdani Ret Derneği](http://vicdaniret.org)
-
 
 <a name="gida"></a>
 
@@ -435,6 +421,22 @@ Ekosistem insanın kendine dönük değerlendirmesi içinde "kaynak" olarak kavr
 - [Yeşil Gazete](http://yesilgazete.org/)
 - [Yeşilist](http://www.yesilist.com/)
 
+<a name="militarizm"></a>
+### Militarizm
+
+##### Mentörler
+
+- [Kerem Çiftçioğlu](https://twitter.com/keyhude), Hakikat Adalet Hafıza Merkezi
+
+##### Kaynaklar
+
+- [http://www.askerhaklari.com](http://www.askerhaklari.com)
+- [http://www.zorlakaybetmeler.org](http://www.zorlakaybetmeler.org)
+- [http://hakikatadalethafiza.org](http://hakikatadalethafiza.org)
+- [Bianet militarizm kategorisi](http://bianet.org/bianet/militarizm)
+- [Vicdani Ret Derneği](http://vicdaniret.org)
+
+<a name="genel"></a>
 ### Genel
 
 ##### Mentörler
