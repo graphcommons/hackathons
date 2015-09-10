@@ -209,7 +209,8 @@ AKP hükümeti sadece son (24.) dönemde meclise 744 kanun tasarısı sevk etti.
 - 5396 sayılı Sağlık Hizmetleri Kanunu (hastaneleri İkitelli Sağlık Kent'e Yap-Kirala-Devret yöntemi ile taşıyıp, şehir içindeki hastane arazilerini TOKİ'ye bırakan kanun)
 - 5366 sayılı Yıpranan Tarihi ve Kültürel taşınmazların yenilenmesi ile ilgili kanun
 - 2985 sayılı toplu konut kanunu
-- 5273 sayılı arsa üretimi ve değerlendirilmesi kanunu (1164 sayılı Arsa Ofisi Kanunu) - Devlet Arsa Ofisine ait 64 milyon metrekare arsayı TOKİ'te transfer eden kanun
+- 5273 sayılı arsa üretimi ve değerlendirilmesi kanunu (1164 sayılı Arsa Ofisi Kanunu)
+- Devlet Arsa Ofisine ait 64 milyon metrekare arsayı TOKİ'te transfer eden kanun
 - TOKİ'yi doğrudan başbakanlığa bağlayan kanun
 - TOKİ'nin özel firmalar ile ortak iş yapmasını sağlayan kanun
 - TOKİ'yi arazi vergisinden muaf kılan kanun
