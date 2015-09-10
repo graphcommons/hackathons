@@ -136,9 +136,13 @@ Aşağıdaki konularda bildiğiniz veri kaynakları önerilerinizi **workshop@gr
 
 ### Ekoloji ve Kent Hakkı
 
-Devlet kurumları ile şirketler arasında müşterek varlıklarımızı elimizden alan ne tür ortaklıklar kuruluyor? İhale imtiyazlarından yararlana (21b pazarlık usülü, ÇED'den muafiyet, İmar planı değişikliği vb.) şirketler hangileri, bu imtiyazları sağlayan kamu kurumları hangileri?
+Devlet kurumları ile şirketler arasında müşterek varlıklarımızı elimizden alan ne tür ortaklıklar kuruluyor? **İhale imtiyazlarından yararlananlar** (21b pazarlık usülü, ÇED'den muafiyet, İmar planı değişikliği vb.) şirketler hangileri, bu **imtiyazları sağlayan kamu kurumları** hangileri?
 
-Gıda meselesinde organik ürün üreticileri aslında bu kirli ağlarda yer alan firmalardan mıdır? Ana gıda markaları, süpermarket zincirlerinin sahiplik ilişkilerini nasıldır? Gıda piyasasının diğer piyasalarla ilişkilerini gösterebilir miyiz?
+Gıda alanında organik ürün üreticileri aslında mülksüzleştiren ağlarda yer alan firmalardan mıdır? Ana gıda markaları, **süpermarket zincirlerinin sahiplik ilişkileri** nasıldır? Gıda piyasasının diğer piyasalarla ilişkilerini gösterebilir miyiz?
+
+Çevre ve Şehircilik Bakanlığı sitesindeki duyurulardan mahalleleri ilgilendiren riskli alan, rezerv alan ilanları, kentsel dönüşüm projeleri, plan tadilatları, plan ilanları ve ihaleleri bilgilerini çıkarıp düzenli olarak güncellenen bir **mahalleler birliği ağ haritası** oluşturulabilir mi?
+
+**TOKİ Projeleri - Yüklenici Firma - Proje konut** ilişkisine bakılarak proje konut dairelerin büyüklüğü gösterebilir. Birçok yüklenici firma aslında tek bir firmaya ait olabiliyor. Bu örüntüleri nasıl görünür kılabiliriz?
 
 ##### Mentörler
 
@@ -149,16 +153,20 @@ Gıda meselesinde organik ürün üreticileri aslında bu kirli ağlarda yer ala
 ##### Kaynaklar
 
 - [İMECE](http://www.toplumunsehircilikhareketi.org)
-- [http://www.ekolojikolektifi.org](http://www.ekolojikolektifi.org)
-- [https://mutlukent.wordpress.com](https://mutlukent.wordpress.com)
-- [http://www.kuzeyormanlari.org](http://www.kuzeyormanlari.org)
-- [http://mulksuzlestirme.org](http://mulksuzlestirme.org)
-- [http://www.direncevre.org](http://www.direncevre.org)
-- [http://www.karaatlas.org](http://www.karaatlas.org)
-- [http://bianet.org/bianet/cevre](http://bianet.org/bianet/cevre)
-- [http://bianet.org/bianet/kent](http://bianet.org/bianet/kent)
+- [Ekoloji Kolektifi](http://www.ekolojikolektifi.org)
+- [Mutlu Kent](https://mutlukent.wordpress.com)
+- [kuzeyormanlari.org](http://www.kuzeyormanlari.org)
+- [mulksuzlestirme.org](http://mulksuzlestirme.org)
 - ÇEB'in illere özel yaptığı duyurular, örn [Giresun ](http://www.csb.gov.tr/iller/giresun/index.php?Sayfa=duyuruliste), [Tunceli](http://www.csb.gov.tr/iller/tunceli/index.php?Sayfa=duyuruliste), [Erzincan](http://www.csb.gov.tr/iller/erzincan/index.php?Sayfa=duyuruliste)
 - [EKAP ihale arama motoru ](https://ekap.kik.gov.tr)
+- [mahallelerbirligi.org](http://mahallelerbirligi.org)
+- [kentteadalet.org](http://kentteadalet.org)
+- [TOKİ İhale tarihleri](http://toki.gov.tr/ihale-tarihleri)
+- [direncevre.org](http://www.direncevre.org)
+- [karaatlas.org](http://www.karaatlas.org)
+- [http://bianet.org/bianet/cevre](http://bianet.org/bianet/cevre)
+- [http://bianet.org/bianet/kent](http://bianet.org/bianet/kent)
+- [Milliyet arşiv sayfası](http://gazetearsivi.milliyet.com.tr/)ndan "gecekondu" ile ilgili tüm haberlerler çekilip, yıllara göre ilişkilendirilebilir.
 
 <a name="internet"></a>
 
