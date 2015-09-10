@@ -422,6 +422,7 @@ Ekosistem insanın kendine dönük değerlendirmesi içinde "kaynak" olarak kavr
 - [Yeşilist](http://www.yesilist.com/)
 
 <a name="militarizm"></a>
+
 ### Militarizm
 
 ##### Mentörler
@@ -437,6 +438,7 @@ Ekosistem insanın kendine dönük değerlendirmesi içinde "kaynak" olarak kavr
 - [Vicdani Ret Derneği](http://vicdaniret.org)
 
 <a name="genel"></a>
+
 ### Genel
 
 ##### Mentörler
