@@ -167,7 +167,7 @@ Mahremiyet nasıl korunur? **Unutulma hakkının çerçevesi** nasıl çizilmeli
 
 **Alternatif medya** hangi ilişikilerle sürdürülebilir kılınabilir? Yurttaş gazeteciliği, kitlesel fonlama, paylaşım ekonomisi, hibe fon desteği, medyalar arası dayanışma gibi modeller hali hazırda alternatif medya için nasıl işlemektedir?
 
-**Sosyal medyada nefret söylemi ve troller** nasıl işliyor? 
+**Sosyal medyada nefret söylemi ve troller** nasıl işliyor?
 
 ##### Mentörler
 
@@ -176,7 +176,7 @@ Mahremiyet nasıl korunur? **Unutulma hakkının çerçevesi** nasıl çizilmeli
 - [Ahmet Sabancı](https://twitter.com/ahmetasabanci), Alternatif Bilişim Derneği, Jiyan
 
 ##### Kaynaklar
-
+- [5651 nolu İnternet kanunu](https://www.tbmm.gov.tr/kanunlar/k5651.html) 
 - [https://alternatifbilisim.org](https://alternatifbilisim.org)
 - [Internet Ungovernance Forum](https://iuf.alternatifbilisim.org)
 - [http://privacy.cyber-rights.org.tr](http://privacy.cyber-rights.org.tr)
