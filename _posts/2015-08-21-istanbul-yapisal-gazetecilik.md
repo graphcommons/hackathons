@@ -105,7 +105,7 @@ Katılım ücretsizdir. Yer sınırımız olduğundan, başvuru formunu doldurup
 
 13:30 - 18:00 Çalışma
 <p/>
-- Mentörlerle ağ modelleme beyin fırtınası (1 saat)
+- Ağ modelleme: Mentörlerle çizim yaprak beyin fırtınası (~1 saat)
 - Araç geliştirme ve Haritalama (4 saat)
 <p/>
 
@@ -135,6 +135,10 @@ Aşağıdaki konularda bildiğiniz veri kaynakları önerilerinizi **workshop@gr
 <a name="kent"></a>
 
 ### Ekoloji ve Kent Hakkı
+
+Devlet kurumları ile şirketler arasında müşterek varlıklarımızı elimizden alan ne tür ortaklıklar kuruluyor? İhale imtiyazlarından yararlana (21b pazarlık usülü, ÇED'den muafiyet, İmar planı değişikliği vb.) şirketler hangileri, bu imtiyazları sağlayan kamu kurumları hangileri?
+
+Gıda meselesinde organik ürün üreticileri aslında bu kirli ağlarda yer alan firmalardan mıdır? Ana gıda markaları, süpermarket zincirlerinin sahiplik ilişkilerini nasıldır? Gıda piyasasının diğer piyasalarla ilişkilerini gösterebilir miyiz? 
 
 ##### Mentörler
 
