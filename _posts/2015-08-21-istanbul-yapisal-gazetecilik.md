@@ -159,9 +159,9 @@ Aşağıdaki konularda bildiğiniz veri kaynakları önerilerinizi **workshop@gr
 
 ### İnternet ve İfade Özgürlüğü
 
-**Kitlesel gözetim** araçları, üreten şirketler, satın alan devlet kurumları nelerdir, nasıl kullanılmaktadır? Bu bağlamda yerel ve uluslarlararası kurum, birey, devlet arası ilişkiler nasıl düzenlenebilir?
+**Kitlesel gözetim** araçları, türleri, üreten şirketler, satın alan devlet kurumları, destekleyen uluslararası konsorsiyumlar nelerdir, bu gözetim teknolojileri nasıl kullanılmaktadır? Bu bağlamda yerel ve uluslarlararası kurum, birey, devlet arası mevcut ilişkiler nasıl düzenlenebilir?
 
-Mahremiyet nasıl korunur? Sağlıktan sosyal medyaya ne tür **kişisel verilerin gizliliği** sağlanmalıdır? Hangi firmalar ve kurumlar şu anda kişisel verileri toplamakta ve kullanmakta? **Unutulma hakkının çerçevesi** nasıl çizilmelidir? "Benim saklayacak hiçbirşeyim yok", "beni kim niye gözetlesin ki" gibi  pasif argümanlar ile daimi gözetim altında kalmayı kabullenmek nasıl sorunlara yol açmaktadır?
+Mahremiyet nasıl korunur? Sağlıktan sosyal medyaya ne tür **kişisel verilerin gizliliği** sağlanmalıdır? Hangi firmalar ve kurumlar şu anda kişisel verileri toplamakta ve kullanmakta? **Unutulma hakkının çerçevesi** nasıl çizilmelidir? "Benim saklayacak hiçbirşeyim yok", "beni kim niye gözetlesin ki" gibi pasif argümanlar ile daimi gözetim altında kalmayı kabullenmek nasıl sorunlara yol açmaktadır?
 
 **İnternet sansürü** içinde BTK, RTÜK vb devlet kurumlarının ve ISP'lerin rolleri ve ilişkileri nelerdir? 5651 kanun maddeleri hangi sansürleri nasıl bağlamaktadır?
 
