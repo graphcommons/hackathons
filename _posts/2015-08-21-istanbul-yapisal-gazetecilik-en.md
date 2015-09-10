@@ -93,7 +93,7 @@ The workshop will be in Turkish, please go to the [Turkish Hackathon page](/hack
 - Tool Development and Mapping (4 hrs)
 <p/>
 
-18:00 - 19:00 Prototypes Review
+18:00 - 19:00 First Prototypes Review
 
 #### Second Day (Sep 13 Sunday)
 

@@ -159,6 +159,16 @@ Aşağıdaki konularda bildiğiniz veri kaynakları önerilerinizi **workshop@gr
 
 ### İnternet ve İfade Özgürlüğü
 
+**Kitlesel gözetim** araçları, üreten şirketler, satın alan devlet kurumları nelerdir, nasıl kullanılmaktadır? Bu bağlamda yerel ve uluslarlararası kurum, birey, devlet arası ilişkiler nasıl düzenlenebilir?
+
+Mahremiyet nasıl korunur? **Unutulma hakkının çerçevesi** nasıl çizilmelidir? "Benim saklayacak hiçbirşeyim yok", "beni kim niye gözetlesin ki" gibi  pasif argümanlar ile daimi gözetim altında kalmayı kabullenmek nasıl sorunlara yol açmaktadır?
+
+**İnternet sansürü** içinde BTK, RTÜK vb devlet kurumlarının ve ISP'lerin rolleri ve ilişkileri nelerdir? 5651 kanun maddeleri hangi sansürleri nasıl bağlamaktadır?
+
+**Alternatif medya** hangi ilişikilerle sürdürülebilir kılınabilir? Yurttaş gazeteciliği, kitlesel fonlama, paylaşım ekonomisi, hibe fon desteği, medyalar arası dayanışma gibi modeller hali hazırda alternatif medya için nasıl işlemektedir?
+
+**Sosyal medyada nefret söylemi ve troller** nasıl işliyor? 
+
 ##### Mentörler
 
 - [Aslı Telli Aydemir](https://twitter.com/aslitelli), Alternatif Bilişim Derneği, İstanbul Şehir Üniversitesi
