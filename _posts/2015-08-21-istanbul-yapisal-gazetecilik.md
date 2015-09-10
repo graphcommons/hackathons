@@ -281,7 +281,7 @@ Medya sahipliğinin yıllara göre dağılımının değişimini göstermek öne
 
 Medya sahiplerinin kamu ihalelerine başvuru ve kazanma oranı (kamu ihalelerine ait veri tabanları kullanılabilir). İşten çıkarılan gazetecilerin sayısı ve ihaleler arası bir ilişki kurulabilir mi? Rekabet Kurulu'nun medya ile ilgili kararları tablolaştırılabilir. RTÜK sitesindeki lisans verilen şirketlerin haritalanması yapılabilir, çoğunlukla orada yazan şirket isimlerinden hangi medya grubuna ait olduğu anlaşılmayabiliyor. Bunları birleştirerek medya sahipliğine dair bir harita çok faydalı olacaktır.
 
-Medyada reklamveren ve reklam alan ilişkileri ile basın-ilan kurumundan ilan alma ilişkileri haritalandırılabilir. 
+Medyada reklamveren ve reklam alan ilişkileri ile basın-ilan kurumundan ilan alma ilişkileri haritalandırılabilir.
 
 Medya yöneticilerinin daha önce çalıştıkları yerlerin haritası. Geçmiş yönetim kurulu, yöneticilerini çıkararak kimin hangi medyayı kurduğunu ardından nereye geçtiğini görmek (Darbeleri Araştırma Komisyonu raporları kullanılabilir).
 
@@ -336,6 +336,30 @@ Alanda önemli olan aktörler **Sendikalar**, **Sendikamsı işçi örgütlenmel
 - İşveren Örgütleri raporları ([MESS](https://www.mess.org.tr) ...)
 
 
+<a name="egitim"></a>
+
+### Eğitim Reformu
+
+Türkiye'de sivil toplum kuruluşları eğitim alanına önemi katkılar yapıyorlar. Bu aslında Osmanlı'ya kadar uzanan bir gelenek: Osmanlı'da medreseler vakıflara bağlıydı. Cumhuriyet ve Tevhid-i Tedrisat sonrasında sivil toplumun eğitime katkısı özel eğitim kurumu (anaokulundan üniversiteye) kurmak ve işletmek; okul binası veya öğrenci yurdu yapıp devlete bağışlamak; öğrencilere burs vermek ve özellikle 1990'lardan itibaren dezavantajlı çocuk ve ailelere eğitim hizmeti (okuma-yazma eğitiminden öğretmen eğitimine) sunmak şeklinde gerçekleşiyor. 2000'lerden sonra ise sivil toplum girişimleri eğitime dair düşünme kuruluşları yoluyla eğitim politikaları alanına da girmeye başladı. Bugün geldiğimiz noktada eğitim sektöründe aktif ve giderek ideolojik olarak farklılaşan bir sivil toplum görüyoruz.
+
+**Eğitimde Sivil toplum kuruluşları** çok farklı ihtiyaçlara cevap veriyorlar. Bu kuruluşların hem kendi aralarında hem de kamuyla etkileşimli ve çoğu zaman kesişen ilişki ağları var. Bu ağların haritalanması **kamu dışı aktörlerin eğitim alanındaki faaliyetlerini** göstermesi açısından tüm paydaşlar için bilgilendirici olacaktır. Bu harita, Türkiye'nin öncelikli eğitim sorunlarıyla da ilişkilendirildiğinde hangi sorunların önceliklendirildiğini (nicelik ve nitelik açısından) ya da hangi sorunların daha arka planda kaldığını görebilmek mümkün olabilir.
+
+Eğitimin konu (erişim, kalite, vs.) ve/veya kademe (okul öncesi, ilköğretim, vb.) öncelikleri; bu önceliklere dair **politika yapma ve/veya yürütme sorumluluğu olan kamu kurumları**; bu önceliklere dair **hizmet, araştırma, vb. üreten kamu dışı kurumlar** (sendikalar da dahil olabilir); bu **kamu dışı kurumları fonlayan kurumlar** (vakıf, şirket, kamu, uluslararası kuruluşlar, kitlesel ve bireyler); ve son olarak **kamudan ya da kamu dışından hizmet alan yurttaşlar** (çocuk, anne, baba, öğretmen, vb.).
+
+Bu aktör türleri arasında **işbirliği** (beraber iş yapma); **savunu** (kamu dışı aktörlerin veri temelli bir süreçte kamunun kararını etkilemesi); **lobicilik** (kamu dışı aktörlerin çıkar temelli ve işbirliğ içeren bir süreçte kamunun kararını etkilemesi); **fon temini**; **yurttaşlara hizmet sunumu** ve **kişisel/kurumsal kapasite güçlendirme**; **burs sağlanması**; **okul yapılması**; **kurumsal sosyal sorumluluk projeleri**, vb. gibi türlere bakılabilir.
+
+Bu verilerin birazını ERG (Eğitim Reformu Girişimi) getirebilir. Birazını da araştırma yoluyla örneğin sivil toplum kuruluşlarının web siteleri, faaliyet raporları, MEB faaliyet raporlarındaki protokol bilgileri, vb. kaynaklarda bulmaya devam edebiliriz.
+
+##### Mentörler
+
+- [Batuhan Aydagül](http://batuhanaydagul.org/), Eğitim Reformu Girişimi
+
+##### Kaynaklar
+
+- [Eğitim Reformu Girişimi](http://erg.sabanciuniv.edu/en)
+- [Yüksek Eğitim Endüstriyel Kompleksi](http://burak-arikan.com/ozeluniversiteler)
+
+
 <a name="kadin"></a>
 
 ### Kadın Hakları
@@ -370,20 +394,6 @@ Alanda önemli olan aktörler **Sendikalar**, **Sendikamsı işçi örgütlenmel
 - [Türkiye'de LGBT hakları](https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_LGBT_haklar%C4%B1)
 - [Lambda Istanbul](http://www.lambdaistanbul.org)
 - [Bianet LGBTİ kategorisi](http://bianet.org/bianet/lgbti)
-
-
-<a name="egitim"></a>
-
-### Eğitim Reformu
-
-##### Mentörler
-
-- [Batuhan Aydagül](http://batuhanaydagul.org/), Eğitim Reformu Girişimi
-
-##### Kaynaklar
-
-- [Eğitim Reformu Girişimi](http://erg.sabanciuniv.edu/en)
-- [Yüksek Eğitim Endüstriyel Kompleksi](http://burak-arikan.com/ozeluniversiteler)
 
 
 <a name="gocmen"></a>
