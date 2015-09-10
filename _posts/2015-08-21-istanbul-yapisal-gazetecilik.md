@@ -359,7 +359,7 @@ Bu verilerin birazını ERG (Eğitim Reformu Girişimi) getirebilir. Birazını 
 - [Eğitim Reformu Girişimi](http://erg.sabanciuniv.edu/en)
 - [Yüksek Eğitim Endüstriyel Kompleksi](http://burak-arikan.com/ozeluniversiteler)
 - [Milli Eğitim Bakanlığı Bilişim Sistemleri](https://mebbis.meb.gov.tr)
-[TUİK Eğitim İstatistikleri](http://www.tuik.gov.tr/PreTablo.do?alt_id=1018)
+- [TUİK Eğitim İstatistikleri](http://www.tuik.gov.tr/PreTablo.do?alt_id=1018)
 
 
 <a name="kadin"></a>
