@@ -161,7 +161,7 @@ Aşağıdaki konularda bildiğiniz veri kaynakları önerilerinizi **workshop@gr
 
 **Kitlesel gözetim** araçları, üreten şirketler, satın alan devlet kurumları nelerdir, nasıl kullanılmaktadır? Bu bağlamda yerel ve uluslarlararası kurum, birey, devlet arası ilişkiler nasıl düzenlenebilir?
 
-Mahremiyet nasıl korunur? **Unutulma hakkının çerçevesi** nasıl çizilmelidir? "Benim saklayacak hiçbirşeyim yok", "beni kim niye gözetlesin ki" gibi  pasif argümanlar ile daimi gözetim altında kalmayı kabullenmek nasıl sorunlara yol açmaktadır?
+Mahremiyet nasıl korunur? Sağlıktan sosyal medyaya ne tür kişisel veriler gizli kalmalıdır? Hangi firmalar ve kurumlar şu anda kişisel verileri toplamakta ve kullanmakta? **Unutulma hakkının çerçevesi** nasıl çizilmelidir? "Benim saklayacak hiçbirşeyim yok", "beni kim niye gözetlesin ki" gibi  pasif argümanlar ile daimi gözetim altında kalmayı kabullenmek nasıl sorunlara yol açmaktadır?
 
 **İnternet sansürü** içinde BTK, RTÜK vb devlet kurumlarının ve ISP'lerin rolleri ve ilişkileri nelerdir? 5651 kanun maddeleri hangi sansürleri nasıl bağlamaktadır?
 
@@ -176,7 +176,7 @@ Mahremiyet nasıl korunur? **Unutulma hakkının çerçevesi** nasıl çizilmeli
 - [Ahmet Sabancı](https://twitter.com/ahmetasabanci), Alternatif Bilişim Derneği, Jiyan
 
 ##### Kaynaklar
-- [5651 nolu İnternet kanunu](https://www.tbmm.gov.tr/kanunlar/k5651.html) 
+- [5651 nolu İnternet kanunu](https://www.tbmm.gov.tr/kanunlar/k5651.html)
 - [https://alternatifbilisim.org](https://alternatifbilisim.org)
 - [Internet Ungovernance Forum](https://iuf.alternatifbilisim.org)
 - [http://privacy.cyber-rights.org.tr](http://privacy.cyber-rights.org.tr)
