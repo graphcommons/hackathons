@@ -169,6 +169,8 @@ Mahremiyet nasıl korunur? Sağlıktan sosyal medyaya ne tür **kişisel veriler
 
 **Sosyal medyada nefret söylemi ve troller** nasıl organize oluyor, nasıl yayılıyor, nasıl etki ediyor?
 
+**Şeylerin İnterneti (Internet of things)** alanında oluşturulan konsorsiyumlar nasıl Silikon Vadisi startupları ile kent yönetimlerini, silah üreticilerini, ve Suudi Arabistan krallığını bir araya getirebiliyor?
+
 ##### Mentörler
 
 - [Aslı Telli Aydemir](https://twitter.com/aslitelli), Alternatif Bilişim Derneği, İstanbul Şehir Üniversitesi
@@ -190,6 +192,10 @@ Mahremiyet nasıl korunur? Sağlıktan sosyal medyaya ne tür **kişisel veriler
 - [Sınır Tanımıyan Gazeteciler](https://en.rsf.org/)
 - [EDRI](https://edri.org/)
 - [Global Voices](https://globalvoicesonline.org/)
+- [Platform Cooperativism](https://medium.com/@trebors/platform-cooperativism-vs-the-sharing-economy-2ea737f1b5ad)
+- İnternet yönetişimi bağlamında Bruce Sterling "Şeylerin Interneti" (Internet of Things) arkasındaki güç ilişkilerini anlatıyor https://vimeo.com/109790298
+- [Şeylerin İnterneti alanında oluşturulan konsorsiyumlar](https://twitter.com/arikan/status/631899473069895680)
+
 
 <a name="meclis"></a>
 
