@@ -202,6 +202,7 @@ Mahremiyet nasıl korunur? Sağlıktan sosyal medyaya ne tür **kişisel veriler
 ### Meclis ve Kanunlar
 
 AKP hükümeti sadece son (24.) dönemde meclise 744 kanun tasarısı sevk etti. Kanunlarda yapılan değişiklikler pek çok şirkete imtiyazlar vermekte. Sadece halkı mülksüzleştirmeye yol açan kanun değişikliklerine bakarsak:
+
 - 4734 sayılı kamu ihale kanunu ile 2008'de Md 20'ye yapılan bir değişiklik ile ihalelerin "belli istekliler"e verilmesinin yolu açıldı.
 - 3996 sayılı yap-işlet-devret kanunu
 - 5346 sayılı kanun (enerji)
