@@ -18,8 +18,8 @@ place: "TMMOB Mimarlar Odası, Karaköy, İstanbul"
 <br>
 **TMMOB Mimarlar Odası, Karaköy, İstanbul**
 
-Ulaşım için adres ve harita: 
-http://www.mimarist.org/iletisim.html
+Ulaşım için adres ve harita:
+[http://www.mimarist.org/iletisim.html](http://www.mimarist.org/iletisim.html)
 
 <a href="#katilim" class="btn btn-default">KATILIM</a>
 <a href="#program" class="btn btn-default">PROGRAM</a>
