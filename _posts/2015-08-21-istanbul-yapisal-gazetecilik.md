@@ -120,7 +120,7 @@ Katılım ücretsizdir. Yer sınırımız olduğundan, başvuru formunu doldurup
 
 10:00 - 11:00 Prototiplerin gözden geçirilmesi ve geribildirim
 
-11:00 - 16:00 İyileştirme Çalışmaları (yemek mekanda)
+11:00 - 16:00 İyileştirme Çalışmaları
 
 17:00 - 19:00 Sunumlar (herkese açık)
 
@@ -384,7 +384,12 @@ Bu verilerin birazını ERG (Eğitim Reformu Girişimi) getirebilir. Birazını 
 - [http://www.cinsomedya.org](http://www.cinsomedya.org)
 - [http://www.5harfliler.com](http://www.5harfliler.com)
 - [Bianet Kadın Kategorisi](http://bianet.org/bianet/kadin)
-
+- [Mor Çatı](https://www.morcati.org.tr/tr/)
+- [Sosyalist Feminist Kolektif](http://www.sosyalistfeministkolektif.org/)
+- [KADER](http://www.ka-der.org.tr/)
+- [KAMER Vakfı](http://www.kamer.org.tr/)
+- [Bianet çetele](http://bianet.org/konu/cetele)
+- [Uçan Süpürge](http://www.ucansupurge.org/)
 
 <a name="lgbti"></a>
 
@@ -400,7 +405,8 @@ Bu verilerin birazını ERG (Eğitim Reformu Girişimi) getirebilir. Birazını 
 - [Türkiye'de LGBT hakları](https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_LGBT_haklar%C4%B1)
 - [Lambda Istanbul](http://www.lambdaistanbul.org)
 - [Bianet LGBTİ kategorisi](http://bianet.org/bianet/lgbti)
-
+- [Kaos GL](http://www.kaosgl.com/)
+- [SPoD](http://www.spod.org.tr/)
 
 <a name="gocmen"></a>
 
