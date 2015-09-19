@@ -54,7 +54,7 @@ Hackathon'da programatik ya da manuel olarak derlenen verilerden interaktif ağ 
 [Şeylerin İnterneti (IoT) Sektör Haritası](https://graphcommons.com/graphs/50af620a-5b9f-4bc5-9b15-018c4626b645) IoT ürünü geliştiren 100 Şirket, 39 Şehir, 10 Sektör ve ilişkilerini içerir. Angel.co sitesinden çekilen verilerle oluşturulan harita [Asli Yazagan](https://graphcommons.com/users/7fda641f-3515-4581-8e1e-82d85c013c87) tarafından geliştirildi.
 
 ### İnternet Yasakları ve Karar Mercileri Haritası
-[İnternet Yasakları ve Karar Mercileri Haritası](https://graphcommons.com/graphs/0a86d5a8-f80e-4d11-b39c-d6ba7b6657d3?show=Graph&auto=true) Türkiye'de sansürlenmiş 1061 Websitesi ve 161 Mahkeme ve aralarında mahkeme emri ilişkisi içerir. engelliweb.com adresinden yeralan veriler sansürün boyutunu yeterince yansıtmasa da ender kaynaklardan olduğu için kullanılmıştır. Site kapatmalarına yol açan savcılar ve hakimlere dair bilgiler gizlenmektedir. Harita [Ceyhun Enki Aksan](https://graphcommons.com/users/85dbf926-cd78-4dbc-bf4e-a005b7c26d38) ve [Raldu](https://graphcommons.com/users/bb372a3b-72ae-4040-be5c-a44c83809043) tarafından geliştirildi.
+[İnternet Yasakları ve Karar Mercileri Haritası](https://graphcommons.com/graphs/0a86d5a8-f80e-4d11-b39c-d6ba7b6657d3?show=Graph&auto=true) Türkiye'de sansürlenmiş 1061 Websitesi ve 161 Mahkeme ve aralarında mahkeme emri ilişkisi içerir. engelliweb.com adresinden yeralan veriler sansürün boyutunu yeterince yansıtmasa da ender kaynaklardan olduğu için kullanılmıştır. Site kapatmalarına yol açan savcılar ve hakimlere dair bilgiler çok kritiktir ancak maalesef bulunamamaktadır. Harita [Ceyhun Enki Aksan](https://graphcommons.com/users/85dbf926-cd78-4dbc-bf4e-a005b7c26d38) ve [Raldu](https://graphcommons.com/users/bb372a3b-72ae-4040-be5c-a44c83809043) tarafından geliştirildi.
 
 ### TBMM 25. Dönem Soru Önergeleri Konu ve Milletvekili Ağı
 [Soru Önergeleri konu vekil ağı](https://graphcommons.com/graphs/482c0a5f-45ca-48ae-b0bc-f49be66fe95d?auto=true) 25inci dönem için hangi partiden hangi vekilin hangi konularda soru önergesi verdiğini gösteren bir haritadır. Veri derleme ve haritalama [Ufuk Kayserilioglu](https://graphcommons.com/users/542a548f-104f-4f35-9275-a297fbf5c122) tarafından yapıldı.
@@ -67,7 +67,7 @@ Hackathon'da programatik ya da manuel olarak derlenen verilerden interaktif ağ 
 
 
 ### 23. ve 25. Dönem Milletvekili Olan Gazeteciler Haritası
-[23. Dönem](https://graphcommons.com/graphs/7990bec9-d50b-4765-baf8-3421ae5b17bd) ve [25. Dönem](https://graphcommons.com/graphs/3426266e-32cc-42d7-a0c7-32f943a61a5f) hangi gazeteciler hangi partiden milletvekili oldu haritası. Veri derleme ve haritalama [Atınç Gürçay](https://graphcommons.com/users/fc10d290-0cc4-4cf2-96ec-b524e885682f), [Sidar Bayram](https://graphcommons.com/users/591b6a83-b592-40c0-b94b-f1caaf197d40), [Dygu](https://graphcommons.com/users/61f56937-3f8d-4756-bf6a-838d5f80c51d) tarafından yapıldı.
+[23. Dönem Haritası](https://graphcommons.com/graphs/7990bec9-d50b-4765-baf8-3421ae5b17bd) ve [25. Dönem Haritası](https://graphcommons.com/graphs/3426266e-32cc-42d7-a0c7-32f943a61a5f) hangi gazeteciler hangi partiden milletvekili olduğunu gösteriyor. Veri derleme ve haritalama [Atınç Gürçay](https://graphcommons.com/users/fc10d290-0cc4-4cf2-96ec-b524e885682f), [Sidar Bayram](https://graphcommons.com/users/591b6a83-b592-40c0-b94b-f1caaf197d40), [Dygu](https://graphcommons.com/users/61f56937-3f8d-4756-bf6a-838d5f80c51d) tarafından yapıldı.
 
 ---
 
