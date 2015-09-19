@@ -66,7 +66,9 @@ Hackathon'da programatik ya da manuel olarak derlenen verilerden interaktif ağ 
 [2013 Sonrası İşinden olan Gazeteciler Haritası](https://graphcommons.com/graphs/fd7b810b-be69-4fd9-838a-1ab9b67bd7bf) medya çalışanlarının kovulmaları, sebepleri ve yeni işlere geçişlerini gösterir. 40 Gazeteci, 15 Gazete, ve 2 Sebep içerir. Haritadan gazetecilerin eski işlerinden yeni işlere geçişleri takip edilebilir. Veri derleme ve haritalama [Mohan Ravichandran](https://graphcommons.com/users/656e50bd-1a46-4b81-b892-f85704b9c17c), [Kerem Başkaya](https://graphcommons.com/users/2a0b6ef6-cc7d-4e24-b182-ffcd818b5cf3), [Osman Başkaya](https://graphcommons.com/users/93a01de5-a445-400d-8a1a-9e485cbd3fc8) tarafından yapıldı.
 
 
-### Milletvekili Olan Gazeteciler Haritası (23. ve 25. dönem)
+### 23. ve 25. Dönem Milletvekili Olan Gazeteciler Haritası
 [23. Dönem](https://graphcommons.com/graphs/7990bec9-d50b-4765-baf8-3421ae5b17bd) ve [25. Dönem](https://graphcommons.com/graphs/3426266e-32cc-42d7-a0c7-32f943a61a5f) hangi gazeteciler hangi partiden milletvekili oldu haritası. Veri derleme ve haritalama [Atınç Gürçay](https://graphcommons.com/users/fc10d290-0cc4-4cf2-96ec-b524e885682f), [Sidar Bayram](https://graphcommons.com/users/591b6a83-b592-40c0-b94b-f1caaf197d40), [Dygu](https://graphcommons.com/users/61f56937-3f8d-4756-bf6a-838d5f80c51d) tarafından yapıldı.
+
+Hackathon'da yapılan işlerle ilgili sorunuz ya da yorumlarınız için doğrudan yapan kişilerle iletişime geçiniz. Hackathon hakkında genel sorular ve yorumlar için bize [Graph Commons iletişim sayfası](https://graphcommons.com/contact) üzerinden ulaşabilirsiniz.
 
 _[Fotoğraf](https://twitter.com/gulayozkan/status/643096200271556608) için [Gülay Özkan](https://twitter.com/gulayozkan)'a teşekkürler._
