@@ -7,6 +7,7 @@ author:     "Graph Commons"
 header-img: "img/Graphcommons-hackathon-2015-Istanbul-photo.jpg"
 description: "Documentation of the Structured Journalism and Network Mapping Hackathon on September 12-13, 2015"
 ---
+[Türkçe için tıklayınız](/hackathons/2015/08/21/istanbul-yapisal-gazetecilik-dokumentasyon/)
 
 In a [two-day hackathon organized by Graph Commons](https://graphcommons.github.io/hackathons/2015/08/21/istanbul-yapisal-gazetecilik-en/) at the Chamber of Architects in Istanbul, participants created network maps on topics in human rights, civil society, and journalism. They built tools that compile relatively big data from available sources into graph databases in order to generate network maps and analyze the issues at hand.
 
