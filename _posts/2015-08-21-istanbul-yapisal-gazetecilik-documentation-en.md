@@ -13,6 +13,7 @@ In a [two-day hackathon organized by Graph Commons](https://graphcommons.github.
 Below is selected work from the hackathon with short explanations, links to interactive maps, photos, and screenshots.
 
 ## Tools
+Data gathering tools created based on the brain storming with the Hackathon mentors. All tools are open source and available on Github. Contact their respective developers if you'd like to contribute.
 
 #### Graph-Commons-Excel-Lab
 [Graph-Commons-Excel-Lab](https://github.com/Batierk/Graph-Commons-Excel-Lab) – a minimal front end for generating graph data structures from excel files. You upload an Excel file, select two columns, set a relation, then voila it generates a graph.  Developed in C#, ASP, Javascript by [Batı Erk Yılmaz](https://graphcommons.com/users/1c1cf322-9514-495b-b080-128fcec357e7).
@@ -28,7 +29,7 @@ Below is selected work from the hackathon with short explanations, links to inte
 
 
 ## Network Maps
-
+Network maps were created based on the manual or programmatic data generation via various sources. Then the maps were discussed and published on the Graph Commons platform.
 
 #### Mega Istanbul graph
 
@@ -65,3 +66,12 @@ Below is selected work from the hackathon with short explanations, links to inte
 
 #### Journalists who became a PM in 23rd and 25th terms in TBMM
 Two maps, [term 23rd](https://graphcommons.com/graphs/7990bec9-d50b-4765-baf8-3421ae5b17bd) and [term 25th](https://graphcommons.com/graphs/3426266e-32cc-42d7-a0c7-32f943a61a5f), contains journalists who became a PM from a party in the parliament. Data collection and map generation by [Atınç Gürçay](https://graphcommons.com/users/fc10d290-0cc4-4cf2-96ec-b524e885682f), [Sidar Bayram](https://graphcommons.com/users/591b6a83-b592-40c0-b94b-f1caaf197d40), [Dygu](https://graphcommons.com/users/61f56937-3f8d-4756-bf6a-838d5f80c51d).
+
+
+---
+
+For questions and comments on the tools or maps, contact the respective participants. For the Hackathon questions and comments in general go to [Graph Commons Contact page](https://graphcommons.com/contact).
+
+_This event could not be possible without [Ayça Aldatmaz](https://twitter.com/manythingoes) and [Ahmet Kızılay](https://twitter.com/ahmetkizilay)'s labor, and without the participating mentors  [mentörlerin](https://graphcommons.github.io/hackathons/2015/08/21/istanbul-yapisal-gazetecilik/#konular-mentorler-kaynaklar). We thank you all. Also we thank you [Serdar Paktin](https://twitter.com/paktin) for disseminating the announcements._
+
+_[Photograph on the top of the page](https://twitter.com/gulayozkan/status/643096200271556608) is by [Gülay Özkan](https://twitter.com/gulayozkan)._
