@@ -15,10 +15,12 @@ layout: default
                     <span class="meta">{{page.scheduled_date}}</span>
                     <span class="meta">{{page.place}}</span>
                     <div class="action">
-                        {% if page.language == "tr" %}
-                            <a href="#katilim" class="btn btn-default btn-outline">KATILIM BAŞVURUSU</a>
-                        {% else %}
-                            <a href="#katilim" class="btn btn-default btn-outline">APPLY</a>
+                        {% if page.scheduled_date %}
+                            {% if page.language == "tr"  %}
+                                <a href="#katilim" class="btn btn-default btn-outline">KATILIM BAŞVURUSU</a>
+                            {% else %}
+                                <a href="#katilim" class="btn btn-default btn-outline">APPLY</a>
+                            {% endif %}
                         {% endif %}
                     </div>
                 </div>
