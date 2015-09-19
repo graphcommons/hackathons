@@ -73,6 +73,6 @@ Hackathon'da programatik ya da manuel olarak derlenen verilerden interaktif ağ 
 
 Hackathon'da yapılan işlerle ilgili sorunuz ya da yorumlarınız için doğrudan yapan kişilerle iletişime geçiniz. Hackathon hakkında genel sorular ve yorumlar için bize [Graph Commons iletişim sayfası](https://graphcommons.com/contact) üzerinden ulaşabilirsiniz.
 
-_Bu Hackathon [Ayça Aldatmaz](https://twitter.com/manythingoes) ve [Ahmet Kızılay](https://twitter.com/ahmetkizilay)'ın emeği ve katılan tüm mentörlerin desteği olmadan gerçekleşemezdi. Kendilerine çok teşekkür ediyoruz. Ayrıca duyurunun yayılmasında yardımcı olan [Serdar Paktin](https://twitter.com/paktin)'a da tekrar teşekkürler._
+_Bu Hackathon [Ayça Aldatmaz](https://twitter.com/manythingoes) ve [Ahmet Kızılay](https://twitter.com/ahmetkizilay)'ın emeği ve katılan tüm [mentörlerin](https://graphcommons.github.io/hackathons/2015/08/21/istanbul-yapisal-gazetecilik/#konular-mentorler-kaynaklar) desteği olmadan gerçekleşemezdi. Kendilerine çok teşekkür ediyoruz. Ayrıca duyurunun yayılmasında yardımcı olan [Serdar Paktin](https://twitter.com/paktin)'a da tekrar teşekkürler._
 
 _[Fotoğraf](https://twitter.com/gulayozkan/status/643096200271556608) için [Gülay Özkan](https://twitter.com/gulayozkan)'a teşekkürler._
