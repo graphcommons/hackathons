@@ -1,7 +1,7 @@
 ---
 layout: post
 language: tr
-title: "Yapısal Gazetecilik ve Ağ Haritalama Hackathon'u Dökümantasyonu"
+title: "Yapısal Gazetecilik ve Ağ Haritalama Hackathonu Dökümantasyonu"
 subtitle: "12-13 Eylül 2015 İstanbul Hackathonu"
 author:     "Graph Commons"
 header-img: "img/Graphcommons-hackathon-2015-Istanbul-photo.jpg"
