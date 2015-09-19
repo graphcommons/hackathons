@@ -31,6 +31,7 @@ Geliştirilen ilişki veri modellerine göre programatik olarak veri derleyen ar
 
 # Geliştirilen Ağ Haritaları
 
+Hackathon'da programatik ya da manuel olarak bir derlenen verilerden interaktif ağ haritaları yaratıldı. Yapılan haritalar okumaya ve analize tabi tutuldu, tartışıldı ve Graph Commons üzerinde yayınlandı.
 
 ### Mega İstanbul Ağ Haritası
 
