@@ -14,6 +14,8 @@ description: "Yapısal Gazetecilik ve Ağ Haritalama Hackathon'u Dökümantasyon
 
 Aşağıda hackathonda geliştirilen araçlar, linkler, interaktif haritalar, fotoğraflar ve ekran görüntülerini kısa açıklamalarla toparladık.
 
+<a name="araclar"></a>
+
 # Geliştirilen Araçlar
 Mentörlerle beyin fırtınası sonucu ortaya çıkan modellere göre programatik veri derleyen ve [Graph Commons API](https://graphcommons.com/dev) kullanarak harita yaratan uygulamalar geliştirildi.
 
@@ -31,7 +33,7 @@ Github üzerinde ulaşılabilen bu açık kaynaklı araçlara katkı yapmak iste
 ### Graph Commons TBMM Önergematik
 **[Önerge Crawler](https://github.com/krk/onerge-crawler)** – [tbmm.gov.tr](https://www.tbmm.gov.tr/) adresinden Soru Önergeleri çeker, ilişkili milletvekillerini ve partileri bağlayarak ağ haritası oluşturur. C# ile  [Kerem](https://graphcommons.com/users/e7bda695-c8c6-47da-85ec-57962639a08b) tarafından geliştirildi.
 
-
+<a name="haritalar"></a>
 # Geliştirilen Ağ Haritaları
 
 Hackathon'da programatik ya da manuel olarak derlenen veriler ile interaktif ağ haritaları yaratıldı. Yapılan haritalar okumaya ve analize tabi tutuldu, tartışıldı ve Graph Commons üzerinde yayınlandı.
