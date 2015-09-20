@@ -91,10 +91,29 @@ Aşağıda ağ haritalarından seçilmiş görselleri, interaktif haritalara lin
 
 23üncü ve 25inci dönemlerde hangi gazeteciler hangi partiden milletvekili oldu? Veri derleme ve haritalama [Atınç Gürçay](https://graphcommons.com/users/fc10d290-0cc4-4cf2-96ec-b524e885682f), [Sidar Bayram](https://graphcommons.com/users/591b6a83-b592-40c0-b94b-f1caaf197d40), [Dygu](https://graphcommons.com/users/61f56937-3f8d-4756-bf6a-838d5f80c51d) tarafından yapıldı.
 
+# Hackathondan fotoğraflar
+
+<img src="https://graphcommons.github.io/hackathons/img/istanbul-2015/Graphcommons-hackathon-2015-Istanbul-photo-0.jpg">
+
+<img src="https://graphcommons.github.io/hackathons/img/istanbul-2015/Graphcommons-hackathon-2015-Istanbul-photo-1.jpg">
+
+<img src="https://graphcommons.github.io/hackathons/img/istanbul-2015/Graphcommons-hackathon-2015-Istanbul-photo-2.jpg">
+
+<img src="https://graphcommons.github.io/hackathons/img/istanbul-2015/Graphcommons-hackathon-2015-Istanbul-photo-3.jpg">
+
+<img src="https://graphcommons.github.io/hackathons/img/istanbul-2015/Graphcommons-hackathon-2015-Istanbul-photo-4.jpg">
+
+<img src="https://graphcommons.github.io/hackathons/img/istanbul-2015/Graphcommons-hackathon-2015-Istanbul-photo-5.jpg">
+
+<img src="https://graphcommons.github.io/hackathons/img/istanbul-2015/Graphcommons-hackathon-2015-Istanbul-photo.jpg">
+
+<img src="https://graphcommons.github.io/hackathons/img/istanbul-2015/Graphcommons-hackathon-2015-Istanbul-photo-6.jpg">
+
+
 ---
 
 Hackathon'da yapılan işlerle ilgili sorunuz ya da yorumlarınız için doğrudan yapan kişilerle iletişime geçiniz. Hackathon hakkında genel sorular ve yorumlar için bize [Graph Commons iletişim sayfası](https://graphcommons.com/contact) üzerinden ulaşabilirsiniz.
 
-_Bu Hackathon [Ayça Aldatmaz](https://twitter.com/manythingoes) ve [Ahmet Kızılay](https://twitter.com/ahmetkizilay)'ın emeği ve katılan tüm [mentörlerin](https://graphcommons.github.io/hackathons/2015/08/21/istanbul-yapisal-gazetecilik/#konular-mentorler-kaynaklar) desteği olmadan gerçekleşemezdi. Kendilerine çok teşekkür ediyoruz. Ayrıca duyurunun yayılmasında yardımcı olan [Serdar Paktin](https://twitter.com/paktin)'a da tekrar teşekkürler._
+_Bu Hackathon [Ayça Aldatmaz](https://twitter.com/manythingoes) ve [Ahmet Kızılay](https://twitter.com/ahmetkizilay)'ın emeği ve katılan tüm [mentörlerin](https://graphcommons.github.io/hackathons/2015/08/21/istanbul-yapisal-gazetecilik/#konular-mentorler-kaynaklar) desteği olmadan gerçekleşemezdi. Kendilerine çok teşekkür ediyoruz. Ayrıca hackathon boyunca video dökümentasyon yapan [İmre Azem](https://vimeo.com/user28727396)'e ve duyurunun yayılmasında yardımcı olan [Serdar Paktin](https://twitter.com/paktin)'a da tekrar teşekkürler._
 
 _[Fotoğraf](https://twitter.com/gulayozkan/status/643096200271556608) için [Gülay Özkan](https://twitter.com/gulayozkan)'a teşekkürler._
