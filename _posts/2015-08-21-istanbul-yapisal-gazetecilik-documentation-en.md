@@ -4,7 +4,7 @@ language: en
 title: "Documentation of the Structured Journalism and Network Mapping Hackathon"
 subtitle: "Hackathon on September 12-13, 2015"
 author:     "Graph Commons"
-header-img: "img/Graphcommons-hackathon-2015-Istanbul-photo.jpg"
+header-img: "img/istanbul-2015/Graphcommons-hackathon-2015-Istanbul-photo.jpg"
 description: "Documentation of the Structured Journalism and Network Mapping Hackathon on September 12-13, 2015"
 ---
 [Türkçe için tıklayınız](/hackathons/2015/08/21/istanbul-yapisal-gazetecilik-dokumentasyon/)
