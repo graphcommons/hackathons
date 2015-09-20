@@ -12,6 +12,8 @@ description: "Yapısal Gazetecilik ve Ağ Haritalama Hackathon'u Dökümantasyon
 
 [Graph Commons](https://graphcommons.com) tarafından düzenlenen [2 günlük hackathon](https://graphcommons.github.io/hackathons/2015/08/21/istanbul-yapisal-gazetecilik/) TMMOB Mimarlar Odası İstanbul Karaköy'deki mekanında gerçekleşti. Katılımcılar insan hakları, sivil toplum, ve hak gazeteciliği alanlarında kritik konulara dair verileri modellediler ve çeşitli kaynaklardan yığın veri toplayıp ilişki haritaları çıkaran bilgisayar uygulamaları geliştirdiler.
 
+Hackathon'un bir önemli çıktısı farklı hak mücadeleleri arasında bilgi alışverişini kolaylaştıracak ortak bir **hak veri protokolü** için ilk adımların atılması oldu. Öncelikle emek veri prokolü, kadın hakkı veri protokolü, kent hakkı veri protokolü diye başlayan tartışma genel olarak hak mücadelesinde veri protokollerinde anlaşma yönünde evrildi. Bu konuda daha detaylı bir organizasyon ve yazı gelecek.
+
 Aşağıda hackathonda geliştirilen araçlar, linkler, interaktif haritalar, fotoğraflar ve ekran görüntülerini kısa açıklamalarla toparladık.
 
 <a name="araclar"></a>
