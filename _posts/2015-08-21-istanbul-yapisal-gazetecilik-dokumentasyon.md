@@ -116,4 +116,4 @@ Hackathon'da yapılan işlerle ilgili sorunuz ya da yorumlarınız için doğrud
 
 _Bu Hackathon [Ayça Aldatmaz](https://twitter.com/manythingoes) ve [Ahmet Kızılay](https://twitter.com/ahmetkizilay)'ın emeği ve katılan tüm [mentörlerin](https://graphcommons.github.io/hackathons/2015/08/21/istanbul-yapisal-gazetecilik/#konular-mentorler-kaynaklar) desteği olmadan gerçekleşemezdi. Kendilerine çok teşekkür ediyoruz. Ayrıca hackathon boyunca video dökümentasyon yapan [İmre Azem](https://vimeo.com/user28727396)'e ve duyurunun yayılmasında yardımcı olan [Serdar Paktin](https://twitter.com/paktin)'a da tekrar teşekkürler._
 
-_[Fotoğraf](https://twitter.com/gulayozkan/status/643096200271556608) için [Gülay Özkan](https://twitter.com/gulayozkan)'a teşekkürler._
+_[Kapak fotoğrafı](https://twitter.com/gulayozkan/status/643096200271556608) için [Gülay Özkan](https://twitter.com/gulayozkan)'a teşekkürler._
