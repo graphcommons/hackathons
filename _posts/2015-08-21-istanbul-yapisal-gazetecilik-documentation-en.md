@@ -17,16 +17,16 @@ Below is selected work from the hackathon with short explanations, links to inte
 Data gathering tools created based on the brain storming with the Hackathon mentors. All tools are open source and available on Github. Contact their respective developers if you'd like to contribute.
 
 #### Graph-Commons-Excel-Lab
-[Graph-Commons-Excel-Lab](https://github.com/Batierk/Graph-Commons-Excel-Lab) – a minimal front end for generating graph data structures from excel files. You upload an Excel file, select two columns, set a relation, then voila it generates a graph.  Developed in C#, ASP, Javascript by [Batı Erk Yılmaz](https://graphcommons.com/users/1c1cf322-9514-495b-b080-128fcec357e7).
+**[Graph-Commons-Excel-Lab](https://github.com/Batierk/Graph-Commons-Excel-Lab)** – a minimal front end for generating graph data structures from excel files. You upload an Excel file, select two columns, set a relation, then voila it generates a graph.  Developed in C#, ASP, Javascript by [Batı Erk Yılmaz](https://graphcommons.com/users/1c1cf322-9514-495b-b080-128fcec357e7).
 
 #### Twitter to Graph Commons
-[graphcommons-egt](https://github.com/mehmetatas/graphcommons-egt) – Finds tweets with specified hashtag and imports data into Neo4j & Graph Commons. Developed in Javascript Node.js by [Mehmet Ataş](https://graphcommons.com/users/60f7f782-f56a-488d-b223-61621ddc1c2c).
+**[graphcommons-egt](https://github.com/mehmetatas/graphcommons-egt)** – Finds tweets with specified hashtag and imports data into Neo4j & Graph Commons. Developed in Javascript Node.js by [Mehmet Ataş](https://graphcommons.com/users/60f7f782-f56a-488d-b223-61621ddc1c2c).
 
 #### TBMM Scraper
-[TBMM scraper](https://github.com/meclistakip/tbmm-scraper) – Set of tools that extract parliamentary processes data from the Turkey parliament (TBMM) and generates a "bureaucracy graph". Developed in Node.js by [Ahmet Kızılay](https://graphcommons.com/ahmetkizilay) with contributions from [Ufuk Kayserilioglu](https://graphcommons.com/users/542a548f-104f-4f35-9275-a297fbf5c122).
+**[TBMM scraper](https://github.com/meclistakip/tbmm-scraper)** – Set of tools that extract parliamentary processes data from the Turkey parliament (TBMM) and generates a "bureaucracy graph". Developed in Node.js by [Ahmet Kızılay](https://graphcommons.com/ahmetkizilay) with contributions from [Ufuk Kayserilioglu](https://graphcommons.com/users/542a548f-104f-4f35-9275-a297fbf5c122).
 
 #### GraphCommons TBMM Önergematik
-[Onerge Crawler](https://github.com/krk/onerge-crawler) – Scrapes [tbmm.gov.tr](https://www.tbmm.gov.tr/) and collects "parliamentary questions" ("Soru Önergeleri") and turns the PM, Political Party, and Questions into a network map. Developed in C# by  [Kerem](https://graphcommons.com/users/e7bda695-c8c6-47da-85ec-57962639a08b).
+**[Onerge Crawler](https://github.com/krk/onerge-crawler)** – Scrapes [tbmm.gov.tr](https://www.tbmm.gov.tr/) and collects "parliamentary questions" ("Soru Önergeleri") and turns the PM, Political Party, and Questions into a network map. Developed in C# by  [Kerem](https://graphcommons.com/users/e7bda695-c8c6-47da-85ec-57962639a08b).
 
 
 ## Network Maps
