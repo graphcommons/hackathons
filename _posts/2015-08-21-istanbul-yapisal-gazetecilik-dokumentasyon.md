@@ -35,11 +35,11 @@ Mentörlerle beyin fırtınası sonucu ortaya çıkan ilişki veri modellerine g
 Hackathon'da programatik ya da manuel olarak derlenen verilerden interaktif ağ haritaları yaratıldı. Yapılan haritalar okumaya ve analize tabi tutuldu, tartışıldı ve Graph Commons üzerinde yayınlandı.
 
 ### Mega İstanbul Ağ Haritası
-<img src="https://graphcommons.github.io/hackathonshttps://graphcommons.github.io/hackathons/img/istanbul-2015/Mega-Projeler-Tabanlioglu-Arolat-Mimarlik.png">
+<img src="https://graphcommons.github.io/hackathons/img/istanbul-2015/Mega-Projeler-Tabanlioglu-Arolat-Mimarlik.png">
 [Mega İstanbul Ağ Haritası](https://graphcommons.com/graphs/24d0e29b-8c98-4842-80a5-b2dcfd84bf5a) 103 İnşaat, 92 Proje, 88 Mimar, 90 Müteahhit ve aralarında ilişkilerden oluşan harita megaprojeleristanbul.com verisiyle geliştirildi. Proje boyutları yatırım miktarına göre gösterilmekte. Harita [Yakup Çetinkaya](https://graphcommons.com/users/f6bf26e7-f75e-43d9-bdd6-11f869e4c2ed) tarafından geliştirildi.
 
 ### Türkiye İşçi Eylemleri Haritası, Ocak 2015
-<img src="https://graphcommons.github.io/hackathonshttps://graphcommons.github.io/hackathons/img/istanbul-2015/turkiye-isci-eylemleri-ag-haritasi-ocak-2015.png">
+<img src="https://graphcommons.github.io/hackathons/img/istanbul-2015/turkiye-isci-eylemleri-ag-haritasi-ocak-2015.png">
 [Türkiye İşçi Eylemleri Haritası](https://graphcommons.com/graphs/00af1cd8-5a67-40b1-86e5-32beae436f7c) Direniş İzleme Grubu'nun derlemekte olduğu veriler kullanılarak 2015 Ocak ayı için yapıldı. Harita 35 Sendika, 97 İşyeri, 10 İstihdam türü, 32 Şehir, 17 Eylem, 7 Eylem türü, ve 27 Sektör içermekte. Harita [Batı Erk Yılmaz](https://graphcommons.com/users/1c1cf322-9514-495b-b080-128fcec357e7) tarafından üretildi.
 
 ###  Twitter'da #EGT hashtag ilişki haritası
@@ -47,7 +47,7 @@ Hackathon'da programatik ya da manuel olarak derlenen verilerden interaktif ağ 
 [#EGT hashtag ilişki haritası](https://graphcommons.com/graphs/5cb7ba29-79b2-42d4-94b0-e8597871bf5b) Twitter'da eğitim reformu için kullanılan hashtag ile beraber kullanılan diğer hashtagler ve hesapları arası ilişkileri gösterir. 324 Hesap, 33 Tag, 29 Tweet ve aralarında Tweet edilme, taglenme, retweet edilme ilişkilerini barındırır. Harita [Mehmet Ataş](https://graphcommons.com/users/60f7f782-f56a-488d-b223-61621ddc1c2c) tarafından geliştirildi.
 
 ### Kadın Cinayetleri 2010: Fail-öne sürülen sebep örüntüsü
-<img src="https://graphcommons.github.io/hackathonshttps://graphcommons.github.io/hackathons/img/istanbul-2015/Kadin-Cinayetleri-2010-fail-onersurulen-sebep-agi.png">
+<img src="https://graphcommons.github.io/hackathons/img/istanbul-2015/Kadin-Cinayetleri-2010-fail-onersurulen-sebep-agi.png">
 [Kadın Cinayetleri 2010 ilişki haritası](https://graphcommons.com/graphs/43a7a148-cf2e-40d7-8d9a-3f29c2d9b16a) 38 Sebep ve 18 Fail ve aralarındaki ilişkileri gösterir. Bianet'ten alınan verilerle harita [Sevil Seten](https://graphcommons.com/users/0a426059-a35e-40dd-b533-96e43a36d70c) tarafından geliştirildi.
 
 ### Anıt Sayaç Ağ Haritası
