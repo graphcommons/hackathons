@@ -15,7 +15,9 @@ description: "Yapısal Gazetecilik ve Ağ Haritalama Hackathon'u Dökümantasyon
 Aşağıda hackathonda geliştirilen araçlar, linkler, interaktif haritalar, fotoğraflar ve ekran görüntülerini kısa açıklamalarla toparladık.
 
 # Geliştirilen Araçlar
-Mentörlerle beyin fırtınası sonucu ortaya çıkan ilişki veri modellerine göre programatik veri derleyen araçlar geliştirildi. Github üzerinde ulaşılabilen bu açık kaynaklı araçlara katkı yapmak isterseniz doğrudan kod deposundan iletişime geçiniz.
+Mentörlerle beyin fırtınası sonucu ortaya çıkan modellere göre programatik veri derleyen ve [Graph Commons API](https://graphcommons.com/dev) kullanarak harita yaratan uygulamalar geliştirildi.
+
+Github üzerinde ulaşılabilen bu açık kaynaklı araçlara katkı yapmak isterseniz doğrudan kod deposundan iletişime geçiniz.
 
 ### Graph-Commons-Excel-Lab
 [Graph-Commons-Excel-Lab](https://github.com/Batierk/Graph-Commons-Excel-Lab) – Minimal bir arayüz ile Excel tablosundan ağ haritası oluşturmayı sağlar. Excel dosyanızı yükledikten sonra 2 sütun seçip arasındaki ilişkiyi tanımlıyorsunuz ve uygulama sizin için haritayı yaratıyor. İstenildiği kadar iki kolon arası ilişki tanımlanabiliyor. C#, ASP, ve Javascript ile [Batı Erk Yılmaz](https://graphcommons.com/users/1c1cf322-9514-495b-b080-128fcec357e7) tarafından geliştirildi.
