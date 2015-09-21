@@ -18,7 +18,7 @@ Aşağıda hackathonda geliştirilen araçlar, linkler, interaktif haritalar, fo
 
 <a name="araclar"></a>
 
-# Geliştirilen Araçlar
+# Veri Araçları
 Mentörlerle beyin fırtınası sonucu ortaya çıkan modellere göre programatik veri derleyen ve [Graph Commons API](https://graphcommons.com/dev) kullanarak harita yaratan uygulamalar geliştirildi.
 
 Github üzerinde ulaşılabilen bu açık kaynaklı araçlara katkı yapmak isterseniz doğrudan kod deposundan iletişime geçiniz.
@@ -37,7 +37,7 @@ Github üzerinde ulaşılabilen bu açık kaynaklı araçlara katkı yapmak iste
 
 <a name="haritalar"></a>
 
-# Geliştirilen Ağ Haritaları
+# Ağ Haritaları
 
 Hackathon'da programatik ya da manuel olarak derlenen veriler ile interaktif ağ haritaları yaratıldı. Yapılan haritalar okumaya ve analize tabi tutuldu, tartışıldı ve Graph Commons üzerinde yayınlandı.
 

@@ -17,7 +17,7 @@ Below is selected work from the hackathon with short explanations, links to inte
 
 <a name="tools"></a>
 
-# Tools
+# Data Tools
 
 We started the brain storming sessions with hackathon mentors including journalists and academics who work in human rights. Following the data models came out of this session, participants created data compiling tools and used the [Graph Commons API](https://graphcommons.com/dev) for generating graphs and mapping relationships.
 
