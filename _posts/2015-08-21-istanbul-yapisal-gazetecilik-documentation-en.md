@@ -35,6 +35,7 @@ All tools listed below are open source and available on Github. Contact their re
 ### GraphCommons TBMM Önergematik
 **[Onerge Crawler](https://github.com/krk/onerge-crawler)** – Scrapes [tbmm.gov.tr](https://www.tbmm.gov.tr/) and collects "parliamentary questions" ("Soru Önergeleri") and turns the relations between Ministires, PMs, Political Parties, and Questions into a network map. Developed in C# by  [Kerem](https://graphcommons.com/users/e7bda695-c8c6-47da-85ec-57962639a08b).
 
+<br>
 <a name="maps"></a>
 
 # Network Maps
@@ -100,6 +101,8 @@ Maps contain journalists who became a PM from a party in the parliament. Data co
 <img src="https://graphcommons.github.io/hackathons/img/istanbul-2015/Graphcommons-hackathon-2015-Istanbul-photo-0.jpg">
 
 <img src="https://graphcommons.github.io/hackathons/img/istanbul-2015/Graphcommons-hackathon-2015-Istanbul-photo-1.jpg">
+
+<img src="https://graphcommons.github.io/hackathons/img/istanbul-2015/Graphcommons-hackathon-2015-Istanbul-photo-7.jpg">
 
 <img src="https://graphcommons.github.io/hackathons/img/istanbul-2015/Graphcommons-hackathon-2015-Istanbul-photo-2.jpg">
 
