@@ -10,7 +10,7 @@ description: "Yapısal Gazetecilik ve Ağ Haritalama Hackathon'u Dökümantasyon
 
 [Click here for English](/hackathons/2015/08/21/istanbul-yapisal-gazetecilik-documentation-en/)
 
-[Graph Commons](https://graphcommons.com) tarafından düzenlenen [2 günlük hackathon](https://graphcommons.github.io/hackathons/2015/08/21/istanbul-yapisal-gazetecilik/) TMMOB Mimarlar Odası İstanbul Karaköy'deki mekanında gerçekleşti. Katılımcılar insan hakları, sivil toplum, ve hak gazeteciliği alanlarında kritik konulara dair verileri modellediler, <a href="#haritalar">ağ haritaları</a> yaptılar ve çeşitli kaynaklardan yığın veri toplayıp ağ veritabanı oluşturabilen <a href="#araclar">veri araçları</a> geliştirdiler.
+[Graph Commons](https://graphcommons.com) tarafından düzenlenen [2 günlük hackathon](https://graphcommons.github.io/hackathons/2015/08/21/istanbul-yapisal-gazetecilik/) TMMOB Mimarlar Odası İstanbul Karaköy'deki mekanında gerçekleşti. Katılımcılar insan hakları, sivil toplum, ve hak gazeteciliği alanlarında kritik konulara dair verileri modellediler, <a href="#haritalar">ağ haritaları</a> yaptılar ve çeşitli kaynaklardan yığın veri toplayabilen <a href="#araclar">veri araçları</a> geliştirdiler.
 
 Hackathon'un bir önemli çıktısı farklı hak mücadeleleri arasında bilgi alışverişini kolaylaştıracak ortak bir **hak veri protokolü** için ilk adımların atılması oldu. Farklı araştırmalar ve uygulamalar arasında verilerin gayrimerkezi dolaşımını sağlamak için öncelikle emek veri prokolü, kadın hakkı veri protokolü, kent hakkı veri protokolü diye başlayan tartışma, daha sonra genel olarak hak mücadelesinde veri protokollerinde anlaşma yönünde evrildi. Bu konuda daha detaylı bir organizasyon ve yazı gelecek.
 
