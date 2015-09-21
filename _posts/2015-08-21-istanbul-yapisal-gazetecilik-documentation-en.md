@@ -17,7 +17,7 @@ Below is selected work from the hackathon with short explanations, links to inte
 
 # Tools
 
-We started with brain storming sessions with the Hackathon mentors including journalists and academics who work in human rights. Following the data models came out of this session, participants created data compiling tools and used the [Graph Commons API](https://graphcommons.com/dev) for generating graphs and mapping relationships.
+We started the brain storming sessions with hackathon mentors including journalists and academics who work in human rights. Following the data models came out of this session, participants created data compiling tools and used the [Graph Commons API](https://graphcommons.com/dev) for generating graphs and mapping relationships.
 
 All tools listed below are open source and available on Github. Contact their respective developers if you'd like to contribute.
 
@@ -90,6 +90,7 @@ For questions and comments you can contact the authors of the graphs below.
 
 Maps contain journalists who became a PM from a party in the parliament. Data collection and map generation by [Atınç Gürçay](https://graphcommons.com/users/fc10d290-0cc4-4cf2-96ec-b524e885682f), [Sidar Bayram](https://graphcommons.com/users/591b6a83-b592-40c0-b94b-f1caaf197d40), [Dygu](https://graphcommons.com/users/61f56937-3f8d-4756-bf6a-838d5f80c51d).
 
+<br>
 
 # Moments from the Hackathon
 
@@ -115,8 +116,8 @@ Maps contain journalists who became a PM from a party in the parliament. Data co
 
 For questions and comments on the tools or maps, contact the respective participants. For the Hackathon questions and comments in general go to [Graph Commons Contact page](https://graphcommons.com/contact).
 
-_This event could not be possible without [Ayça Aldatmaz](https://twitter.com/manythingoes) and [Ahmet Kızılay](https://twitter.com/ahmetkizilay)'s labor, and without the participating mentors  [mentörlerin](https://graphcommons.github.io/hackathons/2015/08/21/istanbul-yapisal-gazetecilik/#konular-mentorler-kaynaklar). We thank you all. Also we thank you [Serdar Paktin](https://twitter.com/paktin) for disseminating the announcements._
+_This event could not be possible without [Ayça Aldatmaz](https://twitter.com/manythingoes) and [Ahmet Kızılay](https://twitter.com/ahmetkizilay)'s labor, and without the participating [mentors](https://graphcommons.github.io/hackathons/2015/08/21/istanbul-yapisal-gazetecilik/#konular-mentorler-kaynaklar). We thank you all. Also we thank you [İmre Azem](https://vimeo.com/user28727396) for the video documentation and [Serdar Paktin](https://twitter.com/paktin) for disseminating the announcements._
 
-_Thank you [Chamber of Architecture](http://www.mimarist.org/) for hosting us._
+We are grateful to [Chamber of Architecture](http://www.mimarist.org/) for hosting us._
 
 _[Photograph on the top of the page](https://twitter.com/gulayozkan/status/643096200271556608) is by [Gülay Özkan](https://twitter.com/gulayozkan)._

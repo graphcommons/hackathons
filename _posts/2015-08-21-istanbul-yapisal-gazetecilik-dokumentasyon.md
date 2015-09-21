@@ -93,6 +93,8 @@ Aşağıda ağ haritalarından seçilmiş görselleri, interaktif haritalara lin
 
 23üncü ve 25inci dönemlerde hangi gazeteciler hangi partiden milletvekili oldu? Veri derleme ve haritalama [Atınç Gürçay](https://graphcommons.com/users/fc10d290-0cc4-4cf2-96ec-b524e885682f), [Sidar Bayram](https://graphcommons.com/users/591b6a83-b592-40c0-b94b-f1caaf197d40), [Dygu](https://graphcommons.com/users/61f56937-3f8d-4756-bf6a-838d5f80c51d) tarafından yapıldı.
 
+<br>
+
 # Hackathondan fotoğraflar
 
 <img src="https://graphcommons.github.io/hackathons/img/istanbul-2015/Graphcommons-hackathon-2015-Istanbul-photo-0.jpg">
