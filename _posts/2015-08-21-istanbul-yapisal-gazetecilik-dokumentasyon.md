@@ -7,8 +7,7 @@ author:     "Graph Commons"
 header-img: "img/istanbul-2015/Graphcommons-hackathon-2015-Istanbul-photo.jpg"
 description: "Yapısal Gazetecilik ve Ağ Haritalama Hackathon'u Dökümantasyonu, 12-13 Eylül, 2015"
 ---
-
-[Click here for English](/hackathons/2015/08/21/istanbul-yapisal-gazetecilik-documentation-en/)
+<small>[Click here for English](/hackathons/2015/08/21/istanbul-yapisal-gazetecilik-documentation-en/)</small>
 
 [Graph Commons](https://graphcommons.com) tarafından düzenlenen [2 günlük hackathon](https://graphcommons.github.io/hackathons/2015/08/21/istanbul-yapisal-gazetecilik/) TMMOB Mimarlar Odası İstanbul Karaköy'deki mekanında gerçekleşti. Katılımcılar insan hakları, sivil toplum, ve hak gazeteciliği alanlarında kritik konulara dair verileri modellediler, <a href="#haritalar">ağ haritaları</a> yaptılar ve çeşitli kaynaklardan yığın veri toplayabilen <a href="#araclar">veri araçları</a> geliştirdiler.
 
