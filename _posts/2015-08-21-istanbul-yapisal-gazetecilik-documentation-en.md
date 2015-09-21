@@ -9,11 +9,13 @@ description: "Documentation of the Structured Journalism and Network Mapping Hac
 ---
 [Türkçe için tıklayınız](/hackathons/2015/08/21/istanbul-yapisal-gazetecilik-dokumentasyon/)
 
-In a [two-day hackathon on structured journalism and network mapping](https://graphcommons.github.io/hackathons/2015/08/21/istanbul-yapisal-gazetecilik-en/) organized by [Graph Commons](https://graphcommons.com) at the Chamber of Architects in Istanbul, participants created semantic networks on topics in the field of journalism and civil society. They built tools that compile relatively big data from available sources and turned them into graph databases in order to generate network maps and analyze the issues at hand.
+In a [two-day hackathon on structured journalism and network mapping](https://graphcommons.github.io/hackathons/2015/08/21/istanbul-yapisal-gazetecilik-en/) organized by [Graph Commons](https://graphcommons.com) at the Chamber of Architects in Istanbul, participants created <a href="#maps">semantic network maps</a> on topics in the field of human rights, civil society, and journalism; as well as built <a href="#tools">data tools</a> that compile relatively big data from available sources and turned them into graph databases in order to generate network maps and analyze the issues at hand.
 
-One of the important outcomes of the hackathon was the initialization of the **rights data protocol**, an open data structure scheme that would enable information flow particularly between civic research projects in order to prevent recurring data work and reinforce their impact. It would also decentralize civic research data by moving it between applications and projects. No need to say, such a protocol can only flourish when used by many constituents. More on this later.
+One important outcome of the hackathon was the initialization of the **rights data protocol**, an open data structure scheme that would enable information flow particularly between civic research projects in order to prevent recurring data work and reinforce their impact. It would also decentralize civic research data by moving it between applications and projects. No need to say, such a protocol can only flourish when used by many constituents. More on this later.
 
 Below is selected work from the hackathon with short explanations, links to interactive maps, photos, and screenshots.
+
+<a name="tools"></a>
 
 # Tools
 
@@ -33,6 +35,7 @@ All tools listed below are open source and available on Github. Contact their re
 ### GraphCommons TBMM Önergematik
 **[Onerge Crawler](https://github.com/krk/onerge-crawler)** – Scrapes [tbmm.gov.tr](https://www.tbmm.gov.tr/) and collects "parliamentary questions" ("Soru Önergeleri") and turns the relations between Ministires, PMs, Political Parties, and Questions into a network map. Developed in C# by  [Kerem](https://graphcommons.com/users/e7bda695-c8c6-47da-85ec-57962639a08b).
 
+<a name="maps"></a>
 
 # Network Maps
 
