@@ -91,6 +91,26 @@ For questions and comments you can contact the authors of the graphs below.
 Maps contain journalists who became a PM from a party in the parliament. Data collection and map generation by [Atınç Gürçay](https://graphcommons.com/users/fc10d290-0cc4-4cf2-96ec-b524e885682f), [Sidar Bayram](https://graphcommons.com/users/591b6a83-b592-40c0-b94b-f1caaf197d40), [Dygu](https://graphcommons.com/users/61f56937-3f8d-4756-bf6a-838d5f80c51d).
 
 
+# Moments from the Hackathon
+
+<img src="https://graphcommons.github.io/hackathons/img/istanbul-2015/Graphcommons-hackathon-2015-Istanbul-photo-0.jpg">
+
+<img src="https://graphcommons.github.io/hackathons/img/istanbul-2015/Graphcommons-hackathon-2015-Istanbul-photo-1.jpg">
+
+<img src="https://graphcommons.github.io/hackathons/img/istanbul-2015/Graphcommons-hackathon-2015-Istanbul-photo-2.jpg">
+
+<img src="https://graphcommons.github.io/hackathons/img/istanbul-2015/Graphcommons-hackathon-2015-Istanbul-photo-3.jpg">
+
+<img src="https://graphcommons.github.io/hackathons/img/istanbul-2015/Graphcommons-hackathon-2015-Istanbul-photo-4.jpg">
+
+<img src="https://graphcommons.github.io/hackathons/img/istanbul-2015/Graphcommons-hackathon-2015-Istanbul-photo-5.jpg">
+
+<img src="https://graphcommons.github.io/hackathons/img/istanbul-2015/Graphcommons-hackathon-2015-Istanbul-photo.jpg">
+
+<img src="https://graphcommons.github.io/hackathons/img/istanbul-2015/Graphcommons-hackathon-2015-Istanbul-photo-6.jpg">
+
+
+
 ---
 
 For questions and comments on the tools or maps, contact the respective participants. For the Hackathon questions and comments in general go to [Graph Commons Contact page](https://graphcommons.com/contact).
