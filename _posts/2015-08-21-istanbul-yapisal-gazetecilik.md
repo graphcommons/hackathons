@@ -12,6 +12,8 @@ place: "TMMOB Mimarlar Odası, Karaköy, İstanbul"
 
 [English](/hackathons/2015/08/21/istanbul-yapisal-gazetecilik-en)
 
+[Hackathon Dökümantasyonu](/hackathons/2015/08/21/istanbul-yapisal-gazetecilik-dokumentasyon/)
+
 # Ağlarımızı örüyoruz!
 
 **Hackathon 12-13 Eylül 2015, haftasonu iki tam gün.**

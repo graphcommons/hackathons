@@ -1,7 +1,7 @@
 ---
 layout: post
 language: en
-title: "Structured Journalism and Network Mapping"
+title: "Structured Journalism and Network Mapping Hackathon"
 subtitle: ""
 scheduled_date: September 12-13, 2015
 author:     "Graph Commons"
@@ -11,6 +11,9 @@ place: "TMMOB Chamber of Architects, Karaköy, Istanbul"
 ---
 
 [Türkçe](/hackathons/2015/08/21/istanbul-yapisal-gazetecilik)
+
+[Hackathon Documentation](/hackathons/2015/08/21/istanbul-yapisal-gazetecilik-documentation-en/)
+
 
 # We build our networks!
 
