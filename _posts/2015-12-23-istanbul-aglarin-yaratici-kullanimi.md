@@ -113,7 +113,7 @@ Katılım ücretsizdir. Yer sınırımız olduğundan, başvuru formunu doldurup
 
 - 12:00 - 13:00 Yemek arası
 
-- 13:30 - 18:00 Araç geliştirme
+- 13:00 - 18:00 Araç geliştirme
 
 - 18:00 - 19:00 İlk prototiplerin incelenmesi
 
@@ -125,7 +125,7 @@ Katılım ücretsizdir. Yer sınırımız olduğundan, başvuru formunu doldurup
 
 10:00 - 11:00 Prototiplerin gözden geçirilmesi ve geribildirim
 
-11:00 - 15:00 İyileştirme Çalışmaları
+11:00 - 16:00 İyileştirme Çalışmaları
 
 16:30 - 18:30 Sunumlar (herkese açık)
 
