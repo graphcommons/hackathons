@@ -72,12 +72,12 @@ article li a {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .navbar-custom .navbar-brand {
-  font-weight: 700;
+  font-weight: 600;
 }
 .navbar-custom .nav li a {
   text-transform: uppercase;
   font-size: 12px;
-  font-weight: 700;
+  font-weight: 600;
   letter-spacing: 1px;
 }
 @media only screen and (min-width: 768px) {
@@ -91,7 +91,7 @@ article li a {
   }
   .navbar-custom .navbar-brand:hover,
   .navbar-custom .navbar-brand:focus {
-    color: rgba(255, 255, 255, 0.8);
+    color: #ffc400;
   }
   .navbar-custom .nav li a {
     color: white;
@@ -99,7 +99,7 @@ article li a {
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {
-    color: rgba(255, 255, 255, 0.8);
+    color: #ffc400;
   }
 }
 @media only screen and (min-width: 1170px) {
@@ -361,6 +361,16 @@ form .row:first-child .floating-label-form-group {
   background-color: #ffc400;
   border: 1px solid #ffc400;
   color: white;
+}
+.btn-primary {
+  background-color: #ffc400;
+  border-color: #ffc400;
+}
+.btn-primary:hover,
+.btn-primary:focus {
+  color: #404040;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-color: #808080;
 }
 .btn-lg {
   font-size: 16px;
