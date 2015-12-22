@@ -91,7 +91,7 @@ Bilgisayar programlayabilen (backend, frontend, veri analiz, ya da başka türle
 
 Katılım ücretsizdir. Yer sınırımız olduğundan, başvuru formunu doldurup gönderdikten sonra katılımınız hakkında sizle iletişime geçilerek bilgi verilecek.
 
-<a class="btn btn-primary" href="https://docs.google.com/forms/d/1hs11dAkdyhzZny5y8R1XV8ou5YvfEtai0USCXBjDGV8/viewform">Katılım Başvuru Formu</a>
+<a class="btn btn-primary" href="https://docs.google.com/forms/d/10_pu7xw9gDSqgPFrfglF9s5FRCH9YVZKKcdaqkWnMbs/viewform">Katılım Başvuru Formu</a>
 
 <br>
 <a name="program"></a>
