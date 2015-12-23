@@ -380,7 +380,7 @@ form .row:first-child .floating-label-form-group {
 }
 .btn-outline {
   background: rgba(255, 255, 255, 0.15);
-  color: rgba(255, 255, 255, 0.85);
+  color: rgba(255, 255, 255, 0.9);
   margin-top: 25px;
 }
 .btn-outline.white-bg {
