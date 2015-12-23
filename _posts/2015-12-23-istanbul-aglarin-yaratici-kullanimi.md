@@ -37,7 +37,9 @@ Oysa ağ haritalama, karmaşık sistemleri anlamak ve kullanabilmek için bize *
 
 Bir karmaşık konu ağ haritasına dönüştürülüp analize tabi tutulduğunda, normalde görünmeyen merkezi aktörler, organik kümeleşmeler, kümeler arası köprüler, dolaylı ilişkiler kolayca keşfedilebilir. Sonuçta, ağın içeriğine göre bu analiz çıktıları yeni uygulamalar geliştirmekte kullanılabilir.
 
-*Ağ Verisinin Yaratıcı Kullanımı* hackathonu büyük verinin geleneksel kullanımdan farklı olarak, yeni alanlarda ağ verisi oluşturma (bkz *[farklı graph örnekleri](https://graphcommons.com){:target="_blank"}*) ve ağ verisiyle yaratıcı uygulamaların geliştirilmesini amaçlar. Özellikle şu iki türde çalışma yapılacaktır:
+*Ağ Verisinin Yaratıcı Kullanımı* hackathonu büyük verinin geleneksel kullanımdan farklı olarak, yeni alanlarda ağ verisi oluşturma (bkz *[farklı graph örnekleri](https://graphcommons.com){:target="_blank"}* ve *[yapısal gazetecilik hackathonu](https://graphcommons.github.io/hackathons/2015/08/21/istanbul-yapisal-gazetecilik-dokumentasyon/){:target="_blank"})* ve ağ verisiyle yaratıcı uygulamaların geliştirilmesini amaçlar. 
+
+Özellikle şu iki türde çalışma yapılacaktır:
 
 1. Sivil toplum konularına dair dağınık verilerin modellenmesi ve çeşitli kaynaklardan toplanarak ağ verisine dönüştürülmesi.
 
