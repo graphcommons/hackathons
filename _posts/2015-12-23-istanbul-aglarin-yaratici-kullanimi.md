@@ -5,7 +5,7 @@ title: "Hackathon: Ağ Verisinin Yaratıcı Kullanımı"
 subtitle: ""
 scheduled_date: 9-10 Ocak 2016
 author:      "Graph Commons"
-header-img:  ""
+header-img:  "img/istanbul-2015/turkiye-isci-eylemleri-ag-haritasi-ocak-2015.png"
 description: "9-10 Ocak 2016, ATÖLYE İstanbul, Bomonti"
 place: "ATÖLYE İstanbul, Bomonti"
 address: "Merkez Mah. Silahşör Cad. Birahane Sok. No:1 Şişli, İstanbul"
@@ -30,7 +30,7 @@ Düzenleyen: **[Graph Commons](https://graphcommons.com){:target="_blank"}**
 <a href="#konular-mentorler-kaynaklar" class="btn btn-default">KONULAR & KAYNAKLAR</a>
 <a href="#iletisim" class="btn btn-default">İLETİŞİM</a>
 
-Günümüzde "büyük veri"nin bir türü olan ağ veri yapıları yaygın olarak e-ticaret ve sosyal ağ servislerinde tavsiye motoru, finans sektöründe hile analizi, taşıma sektöründe rotasyon, güvenlik ve gözetim sektöründe soruşturma, telekom sektöründe baz istasyonu yerleştirme, borsada tahmin yapma ve benzeri amaçlar için kullanılmakta.
+Günümüzde "büyük veri"nin bir türü olan ağ veri yapıları yaygın olarak e-ticaret ve sosyal ağ servislerinde tavsiye motoru, finans sektöründe fraud analizi, taşıma sektöründe rotasyon, güvenlik sektöründe soruşturma, akıllı şehirlerde gözetim, telekom sektöründe baz istasyonu yerleştirme, borsada tahmin yapma ve benzeri amaçlar için kullanılmakta.
 
 Oysa ağ haritalama, karmaşık sistemleri anlamak ve kullanabilmek için bize *hem görsel hem matematiksel* olan, çok daha geniş kapasiteye sahip, ortak bir dil sağlamakta. Bu dil sayesinde, kapsamı ne kadar farklı olursa olsun herhangi bir sistemi nokta-çizgi diyagramlar halinde ağ verisine dönüştürebilir ve analizini kullanmaya başlayabiliriz.
 
@@ -62,7 +62,7 @@ Katılımcıların isteğine göre:
 
 - b) varolan ya da oluşturulan ağ verisini kullanan uygulamalar geliştirilecek.
 
-**[Neo4j](http://neo4j.com/){:target="_blank"}** ve **[Graph Commons](https://graphcommons.com){:target="_blank"}** gibi var olan graph yazılımlarından faydalanıp veri modelleri yaratılacak ve hedeflenen araçlar için prototipler oluşturulacak. Javascript, Python, Ruby, PHP, Java, .NET vb yatkın olduğunuz istenilen dilde geliştirilecek araçların ilk prototipleri aynı gün içerisinde çalışır hale gelecek ve ikinci gün iyileştirilecek.
+**[Neo4j](http://neo4j.com/){:target="_blank"}** ve **[Graph Commons](https://graphcommons.com){:target="_blank"}** gibi var olan graph yazılımlarından faydalanıp veri modelleri yaratılacak ve hedeflenen araçlar için prototipler oluşturulacak. Javascript, Python, Ruby, PHP, Java, .NET, HTML/CSS vb yatkın olduğunuz araçlarla geliştirilecek uygulamaların ilk prototipleri aynı gün içerisinde çalışır hale gelecek ve ikinci gün iyileştirilecek.
 
 Veri derleme araçları ile oluşturulan ağ verileri Graph Commons platformuna **[API](https://graphcommons.com/dev){:target="_blank"}** ya da import yoluyla yüklenerek interaktif ağ haritaları yaratılacak, okumaya ve analize tabi tutularak tartışılacak. API kullanarak ya da başka şekillerde yaratılan uygulamalar sunuma hazır edilecek.
 

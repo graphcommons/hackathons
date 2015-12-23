@@ -437,8 +437,18 @@ form .row:first-child .floating-label-form-group {
 
 .btn-outline {
 	background: rgba(255,255,255,0.15);
-	color: rgba(255,255,255,0.75);
+	color: rgba(255,255,255,0.85);
 	margin-top: 25px;
+}
+.btn-outline.white-bg {
+	background-color: @btn-on-white;
+	border-color: @btn-on-white;
+	// background: rgba(255,255,255,0.15);
+	&:hover,
+	&:focus {
+		background-color: @brand-primary;
+		border-color: @brand-primary;
+	}
 }
 
 // Pager Styling - - - - - - - - - - - - - - - - - - - - -
