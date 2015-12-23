@@ -1,7 +1,7 @@
 ---
 layout: post
 language: tr
-title: "Ağ Verisinin Yaratıcı Kullanımı Hackathonu"
+title: "Hackathon: Ağ Verisinin Yaratıcı Kullanımı"
 subtitle: ""
 scheduled_date: 9-10 Ocak 2016
 author:      "Graph Commons"
