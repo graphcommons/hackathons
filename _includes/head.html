@@ -10,15 +10,15 @@
     <meta name="twitter:creator" content="@graphcommons" />
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
     <meta name="twitter:description" content="{% if page.description %}{{ page.description }} {% else %} {{ site.description }}{% endif %}" />
-    <meta name="twitter:image" content="{{site.url}}{{site.baseurl}}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}" />
-    <meta name="twitter:image:src" content="{{site.url}}{{site.baseurl}}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}">
+    <meta name="twitter:image" content="{{site.url}}{{site.baseurl}}/{% if page.flyer %}{{ page.flyer }}{% elsif page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}" />
+    <meta name="twitter:image:src" content="{{site.url}}{{site.baseurl}}/{% if page.flyer %}{{ page.flyer }}{% elsif page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}">
     <meta name="twitter:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
     <meta name="twitter:domain" content="{{site.url}}{{site.baseurl}}">
 
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
     <meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
     <meta property="og:description" content="{% if page.description %}{{ page.description }} {% else %} {{ site.description }}{% endif %}" />
-    <meta property="og:image" content="{{site.url}}{{site.baseurl}}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}" />
+    <meta property="og:image" content="{{site.url}}{{site.baseurl}}/{% if page.flyer %}{{ page.flyer }}{% elsif page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}" />
 
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
