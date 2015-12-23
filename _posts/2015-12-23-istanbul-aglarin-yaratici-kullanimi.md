@@ -3,7 +3,7 @@ layout: post
 language: tr
 title: "Hackathon: Ağ Verisinin Yaratıcı Kullanımı"
 subtitle: ""
-scheduled_date: 9-10 Ocak 2016
+scheduled_date: "9-10 Ocak 2016"
 author:      "Graph Commons"
 header-img:  "img/istanbul-2015/turkiye-isci-eylemleri-ag-haritasi-ocak-2015.png"
 description: "9-10 Ocak 2016, ATÖLYE İstanbul, Bomonti"
