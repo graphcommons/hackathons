@@ -20,7 +20,10 @@ address: "Merkez Mah. Silahşör Cad. Birahane Sok. No:1 Şişli, İstanbul"
 <br>
 <small>
 Adres: {{ page.address }} **[Harita](http://atolyeistanbul.co/iletisim/){:target="_blank"}**
+<br>
+Düzenleyen: **[Graph Commons](https://graphcommons.com){:target="_blank"}**
 </small>
+<br>
 
 <a href="#katilim" class="btn btn-default">KATILIM</a>
 <a href="#program" class="btn btn-default">PROGRAM</a>
@@ -29,17 +32,17 @@ Adres: {{ page.address }} **[Harita](http://atolyeistanbul.co/iletisim/){:target
 
 Günümüzde "büyük veri"nin bir türü olan ağ veri yapıları yaygın olarak e-ticaret ve sosyal ağ servislerinde tavsiye motoru, finans sektöründe hile analizi, taşıma sektöründe rotasyon, güvenlik ve gözetim sektöründe soruşturma, telekom sektöründe baz istasyonu yerleştirme, borsada tahmin yapma ve benzeri amaçlar için kullanılmakta.
 
-Oysa ağ haritalama / modelleme karmaşık sistemleri anlamlandırabilmek ve kullanabilmek için bize hem görsel hem matematiksel olan ortak bir dil sağlamakta. Bu dil sayesinde kapsamı ne kadar farklı olursa olsun herhangi bir sistemi nokta-çizgi diyagramlara, yani ağ verisine dönüştürerek anlamaya ve analizini kullanmaya başlayabiliriz.
+Oysa ağ haritalama, karmaşık sistemleri anlamak ve kullanabilmek için bize *hem görsel hem matematiksel* olan, çok daha geniş kapasiteye sahip, ortak bir dil sağlamakta. Bu dil sayesinde, kapsamı ne kadar farklı olursa olsun herhangi bir sistemi nokta-çizgi diyagramlar halinde ağ verisine dönüştürebilir ve analizini kullanmaya başlayabiliriz.
 
-Ağ verisi oluşturarak ve analiz ederek merkezi aktörler, organik kümeleşmeler, kümeler arası köprüler, dolaylı ilişkileri kolayca keşfedebiliriz. Sonuçta, oluşturulan ağ veri tabanı ve analiz çıktıları içinde arama, dolaşma, karşılaştırma yapılarak ihtiyaca göre farklı uygulamalar içinde tekrar tekrar kullanılabilir.
+Bir karmaşık konu ağ haritasına dönüştürülüp analize tabi tutulduğunda, normalde görünmeyen merkezi aktörler, organik kümeleşmeler, kümeler arası köprüler, dolaylı ilişkiler kolayca keşfedilebilir. Sonuçta, ağın içeriğine göre bu analiz çıktıları yeni uygulamalar geliştirmekte kullanılabilir.
 
-*{{ page.title }}* özellikle ağ verisiyle geleneksel kullanımdan farklı olarak yaratıcı uygulamaların geliştirilmesini amaçlamaktadır. Özellikle 2 konuda çalışma yapılacaktır:
+*Ağ Verisinin Yaratıcı Kullanımı* hackathonu büyük verinin geleneksel kullanımdan farklı olarak, yeni alanlarda ağ verisi oluşturma (bkz *[farklı graph örnekleri](https://graphcommons.com){:target="_blank"}*) ve ağ verisiyle yaratıcı uygulamaların geliştirilmesini amaçlar. Özellikle şu iki türde çalışma yapılacaktır:
 
-1. Sivil toplum konularına dair dağınık verilerin modellenmesi ve türlü kaynaklardan toplanarak ağ verisine dönüştürülmesi.
+1. Sivil toplum konularına dair dağınık verilerin modellenmesi ve çeşitli kaynaklardan toplanarak ağ verisine dönüştürülmesi.
 
 2. Ağ verilerini kullanan yaratıcı uygulamalar geliştirilmesi.
 
-"Eli kod tutan" kişilerden oluşacak katılımcılar bir yanda ağ haritalama ve analizi konusunda bilgi ve becerilerini geliştirirken diğer yanda alanında uzman mentörlerin desteğiyle tekrar tekrar kullanılabilir araçlar üretecekler.
+"Eli kod tutan" kişilerden oluşacak hackathon katılımcıları, bir yanda ağ haritalama ve analizi konusunda bilgi ve becerilerini geliştirirken, diğer yanda alanında uzman mentörlerin desteğiyle tekrar tekrar kullanılabilir araçlar üretecekler.
 
 Hackathon üç aşamada gerçekleşecek:
 
@@ -47,7 +50,7 @@ Hackathon üç aşamada gerçekleşecek:
 
 #### 1. Ağ Modelleme ve Beyin Fırtınası
 
-Kağıt kalemle beyin fırtınası şeklinde yapılacak bu aşamada, alandaki önemli aktörler ve aralarındaki kritik ilişkiler tartışılarak belirlenecek. Aciliyet gerektiren sorular ve aranan cevaplar belirlenecek. Nasıl araçlar geliştirilebileceği konusunda kararlar verilecek.
+Kağıt kalemle beyin fırtınası şeklinde yapılacak bu aşamada, öncelikle alandaki önemli aktörler ve aralarındaki kritik ilişkiler tartışılarak belirlenecek. Ardından, aciliyet gerektiren sorular ve aranan cevaplar  netleştirilecek. Son olarak, nasıl araçlar geliştirilebileceği konusunda kararlar verilecek.
 
 <img style="float:right; width:300px; margin-top:10px;" src="http://blog.graphcommons.com/wp-content/uploads/2015/08/graph-json-structure.png">
 
@@ -59,9 +62,9 @@ Katılımcıların isteğine göre:
 
 - b) varolan ya da oluşturulan ağ verisini kullanan uygulamalar geliştirilecek.
 
-**[Neo4j](http://neo4j.com/){:target="_blank"}** ve **[Graph Commons](https://graphcommons.com){:target="_blank"}** gibi var olan graph yazılımlarından faydalanıp veri modelleri yaratılacak ve hedeflenen araçlar için prototipler oluşturulacak. Araçların ilk prototipleri aynı gün içerisinde çalışır hale gelecek ve ikinci gün iyileştirilecek.
+**[Neo4j](http://neo4j.com/){:target="_blank"}** ve **[Graph Commons](https://graphcommons.com){:target="_blank"}** gibi var olan graph yazılımlarından faydalanıp veri modelleri yaratılacak ve hedeflenen araçlar için prototipler oluşturulacak. Javascript, Python, Ruby, PHP, Java, .NET vb yatkın olduğunuz istenilen dilde geliştirilecek araçların ilk prototipleri aynı gün içerisinde çalışır hale gelecek ve ikinci gün iyileştirilecek.
 
-Veri derleme araçları ile oluşturulan ağ verileri Graph Commons platformuna **[API](https://graphcommons.com/dev){:target="_blank"}** ya da import yoluyla yüklenerek interaktif ağ haritaları yaratılacak, okumaya ve analize tabi tutularak tartışılacak. API kullanarak ya da başka şekillerde yaratılan araçlar sunuma hazır edilecek.
+Veri derleme araçları ile oluşturulan ağ verileri Graph Commons platformuna **[API](https://graphcommons.com/dev){:target="_blank"}** ya da import yoluyla yüklenerek interaktif ağ haritaları yaratılacak, okumaya ve analize tabi tutularak tartışılacak. API kullanarak ya da başka şekillerde yaratılan uygulamalar sunuma hazır edilecek.
 
 <img style="float:right; width:300px;" src="http://blog.graphcommons.com/wp-content/uploads/2015/08/graphcommons-mapping-analysis.png">
 
@@ -76,7 +79,7 @@ Veri derleme araçları ile oluşturulan ağ verileri Graph Commons platformuna 
 <p/>
 #### Kimler katılmalı?
 
-Bilgisayar programlayabilen (backend, frontend, veri analiz, ya da başka türlerde), yetenekleriyle yaratıcı ve eleştirel uygulamalar geliştirmek isteyenler, ve özellikle hak odaklı gazetecilik ve sivil toplum alanına ilgi gösterenler.
+Bilgisayar programlayabilen (backend, frontend, veri analiz, görselleştirme, ya da başka türlerde), yetenekleriyle yaratıcı ve eleştirel uygulamalar geliştirmek isteyenler, ve özellikle sivil toplum alanına ilgi gösterenler.
 
 #### Katılımcılar nasıl faydalanacak?
 <p/>
@@ -98,7 +101,7 @@ Katılım ücretsizdir. Yer sınırımız olduğundan, başvuru formunu doldurup
 
 ## Hackathon Programı
 
-Hackathon çalışma seansları boyunca teknik mentörlere soru sorma danışma imkanı olacaktır.
+Hackathon çalışmaları sırasında teknik mentörlere soru sorma danışma imkanı olacaktır.
 
 #### Birinci gün (9 Ocak Cumartesi)
 
@@ -160,11 +163,11 @@ Hackathon'da geliştirilecek tüm araçlar geliştiren kişilere aittir ve özg�
 <a name="iletisim"></a>
 
 ## Hackathon İletişim
-<p/>
-#### Katılımcılar için koordinasyon
-- [Graph Commons](https://graphcommons.com)
-- [Graph Commons Slack Chat Kanalı](https://graphcommons.com/slack)
-- [Graph Commons Github Kod Deposu](https://github.com/graphcommons)
 
-#### Genel iletişim
-- [https://graphcommons.com/contact](https://graphcommons.com/contact)
+[https://graphcommons.com/slack](https://graphcommons.com/slack) – Hackathon öncesinde ve çalışmalar sırasında fikir alışverişi ve sorularınız için Slack Chat kanalımızı kullanabilirsiniz. Özellike görsel paylaşımı, link paylaşımı, ve grup tartışmaları için kullanışlı.
+
+[https://github.com/graphcommons](https://github.com/graphcommons) – Github Graph Commons hesabında yeralan ruby, python API wrapperları kullanabilirsiniz. Ayrıca genel olarak karşılaştığınız sorunları ya da yorumları bildirmek için [issues](https://github.com/graphcommons/graphcommons-issues/issues) kısmına yazabilirsiniz.
+
+<a href="mailto:workshop@graphcommons.com">workshop@graphcommons.com</a> adresine Hackathon sorularınızı gönderebilirsiniz.
+
+[https://graphcommons.com/contact](https://graphcommons.com/contact) – Her türlü genel iletişim için email gönderebilirsiniz.
