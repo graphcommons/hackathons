@@ -6,8 +6,8 @@ subtitle: ""
 scheduled_date: 9-10 Ocak 2016
 author:      "Graph Commons"
 header-img:  ""
-description: "9-10 Ocak 2016, Atölye İstanbul, Bomonti, İstanbul"
-place: "Atölye İstanbul, Bomonti"
+description: "9-10 Ocak 2016, ATÖLYE İstanbul, Bomonti, İstanbul"
+place: "ATÖLYE İstanbul, Bomonti"
 address: "Merkez Mah. Silahşör Cad. Birahane Sok. No:1 Şişli, İstanbul"
 ---
 <!-- [English](/hackathons/2015/08/21/istanbul-yapisal-gazetecilik-en) -->
@@ -143,7 +143,7 @@ Sivil toplum konularına dair bilgileri ve kaynakları **[2015 Eylül Hackathonu
 
 ### Adres ve Harita
 
-**Atölye İstanbul**
+**ATÖLYE İstanbul**
 <br>
 {{ page.address }}
 
