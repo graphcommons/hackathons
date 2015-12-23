@@ -6,7 +6,7 @@ subtitle: ""
 scheduled_date: 9-10 Ocak 2016
 author:      "Graph Commons"
 header-img:  ""
-description: "9-10 Ocak 2016, ATÖLYE İstanbul, Bomonti, İstanbul"
+description: "9-10 Ocak 2016, ATÖLYE İstanbul, Bomonti"
 place: "ATÖLYE İstanbul, Bomonti"
 address: "Merkez Mah. Silahşör Cad. Birahane Sok. No:1 Şişli, İstanbul"
 ---
