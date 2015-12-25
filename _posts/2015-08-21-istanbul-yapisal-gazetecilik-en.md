@@ -14,6 +14,7 @@ place: "TMMOB Chamber of Architects, Karaköy, Istanbul"
 
 [Hackathon Documentation](/hackathons/2015/08/21/istanbul-yapisal-gazetecilik-documentation-en/)
 
+[Yeni hackathon: Ağların yaratıcı kullanımı Ocak 9-10, 2016](/hackathons/2015-12-23-istanbul-aglarin-yaratici-kullanimi.md)
 
 # We build our networks!
 
@@ -25,7 +26,7 @@ place: "TMMOB Chamber of Architects, Karaköy, Istanbul"
 <a href="#konular-mentorler-kaynaklar" class="btn btn-default">TOPICS, MENTORS, RESOURCES</a>
 <a href="#iletisim" class="btn btn-default">CONTACT</a>
 
-News articles, press statements and reports are usually produced as raw texts. A short while after the publication date, these texts lose their relevance and thus their significance. Reusing these texts, likewise is rarely the case.
+Today, "graph data" as a category of "big data" is commonly utilized  in e-commerce and social media for recommendation engine
 
 Yet, such texts contain highly valuable embedded information, which, in fact, can be fragmented and structured into meaningful pieces of data and become reusable. Then, information can be used with variety of new contexts, and can be transformed into a constantly growing resource of references. One of the ways of working in this form, requires a practice of relational or network mapping. 
 

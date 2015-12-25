@@ -96,7 +96,7 @@ Maps contain journalists who became a PM from a party in the parliament. Data co
 
 <br>
 
-# Great Moments from the Hackathon
+# Moments from the Hackathon
 
 <img src="https://graphcommons.github.io/hackathons/img/istanbul-2015/Graphcommons-hackathon-2015-Istanbul-photo-0.jpg">
 
