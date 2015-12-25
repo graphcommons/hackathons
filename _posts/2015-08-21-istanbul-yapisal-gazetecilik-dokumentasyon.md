@@ -9,7 +9,7 @@ description: "Yapısal Gazetecilik ve Ağ Haritalama Hackathon'u Dökümantasyon
 ---
 <small>[Click here for English](/hackathons/2015/08/21/istanbul-yapisal-gazetecilik-documentation-en/)</small>
 
-[Yeni hackathon: Ağların yaratıcı kullanımı Ocak 9-10, 2016](/hackathons/2015-12-23-istanbul-aglarin-yaratici-kullanimi.md)
+[Yeni hackathon: Ağların yaratıcı kullanımı Ocak 9-10, 2016](/hackathons/2015/12/23/istanbul-aglarin-yaratici-kullanimi)
 
 [Graph Commons](https://graphcommons.com) tarafından düzenlenen [2 günlük hackathon](https://graphcommons.github.io/hackathons/2015/08/21/istanbul-yapisal-gazetecilik/) TMMOB Mimarlar Odası İstanbul Karaköy'deki mekanında gerçekleşti. Katılımcılar insan hakları, sivil toplum, ve hak gazeteciliği alanlarında kritik konulara dair verileri modellediler, <a href="#haritalar">ağ haritaları</a> yaptılar ve çeşitli kaynaklardan yığın veri toplayabilen <a href="#araclar">veri araçları</a> geliştirdiler.
 
