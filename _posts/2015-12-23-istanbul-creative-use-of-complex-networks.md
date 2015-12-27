@@ -12,7 +12,7 @@ place: "ATÖLYE İstanbul, Bomonti"
 address: "Merkez Mah. Silahşör Cad. Birahane Sok. No:1 Şişli, İstanbul"
 ---
 
-[Türkçe](/hackathons/2015-12-23-istanbul-aglarin-yaratici-kullanimi)
+[Türkçe](/hackathons/2015/12/23/istanbul-aglarin-yaratici-kullanimi)
 
 # We build our networks!
 
