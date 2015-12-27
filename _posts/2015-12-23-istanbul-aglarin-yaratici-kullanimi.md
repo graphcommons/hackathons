@@ -11,7 +11,8 @@ description: "9-10 Ocak 2016, ATÖLYE İstanbul, Bomonti"
 place: "ATÖLYE İstanbul, Bomonti"
 address: "Merkez Mah. Silahşör Cad. Birahane Sok. No:1 Şişli, İstanbul"
 ---
-<!-- [English](/hackathons/2015/08/21/istanbul-yapisal-gazetecilik-en) -->
+
+[English](/hackathons/2015/12/23/istanbul-creative-use-of-complex-networks)
 
 # Ağlarımızı örüyoruz!
 
