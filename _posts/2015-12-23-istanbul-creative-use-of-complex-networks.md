@@ -39,7 +39,7 @@ This language can be applied to systems that may differ in their nature, appeara
 
 A network map is typically organized visually by a force-directed layout algorithm, where nodes find their position on the canvas through connecting forces, revealing the central actors, indirect links, organic clusters, structural holes, and outliers. However, such graph analysis metrics can be programmatically queried on a graph database in order to build graph-driven applications.
 
-*Creative Use of Complex Networks* hackathon is focused on generating new types of graph data (see *[different graph examples](https://graphcommons.com){:target="_blank"}*) and developing creative graph-driven applications (see *[structured journalism hackathon](https://graphcommons.github.io/hackathons/2015/08/21/istanbul-yapisal-gazetecilik-documentation-en/){:target="_blank"})* ).
+*Creative Use of Complex Networks* hackathon is focused on generating new types of graph data (see *[different graph examples](https://graphcommons.com){:target="_blank"}*) and developing creative graph-driven applications (see *[structured journalism hackathon](https://graphcommons.github.io/hackathons/2015/08/21/istanbul-yapisal-gazetecilik-documentation-en/){:target="_blank"})*.
 
 Particularly, there will be two paths of work in the hackathon:
 
@@ -88,8 +88,8 @@ People who can program things (backend, frontend, data analysis, visualization, 
 
 #### What will you get?
 <p/>
-- Develop creative and critical big data applications.
 - Learn how to make network maps, how to analyze networks.
+- Develop creative and critical big data applications.
 - Expand your information architecture skills.
 - Use your programming skills on civic issues.
 - Meet likeminded graphistas.
@@ -146,7 +146,7 @@ Mentors will help as much as possible during your work.
 
 ### Topics & Data Resources
 
-Please go to **[2015 September Hackathon](https://graphcommons.github.io/hackathons/2015/08/21/istanbul-yapisal-gazetecilik#konular-mentorler-kaynaklar){:target="_blank"}** for a list of civic issues and resource links.
+Please visit the **[2015 September Hackathon](https://graphcommons.github.io/hackathons/2015/08/21/istanbul-yapisal-gazetecilik#konular-mentorler-kaynaklar){:target="_blank"}** for a list of civic issues and resource links.
 
 
 ### Location
