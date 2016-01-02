@@ -111,18 +111,19 @@ Hackathon çalışmaları sırasında teknik mentörlere soru sorma danışma im
 
 09:30 - 10:00 Kayıt & Kahve
 
-10:00 - 10:45 Giriş
+10:00 - 10:40 Giriş - [Burak Arıkan](https://graphcommons.com/arikan)
 <p/>
 - Ağ haritalama nedir, nasıl yapılır? (15dk)
-- Ağ haritaları nasıl okunur? (15dk)
-- Graph Commons API (15dk)
+- Ağ verisi nasıl kullanılır? (15dk)
 - Soru & cevap (10dk)
+
+10:40 - 11:00 Graph Commons API - [Ahmet Kızılay](https://graphcommons.com/ahmetkizilay)
 
 11:00 - 12:00 Çalışma grupları oluşturma ve beyin fırtınası
 
 12:00 - 13:00 *Yemek arası*
 
-13:00 - 13:30 Neo4j / Cypher Sunumu
+13:00 - 13:30 Neo4j / Cypher Sunumu - [Tuna Vargı](https://github.com/vargi)
 
 13:30 - 18:00 Araç geliştirme
 

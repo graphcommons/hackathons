@@ -112,18 +112,19 @@ Mentors will help as much as possible during your work.
 
 09:30 - 10:00 Signup & Coffee
 
-10:00 - 10:45 Introduction
+10:00 - 10:40 Introduction - [Burak Arıkan](https://graphcommons.com/arikan)
 <p/>
 - How to make network maps? Why is it important? (15min)
 - How to analyze networks? (15min)
-- Graph Commons API (15min)
 - Q&A (10min)
+
+10:40 - 11:00 Graph Commons API (15min) - [Ahmet Kızılay](https://graphcommons.com/ahmetkizilay)
 
 11:00 - 12:00 Form working groups and brain storming
 
 12:00 - 13:00 *Lunch*
 
-13:00 - 13:30 Neo4j / Cypher Presentation
+13:00 - 13:30 Neo4j / Cypher Presentation - [Tuna Vargı](https://github.com/vargi)
 
 13:30 - 18:00 Development
 
