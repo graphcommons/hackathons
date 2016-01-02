@@ -118,7 +118,7 @@ Mentors will help as much as possible during your work.
 - How to analyze networks? (15min)
 - Q&A (10min)
 
-10:40 - 11:00 Graph Commons API (15min) - [Ahmet Kızılay](https://graphcommons.com/ahmetkizilay)
+10:40 - 11:00 Graph Commons API - [Ahmet Kızılay](https://graphcommons.com/ahmetkizilay)
 
 11:00 - 12:00 Form working groups and brain storming
 
