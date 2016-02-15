@@ -114,9 +114,9 @@ Initiated by [Asli Telli Aydemir](https://twitter.com/aslitelli){:target="_blank
 
 ## Presentations
 
-"How to use Graph Commons API" by Ahmet Kızılay
+[How to use Graph Commons API](https://gitlab.com/ahmetkizilay/hackathon-sunum){:target="_blank"} by Ahmet Kızılay
 
-[https://gitlab.com/ahmetkizilay/hackathon-sunum](https://gitlab.com/ahmetkizilay/hackathon-sunum){:target="_blank"}
+
 
 <!-- "Getting started with Cypher and Neo4j" by Tuna Vargi -->
 
