@@ -1,11 +1,11 @@
 ---
 layout: post
 language: en
-title: "Hackathon Documentation: Creative use of Complex Networks, Istanbul"
-subtitle: "Documentation from Jan 9-10, 2016"
+title:      "Hackathon Documentation: Creative use of Complex Networks, Istanbul"
+subtitle:   "Documentation from Jan 9-10, 2016"
 author:     "Graph Commons"
-header-img: "img/istanbul-2015/Graphcommons-hackathon-2015-Istanbul-photo.jpg"
-description: "Documentation of Hackathon Creative use of Complex Networks, Istanbul, January 9-10th, 2016"
+header-img: "img/istanbul-2016/hackathon2.jpg"
+description:"Documentation of Hackathon Creative use of Complex Networks, Istanbul, January 9-10th, 2016"
 ---
 
 We organized a two-day hackathon "[Creative Use of Complex Networks](https://graphcommons.github.io/hackathons/2015/12/23/istanbul-creative-use-of-complex-networks/)" hosted by [ATOLYE Istanbul](http://atolyeistanbul.co/roof/#atolyeeng) on Jan 9-10, 2016. Participants created semantic network models, built graph databases, and developed graph-driven applications to map and analyze complex issues in civil society. We think civil society would benefit from having their own methods and tools to collectively imagine and author new protocols and create new interfaces that would compose large-scale civic networks and data streams. Below is selected work from the hackathon with short explanations, links to interactive maps, code repositories, data sources, screenshots, and photos.
