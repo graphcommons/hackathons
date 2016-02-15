@@ -32,8 +32,7 @@ The graph is generated (and being updated) by a TBMM-to-graph application called
 - Code repository: [https://github.com/graphs-for-society/parliamentary-minutes](https://github.com/graphs-for-society/parliamentary-minutes){:target="_blank"}
 - Using Python wrapper for Graph Commons API: [https://github.com/graphcommons/graphcommons-python](https://github.com/graphcommons/graphcommons-python){:target="_blank"}
 
-Also see Turkey's political chronology database
-[https://github.com/fatiherikli/turkiye-siyasi-kronoloji](https://github.com/fatiherikli/turkiye-siyasi-kronoloji){:target="_blank"}
+Also see [Turkey's political chronology database](https://github.com/fatiherikli/turkiye-siyasi-kronoloji){:target="_blank"}
 
 ---
 
