@@ -118,9 +118,19 @@ Using @graphbot in your Slack team is pretty straightforward, follow the step by
 
 ## Presentations
 
-[How to use Graph Commons API](https://gitlab.com/ahmetkizilay/hackathon-sunum){:target="_blank"} by Ahmet Kızılay
+<a href="https://gitlab.com/ahmetkizilay/hackathon-sunum" target="_blank">
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-18.jpg"></a>
 
-Introduction to Neo4j and Cypher by Tuna Vargı (link to presentation soon)
+**[How to use Graph Commons API](https://gitlab.com/ahmetkizilay/hackathon-sunum){:target="_blank"}** – Ahmet Kızılay presents the [Graph Commons API](https://graphcommons.com/dev){:target="_blank"} structure, read/write end points, how to programmatically navigate a graph, search, and make intelligent path calls, as well as signaling queries for adding/updating/deleting nodes and edges in a graph.
+
+<a href="http://slides.com/tunavargi-1/neo4j-essentials" target="_blank">
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-19.jpg"></a>
+
+**[Neo4j Essentials](http://slides.com/tunavargi-1/neo4j-essentials){:target="_blank"}** – Tuna Vargı presents how graph databases are different than SQL table databases, an introduction to Neo4j, and a step by step usage of Cypher graph query syntax.
+
+Also see:
+
+**[Düğümküme: A presentation on graph databases (in Turkish)](http://www.slideshare.net/lahavlevelaislabonita/dugumkume-42428350){:target="_blank"}** by Fatih Erikli
 
 ---
 
@@ -146,10 +156,6 @@ View the [Graph Commons API Documentation](https://graphcommons.github.io/api-v1
 <img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-31.jpg">
 
 <img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-30.jpg">
-
-<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-18.jpg">
-
-<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-19.jpg">
 
 
 <img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-0.jpg">
