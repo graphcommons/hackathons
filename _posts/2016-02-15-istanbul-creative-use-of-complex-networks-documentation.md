@@ -148,13 +148,7 @@ View the [Graph Commons API Documentation](https://graphcommons.github.io/api-v1
 
 <img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-3.jpg">
 
-<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-4.jpg">
-
 <img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-5.jpg">
-
-<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-6.jpg">
-
-<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-7.jpg">
 
 <img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-8.jpg">
 
@@ -166,15 +160,49 @@ View the [Graph Commons API Documentation](https://graphcommons.github.io/api-v1
 
 <img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-12.jpg">
 
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-24.jpg">
+
 <img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-13.jpg">
 
 <img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-14.jpg">
 
 <img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-15.jpg">
 
-<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-16.jpg">
-
 <img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-17.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-18.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-19.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-20.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-21.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-22.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-23.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-25.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-26.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-27.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-28.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-29.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-30.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-31.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-32.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-33.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-34.jpg">
+
+
 ---
 
 For questions and comments on the tools or graphs, contact the respective participants. For the Hackathon questions and comments in general contact us at the [Graph Commons Contact page](https://graphcommons.com/contact).
