@@ -120,9 +120,7 @@ Initiated by [Asli Telli Aydemir](https://twitter.com/aslitelli){:target="_blank
 
 [How to use Graph Commons API](https://gitlab.com/ahmetkizilay/hackathon-sunum){:target="_blank"} by Ahmet Kızılay
 
-
-
-<!-- "Getting started with Cypher and Neo4j" by Tuna Vargi -->
+Introduction to Neo4j and Cypher by Tuna Vargı
 
 ---
 
@@ -138,6 +136,47 @@ Initiated by [Asli Telli Aydemir](https://twitter.com/aslitelli){:target="_blank
 
 View the [Graph Commons API Documentation](https://graphcommons.github.io/api-v1){:target="_blank"} for other Libraries & Examples.
 
-
-
 ---
+
+## Moments from the hackathon
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-0.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-1.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-2.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-3.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-4.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-5.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-6.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-7.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-8.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-9.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-10.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-11.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-12.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-13.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-14.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-15.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-16.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-17.jpg">
+---
+
+For questions and comments on the tools or graphs, contact the respective participants. For the Hackathon questions and comments in general contact us at the [Graph Commons Contact page](https://graphcommons.com/contact).
+
+_This event could not be possible without [Ayça Aldatmaz](https://twitter.com/manythingoes) and [Ahmet Kızılay](https://twitter.com/ahmetkizilay)'s hard labor, our host [ATOLYE Istanbul](http://atolyeistanbul.co/roof/#atolyeeng), and an insightful presentation by [Tuna Vargi](https://github.com/vargi). We thank you all!_
