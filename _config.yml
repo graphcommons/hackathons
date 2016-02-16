@@ -6,12 +6,13 @@ description: Together we untangle those relations
 baseurl: "/hackathons"
 url: "http://graphcommons.github.io"
 twitter_username: graphcommons
-github_username:  graphcommons
 facebook_username:  graphcommons
+github_username:  graphcommons
+slack_team:  graphcommons
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+# highlighter: pygments
 permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
