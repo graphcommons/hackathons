@@ -158,7 +158,7 @@ View the [Graph Commons API Documentation](https://graphcommons.github.io/api-v1
 
 <img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-2.jpg">
 
-<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-3.jpg">
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-4.jpg">
 
 <img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-5.jpg">
 
