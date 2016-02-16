@@ -140,6 +140,18 @@ View the [Graph Commons API Documentation](https://graphcommons.github.io/api-v1
 
 ## Moments from the hackathon
 
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-26.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-31.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-30.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-18.jpg">
+
+<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-19.jpg">
+
+
 <img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-0.jpg">
 
 <img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-1.jpg">
@@ -170,9 +182,6 @@ View the [Graph Commons API Documentation](https://graphcommons.github.io/api-v1
 
 <img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-17.jpg">
 
-<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-18.jpg">
-
-<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-19.jpg">
 
 <img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-20.jpg">
 
@@ -184,7 +193,6 @@ View the [Graph Commons API Documentation](https://graphcommons.github.io/api-v1
 
 <img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-25.jpg">
 
-<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-26.jpg">
 
 <img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-27.jpg">
 
@@ -192,9 +200,7 @@ View the [Graph Commons API Documentation](https://graphcommons.github.io/api-v1
 
 <img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-29.jpg">
 
-<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-30.jpg">
 
-<img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-31.jpg">
 
 <img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/graphcommons-hackathon2-istanbul-2016-32.jpg">
 
