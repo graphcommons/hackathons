@@ -26,15 +26,13 @@ We organized a two-day hackathon "[Creative Use of Complex Networks](https://gra
 
 <a href="https://graphcommons.com/graphs/de6e0fd9-e5a6-42ac-86ad-b98c5a5d15ed?show=graph" target="_blank"><img class="graph-image" src="{{ site.baseurl }}/img/istanbul-2016/Meclis-Konusmalari-tbmm-parliament-minutes-graphcommons-3.png"></a>
 
-[Parliamentary Minutes Graph](https://graphcommons.com/graphs/de6e0fd9-e5a6-42ac-86ad-b98c5a5d15ed?show=graph){:target="_blank"} maps the reactions of political parties to the MP speeches given in Turkey's parliament (TBMM). The full speech is typed by official parliament reporters and published on the TBMM website daily. The minute text includes reactions such as laughter, bullying, applause, and protests from various parties to the speaking MP. In the graph, green nodes represent the speech, red nodes are MPs, blue nodes are political parties. You can start exploring the graph by clicking on a speech node that is at the center, which means it got negative or positive reactions from many parties.
+[Parliamentary Minutes Graph](https://graphcommons.com/graphs/de6e0fd9-e5a6-42ac-86ad-b98c5a5d15ed?show=graph){:target="_blank"} maps the reactions of political parties to the MP speeches in Turkey's parliament (TBMM). The full speech is typed by official parliament reporters and published on the TBMM website daily. The minute text includes reactions such as laughter, bullying, applause, and protests from various parties to the speaking MP. In the graph, the green nodes represent the speech, the red nodes are MPs, and the blue nodes are political parties. You can start exploring the graph by clicking on a speech node that is at the center, which means it got many negative or positive reactions. Enjoy this first-of-its-kind behavioral analysis of a parliament.
 
 The graph is generated (and being updated) by a TBMM-to-graph application called "[Parliamentary Minutes](https://github.com/graphs-for-society/parliamentary-minutes){:target="_blank"}" developed by Doruk Tunaoğlu, Fevzi Kahraman, Onur Güngör, and Osman Başkaya. It has modules for data crawling, information extraction, and graph creation. The group also developed a path searching interface, where you can look up an MP and a party and see if there are any reaction paths exist between them. This application along with last hackathon's [TBMM scraper aka "bureaucracy graph generator"](https://github.com/meclistakip/tbmm-scraper){:target="_blank"} provides a graph-structured activity stream of Turkey's parliament. Also see [Turkey's political chronology database](https://github.com/fatiherikli/turkiye-siyasi-kronoloji){:target="_blank"} compiled by Fatih Erikli.
-
 
 - Data source: [http://tbmm.gov.tr](http://tbmm.gov.tr){:target="_blank"}
 - Code repository: [https://github.com/graphs-for-society/parliamentary-minutes](https://github.com/graphs-for-society/parliamentary-minutes){:target="_blank"}
 - Graph generator: [Python wrapper for Graph Commons API](https://github.com/graphcommons/graphcommons-python){:target="_blank"}
-
 
 ---
 
