@@ -26,7 +26,7 @@ place: "TMMOB Chamber of Architects, Karaköy, Istanbul"
 <a href="#konular-mentorler-kaynaklar" class="btn btn-default">TOPICS, MENTORS, RESOURCES</a>
 <a href="#iletisim" class="btn btn-default">CONTACT</a>
 
-Today, "graph data" as a category of "big data" is commonly utilized  in e-commerce and social media for recommendation engine
+Journalists and civil society organizations publish their research results as plain text in an article or report, and often without the research data itself. News articles, press statements and reports are produced as raw texts and a short while after the publication date, these texts lose their relevance and thus their significance. Likewise, reusing these texts is rarely the case.
 
 Yet, such texts contain highly valuable embedded information, which, in fact, can be fragmented and structured into meaningful pieces of data and become reusable. Then, information can be used with variety of new contexts, and can be transformed into a constantly growing resource of references. One of the ways of working in this form, requires a practice of relational or network mapping. 
 
