@@ -9,8 +9,6 @@ description: "Documentation of the Structured Journalism and Network Mapping Hac
 ---
 <small>[Türkçe için tıklayınız](/hackathons/2015/08/21/istanbul-yapisal-gazetecilik-dokumentasyon/)</small>
 
-[Yeni hackathon: Ağların yaratıcı kullanımı Ocak 9-10, 2016](/hackathons/2015/12/23/istanbul-aglarin-yaratici-kullanimi)
-
 In a [two-day hackathon on structured journalism and network mapping](https://graphcommons.github.io/hackathons/2015/08/21/istanbul-yapisal-gazetecilik-en/) organized by [Graph Commons](https://graphcommons.com) at the Chamber of Architects in Istanbul, participants created semantic network models on topics in the field of human rights, civil society, and journalism. They created <a href="#maps">network maps</a> as well as built <a href="#tools">data tools</a> that compile relatively big data from available sources and turned them into graph databases in order to map and analyze the complex issues at hand.
 
 An important outcome of the event was the initialization of the **rights data protocol**, an open data structure scheme that could enable information flow particularly between civic research projects in order to prevent recurring data work and reinforce their impact. It would also decentralize civic research data by moving it between applications and projects. No need to say, such a protocol can only flourish when used by many constituents. More on this later.

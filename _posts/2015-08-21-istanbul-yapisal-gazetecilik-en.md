@@ -14,8 +14,6 @@ place: "TMMOB Chamber of Architects, Karaköy, Istanbul"
 
 [Hackathon Documentation](/hackathons/2015/08/21/istanbul-yapisal-gazetecilik-documentation-en/)
 
-[Yeni hackathon: Ağların yaratıcı kullanımı Ocak 9-10, 2016](/hackathons/2015/12/23/istanbul-aglarin-yaratici-kullanimi)
-
 # We build our networks!
 
 **Hackathon September 12-13 2015 **<br>
