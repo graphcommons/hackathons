@@ -36,25 +36,25 @@ Network maps offer us a "common language", that is both visual and mathematical.
 
 The hackathon has four parts:
 
-<img style="float:right; width:300px" src="http://blog.graphcommons.com/wp-content/uploads/2014/12/graphcommons-collaborative-mapping.png">
+<img style="float:right; width:300px" src="{{ site.baseurl }}/img/graphcommons-collaborative-mapping.png">
 
 #### 1. Network Modeling
 
 Expertise of mentors will meet with technical knowledge of the participants during the data modeling process. This part consists of using pen and paper and identifying main actors and critical material relations within the field in a collective brainstorm. Urgent questions and how to answer them will be discussed and designed.
 
-<img style="float:right; width:300px; margin-top:20px;" src="http://blog.graphcommons.com/wp-content/uploads/2015/08/graph-json-structure.png">
+<img style="float:right; width:300px; margin-top:20px;" src="{{ site.baseurl }}/img/graph-json-structure.png">
 
 #### 2. Development of tools
 
 On the basis of colelctive modeling done in the previous stage, data compilation tools will be developed. Participants will work on either **[publication platforms](#yayin-platformlari)** or **[data mining tools](#konular-mentorler-kaynaklar)** that will programtically generate graph data according to the needs. First prototypes of the tools are planned to be finalized in the first day of the workshop and be polished in the second day of the hackathon. This way we will also find some time to debate what the beta versions should be like, how to improve and further develop these tools.
 
-<img style="float:right; width:300px;" src="http://blog.graphcommons.com/wp-content/uploads/2015/08/graphcommons-mapping-analysis.png">
+<img style="float:right; width:300px;" src="{{ site.baseurl }}/img/graphcommons-mapping-analysis.png">
 
 #### 3. Mapping
 
 The compiled data will be imported to the **[Graph Commons](https://graphcommons.com)** platform and will be made into interactive network maps, which will be reviewed, read and analyzed, and published on the platform.
 
-<img style="float:right; width:300px;" src="http://blog.graphcommons.com/wp-content/uploads/2015/08/graphcommons-cartography-presentation.png">
+<img style="float:right; width:300px;" src="{{ site.baseurl }}/img/graphcommons-cartography-presentation.png">
 
 #### 4. Presentations
 
