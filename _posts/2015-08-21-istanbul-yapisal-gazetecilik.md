@@ -317,9 +317,9 @@ Alanda önemli olan aktörler **Sendikalar**, **Sendikamsı işçi örgütlenmel
 
 ##### Mentörler
 
-- [Aslı Odman](https://twitter.com/odmanasli), Mimar Sinan Üniversitesi, İşçi Sağlığı ve İş Güvenliği Meclisi
-- [İrfan Kaygısız](https://twitter.com/rfankaygsz), Birleşik-Metal Sendikası Uzmanı
-- [Ebru Işıklı](http://boun.academia.edu/EbruIsikli)
+- [Aslı Odman](https://twitter.com/odmanasli), Mimar Sinan Üniversitesi, [İşçi Sağlığı ve İş Güvenliği Meclisi](http://guvenlicalisma.org)
+- [İrfan Kaygısız](https://twitter.com/rfankaygsz), [Birleşik-Metal Sendikası](http://www.birlesikmetal.org/)
+- [Ebru Işıklı](http://boun.academia.edu/EbruIsikli), [Emek Çalışmaları Topluluğu](http://emekcalisma.org)
 - [Orhun Aras Köksal](http://ku.academia.edu/OrhunArasK%C3%B6ksal)
 
 ##### Kaynaklar
