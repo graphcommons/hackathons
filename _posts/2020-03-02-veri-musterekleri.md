@@ -54,11 +54,11 @@ Yazılımcılar, veri bilimiyle uğraşanlar, yetenekleriyle yaratıcı ve eleş
 
 #### Nasıl faydalanabilirim?
 <p></p>
-- Ağ haritalama, okuma ve analizini öğrenme,
+- Ağ haritalama ve analizini öğrenme,
 - Büyük veri ile yaratıcı ve eleştirel çalışma becerilerini geliştirme,
 - Bilgi mimarisi ve ilişkisel düşünme yeteneklerini iyileştirme,
 - Teknik yeteneklerini toplumsal sorunlar için etkin kullanma,
-- Bu konularla ilgilenen diğer yazılımcı ve araştırmacılarla tanışma imkanı.
+- Benzer konularla ilgilenen diğer yazılımcı ve araştırmacılarla tanışma imkanı.
 <p></p>
 
 #### Katılım Başvurusu
