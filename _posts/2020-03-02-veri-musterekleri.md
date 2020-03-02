@@ -5,7 +5,7 @@ title: "Veri Müşterekleri için Ağ Haritalama Hackathonu"
 subtitle: ""
 scheduled_date: 21-22 Mart 2020
 author:     "Graph Commons"
-header-img: "img/CivilSociety-NGO-STK-Network-Mapping-Workshop-istanbul.jpeg"
+header-img: "img/gc-workshop-1500x500-2.jpg"
 description: "21-22 Mart 2020, TMMOB Mimarlar Odası, Karaköy, İstanbul"
 place: "TMMOB Mimarlar Odası, Karaköy, İstanbul"
 ---
@@ -152,7 +152,7 @@ Somut grup çalışmalarına zemin hazırlayabilmek için aşağıdaki öncül �
 
 <a name="iletisim"></a>
 
-## Hackathon İletişim
+## İletişim
 <p></p>
 #### Katılımcılar için koordinasyon
 - [Graph Commons](https://graphcommons.com)
