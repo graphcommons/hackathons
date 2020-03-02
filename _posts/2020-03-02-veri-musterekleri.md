@@ -38,7 +38,7 @@ Yazılım geliştiricileri, veri bilimi ve hak savunuculuğu / toplumsal dönü�
 
 <strong>Düzenleyenler</strong>
 
-<strong>Burak Arıkan</strong> sanatçı ve girişimci olarak ağ bilimi ile çalışır, açık platformlar geliştirir ve etrafında topluluklar oluşturur. Graph Commons ağ haritalama, analizi, ve yayımlama platformunun kurucusudur. [https://graphcommons.com](https://graphcommons.com)
+<strong>Burak Arıkan</strong> sanatçı ve girişimci olarak ağ bilimi ile çalışır, açık platformlar geliştirir ve etrafında topluluklar oluşturur. Graph Commons ağ haritalama, ilişki analizi ve yayımlama platformunun kurucusudur. [https://graphcommons.com](https://graphcommons.com)
 
 <strong>Aslı Odman</strong>, sosyalbilimci, kent ve emek konularında saha, veri ve toplumsal dönüşüm temelli çalışan araştırmacı. [http://www.asliodman.academia.edu](http://www.asliodman.academia.edu)
 
