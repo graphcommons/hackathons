@@ -26,13 +26,13 @@ Ulaşım için adres ve harita:
 
 Toplumsal sorunlar birbiriyle ilişkili olduğu halde, bunlara dair veriler birlikte-işler şekilde kullanılamıyor. Üstelik bu sorunlara dair veriler ve araçlar çoğunlukla devlet kurumları ve büyük şirketlerin tekelinde, bu da onlarla toplumsal bir meseleyi çözmek isteyenler arasında bilgi asimetrisine yol açıyor. Bir mesele hakkında bir taraf diğerinden daha fazla bilgiye sahip olduğunda eşitsizlik ve manipülasyon tehlikesi artıyor.
 
-Toplumsal meselelere dair ayrı ayrı takip edilen verileri müşterekleştirmek dayanışma ağlarını güçlendirebilir, genişletebilir, ve yeni altyapılar oluşturmamıza yardımcı olabilir. Böylece o meselelerle ilgilenenler arasında yeni bağlar örülür ve isabetli bir eylem kılavuzu çıkarmak isteyen herkesin bütüncül bir görüşe sahip olmasına imkanı sağlanır.
+Toplumsal meselelere dair ayrı ayrı takip edilen verileri müşterekleştirmek dayanışma ağlarını güçlendirebilir, genişletebilir ve yeni altyapılar oluşturmamıza yardımcı olabilir. Böylece o meselelerle ilgilenenler arasında yeni bağlar örülür ve isabetli bir eylem kılavuzu çıkarmak isteyen herkesin bütüncül bir görüşe sahip olmasına imkanı sağlanır.
 
-İki tam gün boyunca konuşmacıların, tartışmaların, ve grup çalışmalarının olacağı hackathon iki aşamada gerçekleşecek:
+İki tam gün boyunca konuşmacıların, tartışmaların ve grup çalışmalarının olacağı hackathon iki aşamada gerçekleşecek:
 
 1. <strong>Veri Zenginleştirme Araçları</strong> – Toplumsal meseleleri, kayıpları, hak ihlallerini takip ederek oluşturulan verileri zenginleştirmek ve ilişki haritalarını çıkarmak için araçlar geliştirmek.
 
-2. <strong>Veri Müşterekleştirme Protokolleri</strong> – Farklı toplumsal sorunlar arasındaki kesişimlerin verisini --şirketler, hukuki ayrıcalıklar sağlayan mekanizmalar, davalarda hükümlerin üst dili, mekan/yer vb.-- müşterekleştirecek veri protokoller oluşturmak.
+2. <strong>Veri Müşterekleştirme Protokolleri</strong> – Farklı toplumsal sorunlar arasındaki kesişimlerin verisini --şirketler, hukuki ayrıcalıklar sağlayan mekanizmalar, davalarda hükümlerin üst dili, mekan/yer vb.-- müşterekleştirecek veri protokolleri oluşturmak.
 
 Yazılım geliştiricileri, veri bilimi ve hak savunuculuğu / toplumsal dönüşüm faaliyeti içinde bulunan birey ve kolektifleri bir araya getirecek bu etkinlikte, katılımcılar bir yanda ağ haritalama ve analizi konusunda bilgi ve becerilerini geliştirirken, diğer yanda farklı toplumsal alanlardan mentörlerin desteğiyle ele alınan toplumsal sorunun çözümüne yönelik herkesin kullanabileceği araçlar üretecekler.
 
@@ -50,11 +50,11 @@ Yazılım geliştiricileri, veri bilimi ve hak savunuculuğu / toplumsal dönü�
 <p></p>
 #### Kimler katılmalı?
 
-Yazılımcılar, veri bilimiyle uğraşanlar, yetenekleriyle yaratıcı ve eleştirel uygulamalar geliştirmek isteyenler, ve özellikle toplumsal sorunlara ilgi gösterenler. Sosyal, tarihsel, mekansal, ekonomik, hukuki toplumun bugünu ve dünündeki her hangi bir sorun alanında veri-bazlı çalışanlar.
+Yazılımcılar, veri bilimiyle uğraşanlar, yetenekleriyle yaratıcı ve eleştirel uygulamalar geliştirmek isteyenler ve özellikle toplumsal sorunlara ilgi gösterenler. Sosyal, tarihsel, mekansal, ekonomik, hukuki toplumun bugünü ve dünündeki herhangi bir sorun alanında veri-bazlı çalışanlar.
 
 #### Nasıl faydalanabilirim?
 <p></p>
-- Ağ haritalama, okuma, ve analizini öğrenme,
+- Ağ haritalama, okuma ve analizini öğrenme,
 - Büyük veri ile yaratıcı ve eleştirel çalışma becerilerini geliştirme,
 - Bilgi mimarisi ve ilişkisel düşünme yeteneklerini iyileştirme,
 - Teknik yeteneklerini toplumsal sorunlar için etkin kullanma,
@@ -100,7 +100,7 @@ Toplumsal meseleleri, kayıpları, hak ihlallerini takip ederek oluşturulan ver
 
 #### Gün 2: Veri Müşterekleştirme Protokolleri – 22 Mart Pazar
 
-Farklı toplumsal sorunlar arasındaki kesişimlerin verisini -- şirketler, hukuki ayrıcalıklar sağlayan mekanizmalar, davalarda hükümlerin üst dili, mekan/yer vb--müşterekleştirecek veri protokoller oluşturma.
+Farklı toplumsal sorunlar arasındaki kesişimlerin verisini -- şirketler, hukuki ayrıcalıklar sağlayan mekanizmalar, davalarda hükümlerin üst dili, mekan/yer vb--müşterekleştirecek veri protokolleri oluşturma.
 
 09:00 Açılış
 
@@ -124,13 +124,13 @@ Farklı toplumsal sorunlar arasındaki kesişimlerin verisini -- şirketler, huk
 
 ## Konular, Mentörler: Verini kap da gel!
 
-Toplumsal konularda veri takibi yapan oluşumlar, araştırmacılar, ve yazılımcılar verileri birbiriyle konuşturmak, müşterekleştirmek için bir araya geliyor.
+Toplumsal konularda veri takibi yapan oluşumlar, araştırmacılar ve yazılımcılar verileri birbiriyle konuşturmak, müşterekleştirmek için bir araya geliyor.
 
 Somut grup çalışmalarına zemin hazırlayabilmek için aşağıdaki öncül çalışma gruplarını öneriyoruz. Süreç içerisinde grupların değişmesi, birleşmesi, ayrışması mümkün, hatta amaçlanmaktadır. Alfabetik sırayla:
 
-- <strong>Eğitim</strong>, Kreş-İlk-Orta-Meslek-Yüksek Öğretim, Dershaneler, Alternatif Eğitim Ağları
+- <strong>Eğitim</strong>, Kreş-İlk-Orta-Meslek-Yüksek Öğretim, Dershaneler, Müfredat, Öğretmenler,Alternatif Eğitim Ağları
 
-- <strong>Ekolojik Kriz</strong>, Mülksüzleştirme, Enerji, Tarım, Gıda, Su, Halk Sağlığı, Kent
+- <strong>Ekolojik Kriz</strong>, Mülksüzleştirme, Enerji, Tarım, Gıda, Su, Halk Sağlığı, Afetler, Kent
 
 - <strong>Emek</strong>, İşçi Sağlığı, Emek Direnişleri, Göç/Hareketlilik, Kent
 
@@ -144,7 +144,7 @@ Somut grup çalışmalarına zemin hazırlayabilmek için aşağıdaki öncül �
 
 - <strong>Kamu İhaleleri</strong>, Karteller, Yolsuzluk
 
-- <strong>Sağlık</strong>, Aile Hekimliği, Özel, Devlet ve Şehir Hastaneleri, Yeni SGK yapılanması
+- <strong>Sağlık</strong>, Aile Hekimliği, Özel, Devlet ve Şehir Hastaneleri, Sağlık Hacramaları, Hastalklar, Yeni SGK yapılanması
 
 - <strong>Toplumsal Cinsiyet</strong>, Davalar, Şiddet, Ayrımcılıklar
 
