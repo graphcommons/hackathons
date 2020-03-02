@@ -128,9 +128,9 @@ Toplumsal konularda veri takibi yapan oluşumlar, araştırmacılar, ve yazılı
 
 Somut grup çalışmalarına zemin hazırlayabilmek için aşağıdaki öncül çalışma gruplarını öneriyoruz. Süreç içerisinde grupların değişmesi, birleşmesi, ayrışması mümkün, hatta amaçlanmaktadır. Alfabetik sırayla:
 
-- <strong>Eğitim</strong>, Kreş-Meslek-İlk-Orta-Yüksek Öğretim, Dershaneler, Alternatif Eğitim Ağları
+- <strong>Eğitim</strong>, Kreş-İlk-Orta-Meslek-Yüksek Öğretim, Dershaneler, Alternatif Eğitim Ağları
 
-- <strong>Ekolojik Kriz</strong> ve Mülksüzleştirme, Enerji, Tarım, Gıda, Su, Halk Sağlığı, Kent
+- <strong>Ekolojik Kriz</strong>, Mülksüzleştirme, Enerji, Tarım, Gıda, Su, Halk Sağlığı, Kent
 
 - <strong>Emek</strong>, İşçi Sağlığı, Emek Direnişleri, Göç/Hareketlilik, Kent
 
