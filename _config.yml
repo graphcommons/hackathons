@@ -1,8 +1,8 @@
 # Site settings
 title: Graph Commons Hackathons
 header-img: img/home-cover-2.jpg
-email: contact@graphcommons.com
-description: Together we untangle those relations
+email: workshop@graphcommons.com
+description: Graph Commons is a collaborative platform for mapping, analyzing and publishing data-networks.
 baseurl: "/hackathons"
 url: "http://graphcommons.github.io"
 twitter_username: graphcommons
@@ -14,5 +14,8 @@ slack_team:  graphcommons
 markdown: kramdown
 # highlighter: pygments
 permalink: pretty
-paginate: 5
+paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+future: true
+plugins:
+    - jekyll-paginate
