@@ -26,7 +26,7 @@ Ulaşım için adres ve harita:
 
 Toplumsal sorunlar birbiriyle ilişkili olduğu halde, bunlara dair veriler birlikte-işler şekilde kullanılamıyor. Üstelik bu sorunlara dair veriler ve araçlar çoğunlukla devlet kurumları ve büyük şirketlerin tekelinde, bu da onlarla toplumsal bir meseleyi çözmek isteyenler arasında bilgi asimetrisine yol açıyor. Bir mesele hakkında bir taraf diğerinden daha fazla bilgiye sahip olduğunda eşitsizlik ve manipülasyon tehlikesi artıyor.
 
-Toplumsal meselelere dair ayrı ayrı takip edilen verileri müşterekleştirmek dayanışma ağlarını güçlendirebilir, genişletebilir ve yeni altyapılar oluşturmamıza yardımcı olabilir. Böylece o meselelerle ilgilenenler arasında yeni bağlar örülür ve isabetli bir eylem kılavuzu çıkarmak isteyen herkesin bütüncül bir görüşe sahip olmasına imkanı sağlanır.
+Halbuki toplumsal meselelere dair ayrı ayrı takip edilen verileri kesişimleri üzerinden müşterekleştirmek bilgi asimetrisini giderilebilir, dayanışma ağlarını güçlendirebilir, genişletebilir ve yeni altyapılar oluşturmamıza yardımcı olabilir. Böylece o meselelerle ilgilenenler arasında yeni bağlar örülür, herkesin bütüncül bir görüşe sahip olmasına imkanı sağlanır, ve isabetli eylem kılavuzları üretilmesine zemin oluşturulur.
 
 İki tam gün boyunca konuşmacıların, tartışmaların ve grup çalışmalarının olacağı hackathon iki aşamada gerçekleşecek:
 
@@ -128,7 +128,7 @@ Toplumsal konularda veri takibi yapan oluşumlar, araştırmacılar ve yazılım
 
 Somut grup çalışmalarına zemin hazırlayabilmek için aşağıdaki öncül çalışma gruplarını öneriyoruz. Süreç içerisinde grupların değişmesi, birleşmesi, ayrışması mümkün, hatta amaçlanmaktadır. Alfabetik sırayla:
 
-- <strong>Eğitim</strong>, Kreş-İlk-Orta-Meslek-Yüksek Öğretim, Dershaneler, Müfredat, Öğretmenler,Alternatif Eğitim Ağları
+- <strong>Eğitim</strong>, Kreş-İlk-Orta-Meslek-Yüksek Öğretim, Dershaneler, Müfredat, Öğretmenler, Alternatif Eğitim Ağları
 
 - <strong>Ekolojik Kriz</strong>, Mülksüzleştirme, Enerji, Tarım, Gıda, Su, Halk Sağlığı, Afetler, Kent
 
@@ -144,7 +144,7 @@ Somut grup çalışmalarına zemin hazırlayabilmek için aşağıdaki öncül �
 
 - <strong>Kamu İhaleleri</strong>, Karteller, Yolsuzluk
 
-- <strong>Sağlık</strong>, Aile Hekimliği, Özel, Devlet ve Şehir Hastaneleri, Sağlık Hacramaları, Hastalklar, Yeni SGK yapılanması
+- <strong>Sağlık</strong>, Aile Hekimliği, Özel, Devlet ve Şehir Hastaneleri, Sağlık Harcamaları, Hastalıklar, Yeni SGK yapılanması
 
 - <strong>Toplumsal Cinsiyet</strong>, Davalar, Şiddet, Ayrımcılıklar
 
