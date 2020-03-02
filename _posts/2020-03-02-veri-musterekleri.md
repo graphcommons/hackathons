@@ -32,7 +32,7 @@ Toplumsal meselelere dair ayrı ayrı takip edilen verileri müşterekleştirmek
 
 1. <strong>Veri Zenginleştirme Araçları</strong> – Toplumsal meseleleri, kayıpları, hak ihlallerini takip ederek oluşturulan verileri zenginleştirmek ve ilişki haritalarını çıkarmak için araçlar geliştirmek.
 
-2. <strong>Veri Müşterekleştirme Protokolleri</strong> – Farklı toplumsal sorunlar arasındaki kesişimlerin verisini --şirketler, hukuki ayrıcalıklar sağlayan mekanizmalar, davalarda hükümlerin üst dili, mekan/yer vb.-- müşterekleştirecek veri protokolleri oluşturmak.
+2. <strong>Veri Müşterekleştirme Protokolleri</strong> – Farklı toplumsal sorunlar arasındaki kesişimlerin verisini --şirketler, küresel ve bölgesel aktörler, hukuki ayrıcalıklar sağlayan mekanizmalar, davalarda hükümlerin üst dili, mekan/yer vb.-- müşterekleştirecek veri protokolleri oluşturmak.
 
 Yazılım geliştiricileri, veri bilimi ve hak savunuculuğu / toplumsal dönüşüm faaliyeti içinde bulunan birey ve kolektifleri bir araya getirecek bu etkinlikte, katılımcılar bir yanda ağ haritalama ve analizi konusunda bilgi ve becerilerini geliştirirken, diğer yanda farklı toplumsal alanlardan mentörlerin desteğiyle ele alınan toplumsal sorunun çözümüne yönelik herkesin kullanabileceği araçlar üretecekler.
 
@@ -100,7 +100,7 @@ Toplumsal meseleleri, kayıpları, hak ihlallerini takip ederek oluşturulan ver
 
 #### Gün 2: Veri Müşterekleştirme Protokolleri – 22 Mart Pazar
 
-Farklı toplumsal sorunlar arasındaki kesişimlerin verisini -- şirketler, hukuki ayrıcalıklar sağlayan mekanizmalar, davalarda hükümlerin üst dili, mekan/yer vb--müşterekleştirecek veri protokolleri oluşturma.
+Farklı toplumsal sorunlar arasındaki kesişimlerin verisini -- şirketler, küresel ve bölgesel aktörler,hukuki ayrıcalıklar sağlayan mekanizmalar, davalarda hükümlerin üst dili, mekan/yer vb--müşterekleştirecek veri protokolleri oluşturma.
 
 09:00 Açılış
 
