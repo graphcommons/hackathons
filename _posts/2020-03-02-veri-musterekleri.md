@@ -138,7 +138,7 @@ Somut grup çalışmalarına zemin hazırlayabilmek için aşağıdaki öncül �
 
 - <strong>Göçmen</strong>, Sığınmacı ve Mülteciler, Şiddet, Ayrımcılıklar, Yardımlar,Örgütlenmeler, Kent
 
-- <strong>Hayvan</strong> Hakları, Davalar, Şiddet, Türcülük
+- <strong>Hayvan Hakları</strong>, Davalar, Şiddet, Türcülük
 
 - <strong>İnsan Hakları</strong>, Davalar, Şiddet, Ayrımcılıklar
 
