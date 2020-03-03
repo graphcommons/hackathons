@@ -24,7 +24,7 @@ Ulaşım için adres ve harita:
 <a href="#konular-mentorler" class="btn btn-default">KONULAR, MENTÖRLER</a>
 <a href="#iletisim" class="btn btn-default">İLETİŞİM</a>
 
-Toplumsal sorunlar birbiriyle ilişkili olduğu halde, bunlara dair veriler birlikte-işler şekilde kullanılamıyor. Üstelik bu sorunlara dair veriler ve araçlar çoğunlukla devlet kurumları ve büyük şirketlerin tekelinde, bu da onlarla toplumsal bir meseleyi çözmek isteyenler arasında bilgi asimetrisine yol açıyor. Bir mesele hakkında bir taraf diğerinden daha fazla bilgiye sahip olduğunda eşitsizlik ve manipülasyon tehlikesi artıyor.
+Toplumsal sorunlar birbiriyle ilişkili olduğu halde, bunlara dair veriler birlikte-işler şekilde kullanılamıyor. Üstelik veriler çoğunlukla devlet kurumları ve büyük şirketlerin tekelinde, bu da onlarla toplumsal bir meseleyi çözmek isteyenler arasında bilgi asimetrisine yol açıyor. Bir mesele hakkında bir taraf diğerinden daha fazla bilgiye sahip olduğunda eşitsizlik ve manipülasyon tehlikesi artıyor.
 
 Halbuki toplumsal meselelere dair ayrı ayrı takip edilen verileri kesişimleri üzerinden müşterekleştirmek bilgi asimetrisini giderilebilir, dayanışma ağlarını güçlendirebilir, genişletebilir ve yeni altyapılar oluşturmamıza yardımcı olabilir. Böylece o meselelerle ilgilenenler arasında yeni bağlar örülür, herkesin bütüncül bir görüşe sahip olmasına imkanı sağlanır, ve isabetli eylem kılavuzları üretilmesine zemin oluşturulur.
 
