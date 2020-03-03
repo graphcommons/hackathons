@@ -50,7 +50,7 @@ Yazılım geliştiricileri, veri bilimi ve hak savunuculuğu / toplumsal dönü�
 <p></p>
 #### Kimler katılmalı?
 
-Yazılımcılar, veri bilimiyle uğraşanlar, yetenekleriyle yaratıcı ve eleştirel uygulamalar geliştirmek isteyenler ve özellikle toplumsal sorunlara ilgi gösterenler. Sosyal, tarihsel, mekansal, ekonomik, hukuki toplumun bugünü ve dünündeki herhangi bir sorun alanında veri-bazlı çalışanlar.
+Yazılımcılar, veri bilimiyle uğraşanlar, yetenekleriyle toplumsal dönüşüm için yaratıcı ve eleştirel uygulamalar geliştirmek isteyenler. Sosyal, tarihsel, mekansal, ekonomik, hukuki toplumun bugünü ve dünündeki herhangi bir sorun alanında veri-bazlı çalışanlar.
 
 #### Nasıl faydalanabilirim?
 <p></p>
