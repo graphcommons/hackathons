@@ -148,6 +148,19 @@ Somut grup çalışmalarına zemin hazırlayabilmek için aşağıdaki öncül �
 
 - <strong>Toplumsal Cinsiyet</strong>, Davalar, Şiddet, Ayrımcılıklar
 
+
+<br />
+
+<a name="hackathons"></a>
+
+## Önceki Hackathonlar
+<p></p>
+
+- [Ağ Verisinin Yaratıcı Kullanımı: Hackathon Dökümantasyonu](https://graphcommons.github.io/hackathons/2016/02/15/istanbul-creative-use-of-complex-networks-documentation/), Ocak 2016
+
+- [Yapısal Gazetecilik ve Ağ Haritalama: Hackathon Dökümantasyonu](https://graphcommons.github.io/hackathons/2015/08/21/istanbul-yapisal-gazetecilik-dokumentasyon/), Eylül 2015
+
+
 <br />
 
 <a name="iletisim"></a>
