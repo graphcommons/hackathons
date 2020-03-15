@@ -3,32 +3,33 @@ layout: post
 language: tr
 title: "Veri Müşterekleri için Ağ Haritalama Hackathonu"
 subtitle: ""
-scheduled_date: 21-22 Mart 2020
+scheduled_date: 21 Mart - 18 Nisan 2020
 author:     "Graph Commons"
 header-img: "img/gc-workshop-1500x500-2.jpg"
-description: "21-22 Mart 2020, TMMOB Mimarlar Odası, Karaköy, İstanbul"
-place: "TMMOB Mimarlar Odası, Karaköy, İstanbul"
+description: "21 Mart Cumaritesi başlayacak "
+place: "Online Hackathon"
 ---
 
 # Ağlarımızı örüyoruz!
 
-**21-22 Mart 2020, haftasonu iki tam gün**
+**21 Mart - 18 Nisan 2020, Online Hackathon**
+<!-- **21-22 Mart 2020, haftasonu iki tam gün**
 <br>
-**TMMOB Mimarlar Odası, Karaköy, İstanbul**
+**TMMOB Mimarlar Odası, Karaköy, İstanbul** -->
 
-Ulaşım için adres ve harita:
-[http://www.mimarist.org/iletisim/](http://www.mimarist.org/iletisim/)
+<!-- Ulaşım için adres ve harita:
+[http://www.mimarist.org/iletisim/](http://www.mimarist.org/iletisim/) -->
 
 <a href="#katilim" class="btn btn-default">KATILIM</a>
 <a href="#program" class="btn btn-default">PROGRAM</a>
-<a href="#konular-mentorler" class="btn btn-default">KONULAR, MENTÖRLER</a>
+<a href="#konular-mentorler" class="btn btn-default">KONULAR</a>
 <a href="#iletisim" class="btn btn-default">İLETİŞİM</a>
 
 Toplumsal sorunlar birbiriyle ilişkili olduğu halde, bunlara dair veriler birlikte-işler şekilde kullanılamıyor. Üstelik veriler çoğunlukla devlet kurumları ve büyük şirketlerin tekelinde, bu da onlarla toplumsal bir meseleyi çözmek isteyenler arasında bilgi asimetrisine yol açıyor. Bir mesele hakkında bir taraf diğerinden daha fazla bilgiye sahip olduğunda eşitsizlik ve manipülasyon tehlikesi artıyor.
 
 Halbuki toplumsal meselelere dair ayrı ayrı takip edilen verileri kesişimleri üzerinden müşterekleştirmek bilgi asimetrisini giderilebilir, dayanışma ağlarını güçlendirebilir, genişletebilir ve yeni altyapılar oluşturmamıza yardımcı olabilir. Böylece o meselelerle ilgilenenler arasında yeni bağlar örülür, herkesin bütüncül bir görüşe sahip olmasına imkanı sağlanır, ve isabetli eylem kılavuzları üretilmesine zemin oluşturulur.
 
-İki tam gün boyunca konuşmacıların, tartışmaların ve grup çalışmalarının olacağı hackathon iki aşamada gerçekleşecek:
+Hackathon iki aşamada gerçekleşecek:
 
 1. <strong>Veri Zenginleştirme Araçları</strong> – Toplumsal meseleleri, kayıpları, hak ihlallerini takip ederek oluşturulan verileri zenginleştirmek ve ilişki haritalarını çıkarmak için araçlar geliştirmek.
 
@@ -74,7 +75,11 @@ Katılım ücretsizdir. Yer sınırımız olduğundan, başvuru formunu doldurup
 ## Program
 <p></p>
 
-#### Gün 1: Veri Zenginleştirme Araçları – 21 Mart Cumartesi
+Korona salgını sebebiyle geniş buluşmalardan kaçınmamız gerekiyor, dolayısıyla ilk adım olarak bulunduğumuz yerlerden online bağlanarak yapacağımız hackathonu zamana yayarak gerçekleştirmek istiyoruz. Bu sebeple dört haftalık bir online hackathon programı hazırladık. Umarız ‘normale dönünce’ yapacağımız, tarihini ancak daha sonra bildirebileceğimiz yüz yüze hackathonun tabii ki yerini almayacak.
+
+**[Online Hackathon Programı](/hackathons/2020/03/16/veri-musterekleri-online/)**
+
+<!-- #### Gün 1: Veri Zenginleştirme Araçları – 21 Mart Cumartesi
 
 Toplumsal meseleleri, kayıpları, hak ihlallerini takip ederek oluşturulan verileri zenginleştirmek ve ilişki haritalarını çıkarmak için araçlar geliştirmek.
 
@@ -116,7 +121,7 @@ Farklı toplumsal sorunlar arasındaki kesişimlerin verisini -- şirketler, kü
 
 15:00 Çalışmaların sunumları
 
-18:00 Final oturumu: Veri müştereklerine doğru
+18:00 Final oturumu: Veri müştereklerine doğru -->
 
 <br />
 
