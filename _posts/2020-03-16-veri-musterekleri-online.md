@@ -24,6 +24,12 @@ Kısa zaman içinde her toplumsal meseleye dair ilgi ve bilgi seviyesi yüksek b
 
 Covid-19 virüs salgını sebebiyle geniş buluşmalardan kaçınmamız gerekiyor, dolayısıyla ilk adım olarak bulunduğumuz yerlerden online bağlanarak yapacağımız hackathonu zamana yayarak gerçekleştirmek istiyoruz. Bu sebeple dört haftalık bir online hackathon programı hazırladık. Umarız ‘normale dönünce’ yapacağımız, tarihini ancak daha sonra bildirebileceğimiz yüz yüze hackathonun tabii ki yerini almayacak.
 
+Daha önce belirttiğimiz iki hackathon aşaması online çalışma ile dört haftaya yayılacak:
+
+1. <strong>Veri Zenginleştirme Araçları</strong> – Toplumsal meseleleri, kayıpları, hak ihlallerini takip ederek oluşturulan verileri zenginleştirmek ve ilişki haritalarını çıkarmak için araçlar geliştirmek.
+
+2. <strong>Veri Müşterekleştirme Protokolleri</strong> – Farklı toplumsal sorunlar arasındaki kesişimlerin verisini --şirketler, küresel ve bölgesel aktörler, hukuki ayrıcalıklar sağlayan mekanizmalar, davalarda hükümlerin üst dili, mekan/yer vb.-- müşterekleştirecek veri protokolleri oluşturmak.
+
 Online hackathon düzenlemek için ek bilgilere ihtiyaç var, bunun için bir bilgi formu hazırladık, programa katılmak istiyorsanız **19 Mart Perşembe** gününe kadar doldurmanızı bekliyoruz.
 
 <a href="https://forms.gle/aGWjZ1aaRKmEaBiM8" target="_blank" class="btn btn-default btn-lg">Online Hackathon Bilgi formu</a>
@@ -64,12 +70,12 @@ Online hackathon için hazırladığımız bu program süreç içinde dönüşeb
     - Veriye nasıl sorular sorabiliriz?
     - Eylem kılavuzları çıkarmak için nasıl sosyo-mekansal gösterge-haritaları oluşturabiliriz?
 - **2.Haftanın işi: Grupların oluşturulması**
-    - Verinin/alanın uzmanları ve tekniğin uzmanlarının gruplarda buluşması
+    - Verinin/alanın uzmanları ve tekniğin uzmanlarının gruplarda buluşması ve grubun spesifik çalışma konularını, veri setlerini, ve geliştirilecek aracı belirlemesi
 
 ### 3) Üçüncü oturum 4 Nisan Cumartesi 11.00-13.00
 - Çalışma gruplarının sunumu
-    - Grubun seçtiği konuların ve verilerin tanıtımı ve yapılacakların anlatımı
-    - Her bir veri seti için araçlara dair fikirlerin tartışılması
+    - Grubun belirlediği konuları, veri setlerini, ve geliştereceği aracı anlatımı
+    - Her grup sunumu sonrası geri bildirim
 - **3.Haftanın işi: Prototip geliştirme**
     - İlk prototiplerin Github’a ve Graph Commons’a girilmesi, chat kanalında paylaşımı, geri bildirimler
 
