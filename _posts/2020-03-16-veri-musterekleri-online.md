@@ -53,7 +53,7 @@ Hackathon başvurusu henüz yapmadıysanız, öncelikle **[başvuru sayfası](/h
 
 Online hackathon için hazırladığımız bu program süreç içinde dönüşebilir. Her hafta Cumartesi saat 11.00-13.00 video konferans ile buluşacağız ve aradaki haftalarda bu buluşmaları besleyecek çalışmalar yapacağız.
 
-<img src="{{ site.baseurl }}/img/veri-musterekleri-online-hackathon-programi.png">
+<img src="{{ site.baseurl }}/img/veri-musterekleri-online-hackathon-programi.png" style="margin-top:50px; margin-bottom:70px;" >
 
 ### 1) İlk oturum 21 Mart Cumartesi 11.00-13.00
 - Formatın üzerinden geçme
