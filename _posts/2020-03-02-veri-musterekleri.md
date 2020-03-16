@@ -75,7 +75,7 @@ Katılım ücretsizdir. Yer sınırımız olduğundan, başvuru formunu doldurup
 ## Program
 <p></p>
 
-Korona salgını sebebiyle geniş buluşmalardan kaçınmamız gerekiyor, dolayısıyla ilk adım olarak bulunduğumuz yerlerden online bağlanarak yapacağımız hackathonu zamana yayarak gerçekleştirmek istiyoruz. Bu sebeple dört haftalık bir online hackathon programı hazırladık. Umarız ‘normale dönünce’ yapacağımız, tarihini ancak daha sonra bildirebileceğimiz yüz yüze hackathonun tabii ki yerini almayacak.
+Covid-19 virüs salgını sebebiyle geniş buluşmalardan kaçınmamız gerekiyor, dolayısıyla ilk adım olarak bulunduğumuz yerlerden online bağlanarak yapacağımız hackathonu zamana yayarak gerçekleştirmek istiyoruz. Bu sebeple dört haftalık bir online hackathon programı hazırladık. Umarız ‘normale dönünce’ yapacağımız, tarihini ancak daha sonra bildirebileceğimiz yüz yüze hackathonun tabii ki yerini almayacak.
 
 **[Online Hackathon Programı](/hackathons/2020/03/16/veri-musterekleri-online/)**
 
