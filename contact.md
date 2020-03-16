@@ -2,7 +2,7 @@
 layout: page
 title: "Contact"
 description: "Contact us for your questions, comments, and inquries, we will respond you as soon as possible."
-header-img: "img/about-bg.jpg"
+header-img: "img/contact-bg.jpg"
 ---
 
 #### Email
