@@ -20,7 +20,7 @@ place: "Online Hackathon"
 <a href="#araclar" class="btn btn-default">ARAÇLAR</a>
 <a href="#iletisim" class="btn btn-default">İLETİŞİM</a>
 
-Kısa zaman içinde her toplumsal meseleye dair ilgi ve bilgi seviyesi yüksek başvurular aldık. Salgın hastalık yüzünden doğan olağanüstü durumun da bu tip veri-yazılım-öngörü-politika adımlarına ihtiyacı olduğunu iyi bilerek, bu enerjiyi hiç dağıtmayalım istiyoruz. Bu durum aynı zamanda veri müşterekleri üzerine bir topluluk oluşturmamıza imkan sağlayabilir (bakınız: [Veri Müşterekleri](https://beyond.istanbul/hak-savunucular%C4%B1-i%CC%87%C3%A7in-hangi-sorunlar%C4%B1-takip-edece%C4%9Fini-se%C3%A7mek-g%C3%BC%C3%A7l%C3%BC-bir-siyasi-eylem-bi%C3%A7imi-c8aba2cd765){:target='_blank'}).
+Kısa zaman içinde her toplumsal meseleye dair veri alanında ilgi ve bilgi seviyesi yüksek başvurular aldık. Salgın hastalık yüzünden doğan olağanüstü durumun da bu tip veri-yazılım-öngörü-politika adımlarına ihtiyacı olduğunu iyi bilerek, bu enerjiyi hiç dağıtmayalım istiyoruz. Bu durum aynı zamanda veri müşterekleri üzerine bir topluluk oluşturmamıza imkan sağlayabilir (bakınız: [Veri Müşterekleri](https://beyond.istanbul/hak-savunucular%C4%B1-i%CC%87%C3%A7in-hangi-sorunlar%C4%B1-takip-edece%C4%9Fini-se%C3%A7mek-g%C3%BC%C3%A7l%C3%BC-bir-siyasi-eylem-bi%C3%A7imi-c8aba2cd765){:target='_blank'}).
 
 Covid-19 virüs salgını sebebiyle geniş buluşmalardan kaçınmamız gerekiyor, dolayısıyla ilk adım olarak bulunduğumuz yerlerden online bağlanarak yapacağımız hackathonu zamana yayarak gerçekleştirmek istiyoruz. Bu sebeple dört haftalık bir online hackathon programı hazırladık. Umarız ‘normale dönünce’ yapacağımız, tarihini ancak daha sonra bildirebileceğimiz yüz yüze hackathonun tabii ki yerini almayacak.
 
@@ -51,7 +51,7 @@ Hackathon başvurusu henüz yapmadıysanız, öncelikle **[başvuru sayfası](/h
 ## Online Hackathon Programı
 <p></p>
 
-Online hackathon için hazırladığımız bu program süreç içinde dönüşebilir. Her hafta Cumartesi saat 11.00-13.00 video konferans ile buluşacağız ve aradaki haftalarda iş yapacağız.
+Online hackathon için hazırladığımız bu program süreç içinde dönüşebilir. Her hafta Cumartesi saat 11.00-13.00 video konferans ile buluşacağız ve aradaki haftalarda bu buluşmaları besleyecek çalışmalar yapacağız.
 
 <img src="{{ site.baseurl }}/img/veri-musterekleri-online-hackathon-programi.png">
 
