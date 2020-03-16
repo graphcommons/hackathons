@@ -48,7 +48,7 @@ Hackathon başvurusu henüz yapmadıysanız, öncelikle **[başvuru sayfası](/h
 
 <a name="program"></a>
 
-## Online Hackahon Programı
+## Online Hackathon Programı
 <p></p>
 
 Online hackathon için hazırladığımız bu program süreç içinde dönüşebilir. Her hafta Cumartesi saat 11.00-13.00 video konferans ile buluşacağız ve aradaki haftalarda iş yapacağız.
