@@ -6,11 +6,11 @@ subtitle: ""
 scheduled_date: 21 Mart - 18 Nisan 2020
 author:     "Graph Commons"
 header-img: "img/gc-workshop-1500x500-2.jpg"
-description: "21 Mart Cumaritesi başlayacak "
+description: "Verini kap da gel! Ağlarımızı örüyoruz! 21 Mart - 18 Nisan 2020 Online Hackathon"
 place: "Online Hackathon"
 ---
 
-# Ağlarımızı örüyoruz!
+# Verini kap da gel!
 
 **21 Mart - 18 Nisan 2020, Online Hackathon**
 <br>

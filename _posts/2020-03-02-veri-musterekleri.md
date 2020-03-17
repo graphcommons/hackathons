@@ -6,11 +6,11 @@ subtitle: ""
 scheduled_date: 21 Mart - 18 Nisan 2020
 author:     "Graph Commons"
 header-img: "img/gc-workshop-1500x500-2.jpg"
-description: "21 Mart Cumaritesi başlayacak "
+description: "Verini kap da gel! Ağlarımızı örüyoruz! 21 Mart - 18 Nisan 2020 Online Hackathon"
 place: "Online Hackathon"
 ---
 
-# Ağlarımızı örüyoruz!
+# Verini kap da gel! Ağlarımızı örüyoruz!
 
 **21 Mart - 18 Nisan 2020, Online Hackathon**
 <!-- **21-22 Mart 2020, haftasonu iki tam gün**
@@ -127,7 +127,7 @@ Farklı toplumsal sorunlar arasındaki kesişimlerin verisini -- şirketler, kü
 
 <a name="konular-mentorler"></a>
 
-## Konular, Mentörler: Verini kap da gel!
+## Konular: Verini kap da gel!
 
 Toplumsal konularda veri takibi yapan oluşumlar, araştırmacılar ve yazılımcılar verileri birbiriyle konuşturmak, müşterekleştirmek için bir araya geliyor.
 
