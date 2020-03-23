@@ -22,7 +22,7 @@ place: "Online Hackathon"
 
 <a href="#katilim" class="btn btn-default">KATILIM</a>
 <a href="#program" class="btn btn-default">PROGRAM</a>
-<a href="#konular-mentorler" class="btn btn-default">KONULAR</a>
+<a href="#konular" class="btn btn-default">KONULAR</a>
 <a href="#verikaynaklari" class="btn btn-default">VERİ KAYNAKLARI</a>
 <a href="#iletisim" class="btn btn-default">İLETİŞİM</a>
 
@@ -126,7 +126,7 @@ Farklı toplumsal sorunlar arasındaki kesişimlerin verisini -- şirketler, kü
 
 <br />
 
-<a name="konular-mentorler"></a>
+<a name="konular"></a>
 
 ## Konular: Verini kap da gel!
 
