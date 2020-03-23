@@ -179,6 +179,8 @@ Bu sayfada, toplumsal meselelere dair belirlediğimiz ana konuların altına az 
 
 ### Ekolojik Kriz, Mülksüzleştirme, Enerji, Tarım, Gıda, Su, Halk Sağlığı, Afetler, Kent
 - IBB Verileri [https://data.ibb.gov.tr](https://data.ibb.gov.tr)
+- Kentsel Politikanın Desteklenmesi İçin Yeni Araçlar, Rapor TESEV [https://www.tesev.org.tr/tr/research/kentsel-politikanin-desteklenmesi-icin-yeni-araclar-acik-veri-platformlari-ve-dijital-kent-panelleri/](https://www.tesev.org.tr/tr/research/kentsel-politikanin-desteklenmesi-icin-yeni-araclar-acik-veri-platformlari-ve-dijital-kent-panelleri/)
+- Veriye Dayalı Politika Aracı kent95 (İstanbul, İzmir, Gaziantep) [http://harita.kent95.org/](http://harita.kent95.org/)
 - MAPEG Maden ve Petrol Lisansları ve İstatistikleri [http://www.mapeg.gov.tr](http://www.mapeg.gov.tr)
 - Mülksüzleştirme Ağları [https://graphcommons.com/hubs/mulksuzlestirme](https://graphcommons.com/hubs/mulksuzlestirme)
 - Bianet Arşivi Çevre [http://bianet.org/bianet/cevre](http://bianet.org/bianet/cevre)
@@ -192,14 +194,20 @@ Bu sayfada, toplumsal meselelere dair belirlediğimiz ana konuların altına az 
 - Yeşil Gazete Arşivi [https://yesilgazete.org](https://yesilgazete.org)
 - Yeşilist Arşivi [https://www.yesilist.com](https://www.yesilist.com)
 - Karasaban Arşivi [https://www.karasaban.net](https://www.karasaban.net)
-- Temiz Giysi Kapmanyası Arşivi [http://www.temizgiysi.org](http://www.temizgiysi.org)
 
 ### Emek, İşçi Sağlığı, Emek Direnişleri, Göç/Hareketlilik, Kent
+- SGK İstatistik Yıllıkları (Çalışan-İşveren, Emekli, Sağlık) [http://www.sgk.gov.tr/wps/portal/sgk/tr/kurumsal/istatistik/sgk_istatistik_yilliklari](http://www.sgk.gov.tr/wps/portal/sgk/tr/kurumsal/istatistik/sgk_istatistik_yilliklari)
+- E-Devlet İşyeri Verileri (Aylık, 20 İşkolunda)
 - Evrensel Haber Arşivi [https://www.evrensel.net/arsiv/](https://www.evrensel.net/arsiv/)
-- İşçi Sağlığı ve İş Güvenliği Meclisi [http://www.isigmeclisi.org/](http://www.isigmeclisi.org/)
+- İşçi Sağlığı ve İş Güvenliği Meclisi İş Cinayetleri Veri Bankası [http://www.isigmeclisi.org/](http://www.isigmeclisi.org/)
+- İş Sağlığı ve Güvenliği Bilgi Yönetim Sistemi İBYS [https://ibys.csgb.gov.tr/](https://ibys.csgb.gov.tr/)
+- Sendika.org (2000-2020 Emek Haberleri ve Yazıları Arşivi) [https://sendika63.org/hakkimizda/](https://sendika63.org/hakkimizda/)
 - Emek Çalışmaları Topluluğu [https://emekcalisma.org](https://emekcalisma.org)
+- DİSK-AR DİSK Konfederasyonu Araştırma Merkezi [http://disk.org.tr/category/diskten/disk-ar/](http://disk.org.tr/category/diskten/disk-ar/)
 - Birleşik Metal-iş Sendikası Arşivi [http://www.birlesikmetalis.org](http://www.birlesikmetalis.org)
 - MESS (Türkiye Metal Sanayicileri Sendikası) İstatistikleri [https://www.mess.org.tr/tr/istatistikler/](https://www.mess.org.tr/tr/istatistikler/)
+- Temiz Giysi Kapmanyası Arşivi [http://www.temizgiysi.org](http://www.temizgiysi.org)
+- İcra takipleri, borcu yüzünden kapatılan su, elektrik, doğal gaz, yardım dağıtımı gibi mutlak yoksulluk verileri (#Geçinemiyoruz verileri) [https://twitter.com/search?q=Geçinemiyoruz](https://twitter.com/search?q=Geçinemiyoruz)
 
 ### Dijital Haklar, İnternet Özgürlüğü, Medya Sahipliği
 - Türkiye Medya Sahipleri Ağı [https://graphcommons.com/graphs/09426282-c311-4b39-be2c-1bd4f93b5771](https://graphcommons.com/graphs/09426282-c311-4b39-be2c-1bd4f93b5771)
@@ -212,18 +220,23 @@ Bu sayfada, toplumsal meselelere dair belirlediğimiz ana konuların altına az 
 - Migreurop Arşivi [http://www.migreurop.org/article643.html?lang=en](http://www.migreurop.org/article643.html?lang=en)
 - UNHCR Verileri h[ttps://data2.unhcr.org/en/situations/syria/location/113](ttps://data2.unhcr.org/en/situations/syria/location/113)
 - UN Göçmen Ajansı Türkiye Arşivi [https://turkey.iom.int](https://turkey.iom.int)
+- Göçmen Araştırma Derneği Arşivi [https://www.gocarastirmalaridernegi.org/tr/](https://www.gocarastirmalaridernegi.org/tr/)
+- Halkların Köprüsü Derneği Arşivı, Mülteci Ölümleri Almanağı 2015 [https://www.halklarinkoprusu.org/](https://www.halklarinkoprusu.org/)
 
 ### Hayvan Hakları, Davalar, Şiddet, Türcü Hak İhlalleri
+- HAKİM Hayvan Hak İhlalleri Raporu [www.sivilsayfalar.org/2020/02/18/hakim-hayvan-haklari-ihlalleri-raporunu-acikladi/](www.sivilsayfalar.org/2020/02/18/hakim-hayvan-haklari-ihlalleri-raporunu-acikladi/)
 - Bianet Arşivi Hayvan Hakları [http://bianet.org/bianet/hayvan-haklari](http://bianet.org/bianet/hayvan-haklari)
 - Veri Gazeteciliği Hayvan Hakları Dersi [http://www.verigazeteciligi.com/solo-proje-hayvan-haklari](http://www.verigazeteciligi.com/solo-proje-hayvan-haklari)
 
 ### İnsan Hakları, Davalar, Şiddet, Ayrımcılıklar, Hak İhlalleri
+- Adli İstatistikler [http://www.adlisicil.adalet.gov.tr/Home/SayfaDetay/adalet-istatistikleri-yayin-arsivi](http://www.adlisicil.adalet.gov.tr/Home/SayfaDetay/adalet-istatistikleri-yayin-arsivi)
 - Anayasada Sakatlık, MAD [https://graphcommons.com/graphs/b0c5ea1f-db0c-4bc6-b5a4-fe4f737b9af8](https://graphcommons.com/graphs/b0c5ea1f-db0c-4bc6-b5a4-fe4f737b9af8)
 - Bianet Arşivi Engelli Hakları [http://bianet.org/bianet/engelli-haklari](http://bianet.org/bianet/engelli-haklari)
 - Vicdani Ret Derneği Arşivi [https://vicdaniret.org](https://vicdaniret.org)
 - Hafıza Merkezi Veritabanları [https://hakikatadalethafiza.org](https://hakikatadalethafiza.org)
 - Bianet Arşivi Militarizm [http://bianet.org/bianet/militarizm](http://bianet.org/bianet/militarizm)
 - Avrupa İnsan Hakları Mahkemesi Veritabanı [https://hudoc.echr.coe.int/eng](https://hudoc.echr.coe.int/eng)
+- OHAL’de İnsan Hakları İhlalleri Raporları (İHD, [Mazlum-Der](https://istanbul.mazlumder.org/tr/main/faaliyetler/basin-aciklamalari/1/ohal-donemi-hak-ihlalleri-raporumuz-yayinlanm/13231), [Heinrich Böll Vakfı](https://www.raporlar.org/ohalraporuhboll/))
 
 ### Kamu İhaleleri, Karteller, Yolsuzluk
 - İKAP İhale Arama Motoru [https://ekap.kik.gov.tr/EKAP](https://ekap.kik.gov.tr/EKAP)
@@ -237,9 +250,11 @@ Bu sayfada, toplumsal meselelere dair belirlediğimiz ana konuların altına az 
 ### Sağlık, Aile Hekimliği, Devlet-Üniversite-Özel-Şehir Hastaneleri, Sağlık Harcamaları, Hastalıklar, Yeni SGK yapılanması
 - Türk Tabipler Birliği Arşivi [http://www.ttb.org.tr](http://www.ttb.org.tr)
 - Meslek Hastalığı Arşivi [http://www.meslekhastaligi.org](http://www.meslekhastaligi.org)
+- Sağlık İstatistikleri Yıllığı (İntihar, Ölüm Nedeni/Yaşı vs, Yatak Kapasitesi vs verileri) [https://www.saglik.gov.tr/TR,62400/saglik-istatistikleri-yilligi-2018-yayinlanmistir.html](https://www.saglik.gov.tr/TR,62400/saglik-istatistikleri-yilligi-2018-yayinlanmistir.html)
 - Sağlık Bakanlığı Covid-19 Sayfası [https://hsgm.saglik.gov.tr/tr/covid19](https://hsgm.saglik.gov.tr/tr/covid19)
 - Sağlık Bakanlığı Kamu Hastaneleri Genel Müdürlüğü [https://khgm.saglik.gov.tr](https://khgm.saglik.gov.tr)
 - SGK Veri Uygulaması [https://veri.sgk.gov.tr](https://veri.sgk.gov.tr)
+- Covid-19 Açık Kaynak Projeler [http://open-source-covid-19.weileizeng.com](http://open-source-covid-19.weileizeng.com)
 
 ### Toplumsal Cinsiyet, Davalar, Şiddet, Ayrımcılıklar
 - 5harfliler Arşiv [http://www.5harfliler.com/arsiv](http://www.5harfliler.com/arsiv)
