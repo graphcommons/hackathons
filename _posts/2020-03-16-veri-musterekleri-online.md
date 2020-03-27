@@ -60,21 +60,28 @@ Online hackathon için hazırladığımız bu program süreç içinde dönüşeb
 <img src="{{ site.baseurl }}/img/veri-musterekleri-online-hackathon-programi.png" style="margin-top:50px; margin-bottom:70px;" >
 
 ### 1) İlk oturum 21 Mart Cumartesi 11.00-13.00
-- Formatın üzerinden geçme
-- Giriş: Neden veri müşterekleri?
+- Hoşgeldiniz
+- Hackathon formatı
+- Tanışma
+- Neden veri müşterekleri?
+    - Veri Müşterekleri ve hackathon konuları ilişki ağları
+    - Ağ haritalama ve Graph Commons
 - Soru & Cevap
-- İzlek ve araçların tanıtımı
-- **1.Haftanın işi: Oryantasyon ve hazırlık**
-    - Araçları kurma, chat kanalında konuşmalar, soru & cevap
+- **1.Haftanın işi: Çalışma konularının ve grupların oluşturulması**
+    - Yazılımcı, veri türetme, temsil etme, çaprazlama sürecine nasıl yardımcı olabilir? (2015 ve 2016 hackathonlarından örnekler)
+    - Chat kanalında çalışma grupları oluşturmak için ön hazırlıklar; bir sonraki haftaki oturumda grupların ne yapacağına dair veri kaynaklarının sunulması
 
 ### 2) İkinci oturum 28 Mart Cumartesi 11.00-13.00
-- Oturum ve Tartışma
-    - Hangi veriler var/erişilebilir/oluşturabilir?
-    - Hangi verileri yan yana koyarak veriyi zenginleştirebiliriz?
-    - Veriye nasıl sorular sorabiliriz?
-    - Eylem kılavuzları çıkarmak için nasıl sosyo-mekansal gösterge-haritaları oluşturabiliriz?
-- **2.Haftanın işi: Grupların oluşturulması**
-    - Verinin/alanın uzmanları ve tekniğin uzmanlarının gruplarda buluşması ve grubun spesifik çalışma konularını, veri setlerini, ve geliştirilecek aracı belirlemesi
+- İnternetten kamusal veriye ulaşma ve farklı verileri bağlama, Elif İnce (15 dk)
+- Dünya metropollerinde yerel yönetimlerin açık verileri, Murat Tülek (15 dk)
+- Emek Haritası ve Termik Santraller grupları sunumu ve geri bildirim (20 dk)
+- ARA (10 dk)
+- Grupların breakout odalarında konuşması (20 dk)
+- İki çalışma grubunun sunumu (20 dk)
+    - Belirlenen konu, ekip, veri kaynakları ve prototip fikrinin anlatımı
+    - Geri bildirim
+- **2.Haftanın işi: Prototip geliştirme**
+    - İlk prototiplerin chat kanalında paylaşımı ve geri bildirimler
 
 ### 3) Üçüncü oturum 4 Nisan Cumartesi 11.00-13.00
 - Çalışma gruplarının sunumu
