@@ -13,6 +13,9 @@ place: "Online Hackathon"
 # Verini kap da gel! Ağlarımızı örüyoruz!
 
 **21 Mart - 18 Nisan 2020, Online Hackathon**
+
+**[Online Hackathon Programı](/hackathons/2020/03/16/veri-musterekleri-online/)**
+
 <!-- **21-22 Mart 2020, haftasonu iki tam gün**
 <br>
 **TMMOB Mimarlar Odası, Karaköy, İstanbul** -->

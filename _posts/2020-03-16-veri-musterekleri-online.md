@@ -10,7 +10,7 @@ description: "Verini kap da gel! Ağlarımızı örüyoruz! 21 Mart - 18 Nisan 2
 place: "Online Hackathon"
 ---
 
-# Verini kap da gel!
+# Verini kap da gel! Ağlarımızı örüyoruz!
 
 **21 Mart - 18 Nisan 2020, Online Hackathon**
 <br>
@@ -85,8 +85,8 @@ Online hackathon için hazırladığımız bu program süreç içinde dönüşeb
 
 ### 3) Üçüncü oturum 4 Nisan Cumartesi 11.00-13.00
 - Çalışma gruplarının sunumu
-    - Grubun belirlediği konuları, veri setlerini, ve geliştereceği aracı anlatımı
-    - Her grup sunumu sonrası geri bildirim
+    - Belirlenen konu, ekip, veri kaynakları ve prototip fikrinin anlatımı
+    - Geri bildirim
 - **3.Haftanın işi: Prototip geliştirme**
     - İlk prototiplerin Github’a ve Graph Commons’a girilmesi, chat kanalında paylaşımı, geri bildirimler
 
@@ -267,6 +267,16 @@ Online hackathon’un verimli geçmesi için aşağıdaki araçlar kullanacak. V
 | Kod depoları | Beraber yazılım geliştirme | [Github](https://github.com){:target="_blank"} |
 
 <br />
+
+<a name="hackathons"></a>
+
+## Önceki Hackathonlar
+<p></p>
+
+- [Ağ Verisinin Yaratıcı Kullanımı: Hackathon Dökümantasyonu](https://graphcommons.github.io/hackathons/2016/02/15/istanbul-creative-use-of-complex-networks-documentation/), Ocak 2016
+
+- [Yapısal Gazetecilik ve Ağ Haritalama: Hackathon Dökümantasyonu](https://graphcommons.github.io/hackathons/2015/08/21/istanbul-yapisal-gazetecilik-dokumentasyon/), Eylül 2015
+
 
 <a name="iletisim"></a>
 
