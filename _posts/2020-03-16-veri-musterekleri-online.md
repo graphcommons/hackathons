@@ -115,7 +115,7 @@ Somut grup çalışmalarına zemin hazırlayabilmek için aşağıdaki öncül �
 
 - <strong>[Eğitim](#verikaynaklari-egitim)</strong>, Kreş-İlk-Orta-Meslek-Yüksek Öğretim, Dershaneler, Müfredat, Öğretmenler, Alternatif Eğitim Ağları
 
-- <strong>[Ekolojik Kriz](#verikaynaklari-ekolokik-kriz</strong>, Mülksüzleştirme, Enerji, Tarım, Gıda, Su, Halk Sağlığı, Afetler, Kent
+- <strong>[Ekolojik Kriz](#verikaynaklari-ekolokik-kriz)</strong>, Mülksüzleştirme, Enerji, Tarım, Gıda, Su, Halk Sağlığı, Afetler, Kent
 
 - <strong>[Emek](#verikaynaklari-emek)</strong>, İşçi Sağlığı, Emek Direnişleri, Göç/Hareketlilik, Kent
 
@@ -127,7 +127,7 @@ Somut grup çalışmalarına zemin hazırlayabilmek için aşağıdaki öncül �
 
 - <strong>[İnsan Hakları](#verikaynaklari-insan-haklari)</strong>, Davalar, Şiddet, Ayrımcılıklar, Hak İhlalleri
 
-- <strong>[Kamu İhaleleri](#verikaynaklari-kamnu-ihaleleri)</strong>, Karteller, Yolsuzluk
+- <strong>[Kamu İhaleleri](#verikaynaklari-kamu-ihaleleri)</strong>, Karteller, Yolsuzluk
 
 - <strong>[Sağlık](#verikaynaklari-saglik)</strong>, Aile Hekimliği, Özel, Devlet ve Şehir Hastaneleri, Sağlık Harcamaları, Hastalıklar, Yeni SGK yapılanması
 
