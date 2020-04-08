@@ -137,25 +137,25 @@ Toplumsal konularda veri takibi yapan oluşumlar, araştırmacılar ve yazılım
 
 Somut grup çalışmalarına zemin hazırlayabilmek için aşağıdaki öncül çalışma gruplarını öneriyoruz. Süreç içerisinde grupların değişmesi, birleşmesi, ayrışması mümkün, hatta amaçlanmaktadır. Alfabetik sırayla:
 
-- <strong>Eğitim</strong>, Kreş-İlk-Orta-Meslek-Yüksek Öğretim, Dershaneler, Müfredat, Öğretmenler, Alternatif Eğitim Ağları
+- <strong>[Eğitim](#verikaynaklari-egitim)</strong>, Kreş-İlk-Orta-Meslek-Yüksek Öğretim, Dershaneler, Müfredat, Öğretmenler, Alternatif Eğitim Ağları
 
-- <strong>Ekolojik Kriz</strong>, Mülksüzleştirme, Enerji, Tarım, Gıda, Su, Halk Sağlığı, Afetler, Kent
+- <strong>[Ekolojik Kriz](#verikaynaklari-ekolokik-kriz</strong>, Mülksüzleştirme, Enerji, Tarım, Gıda, Su, Halk Sağlığı, Afetler, Kent
 
-- <strong>Emek</strong>, İşçi Sağlığı, Emek Direnişleri, Göç/Hareketlilik, Kent
+- <strong>[Emek](#verikaynaklari-emek)</strong>, İşçi Sağlığı, Emek Direnişleri, Göç/Hareketlilik, Kent
 
-- <strong>Dijital Haklar</strong>, İnternet Özgürlüğü, Medya Sahipliği
+- <strong>[Dijital Haklar](#verikaynaklari-dijital-haklar)</strong>, İnternet Özgürlüğü, Medya Sahipliği
 
-- <strong>Göçmen</strong>, Sığınmacı ve Mülteciler, Şiddet, Ayrımcılıklar, İnsani Yardımlar, Örgütlenmeler, Kent
+- <strong>[Göçmen](#verikaynaklari-gocmen)</strong>, Sığınmacı ve Mülteciler, Şiddet, Ayrımcılıklar, İnsani Yardımlar, Örgütlenmeler, Kent
 
-- <strong>Hayvan Hakları</strong>, Davalar, Şiddet, Türcü Hak İhlalleri
+- <strong>[Hayvan Hakları](#verikaynaklari-hayvan-haklari)</strong>, Davalar, Şiddet, Türcü Hak İhlalleri
 
-- <strong>İnsan Hakları</strong>, Davalar, Şiddet, Ayrımcılıklar, Hak İhlalleri
+- <strong>[İnsan Hakları](#verikaynaklari-insan-haklari)</strong>, Davalar, Şiddet, Ayrımcılıklar, Hak İhlalleri
 
-- <strong>Kamu İhaleleri</strong>, Karteller, Yolsuzluk
+- <strong>[Kamu İhaleleri](#verikaynaklari-kamnu-ihaleleri)</strong>, Karteller, Yolsuzluk
 
-- <strong>Sağlık</strong>, Aile Hekimliği, Özel, Devlet ve Şehir Hastaneleri, Sağlık Harcamaları, Hastalıklar, Yeni SGK yapılanması
+- <strong>[Sağlık](#verikaynaklari-saglik)</strong>, Aile Hekimliği, Özel, Devlet ve Şehir Hastaneleri, Sağlık Harcamaları, Hastalıklar, Yeni SGK yapılanması
 
-- <strong>Toplumsal Cinsiyet</strong>, Davalar, Şiddet, Ayrımcılıklar
+- <strong>[Toplumsal Cinsiyet](#verikaynaklari-toplumsal-cinsiyet)</strong>, Davalar, Şiddet, Ayrımcılıklar
 
 
 <br />
