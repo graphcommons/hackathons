@@ -164,7 +164,7 @@ Somut grup çalışmalarına zemin hazırlayabilmek için aşağıdaki öncül �
 
 ## Veri Kaynakları
 
-Sivil toplum kuruluşları ve toplumsal dönüşüm amaçlı çalışan kolektiflerin tanımladıkları ve takip ettikleri toplumsal meseleler çoğu zaman devlet kurumları tarafından sorun olarak kabul edilmez, göz ardı edilir ya da bunların takibiyle ilgilenilmez. Bu durum, hangi verilerin takip edileceğini seçmenin siyasi bir eylem olduğunu göstermektedir. Toplumsal meseleleri takip ederek [veritabanları oluşturan sivil oluşumlar](https://bianet.org/4/32/175731-devletin-ve-ozel-sektorun-gonullu-denetimcileri-sivil-veri-inisiyatifleri), bu tür verileri başka türlü bulamayacak avukatlar, gazeteciler, araştırmacılar, aktivistler ve politika yapıcılar için güvenilir veri kaynakları sağlar. Bu hackathon ile niyetimiz, toplumsal meselelere dair ayrı ayrı takip edilen verileri kesişimleri üzerinden müşterekleştirmek ve böylece bu meselelerle ilgilenenler arasında yeni bağlar örülmesine, herkesin bütüncül bir görüşe sahip olmasına ve isabetli eylem kılavuzları üretilmesine zemin oluşturmak.
+Sivil toplum kuruluşları ve toplumsal dönüşüm amaçlı çalışan kolektiflerin tanımladıkları ve takip ettikleri toplumsal meseleler çoğu zaman devlet kurumları tarafından sorun olarak kabul edilmez, göz ardı edilir ya da bunların takibiyle ilgilenilmez. Bu durum, hangi verilerin takip edileceğini seçmenin siyasi bir eylem olduğunu göstermektedir. Toplumsal meseleleri takip ederek [veritabanları oluşturan sivil oluşumlar](https://bianet.org/4/32/175731-devletin-ve-ozel-sektorun-gonullu-denetimcileri-sivil-veri-inisiyatifleri), bu tür verileri başka türlü bulamayacak gazeteciler, girişimciler, araştırmacılar, avukatlar, aktivistler ve politika geliştirenler için güvenilir veri kaynakları sağlar. Bu hackathon ile niyetimiz, toplumsal meselelere dair ayrı ayrı takip edilen verileri kesişimleri üzerinden müşterekleştirmek ve böylece bu meselelerle ilgilenenler arasında yeni bağlar örülmesine, herkesin bütüncül bir görüşe sahip olmasına ve isabetli eylem kılavuzları üretilmesine zemin oluşturmak.
 
 Bu sayfada, toplumsal meselelere dair belirlediğimiz ana konuların altına az sayıda da olsa ilgili olan devlet kurumlarından ve sivil toplum kuruluşlarından bulabildiğimiz veri kaynaklarını listeledik. Bu listeyi geliştirmek ve hackathon ötesinde de herkesin faydalanabileceği bir kaynak haline getirmek istiyoruz. Daha derin ve geniş veri kaynaklarını, hackathon katılımcılarının getirmesini bekliyoruz. Hackathonu daha etkili kılmak ve işbirliğine şimdiden başlamak için veri kaynağı önerilerinizi [workshop@graphcommons.com](workshop@graphcommons.com) adresine gönderebilirsiniz.
 
@@ -172,7 +172,7 @@ Bu sayfada, toplumsal meselelere dair belirlediğimiz ana konuların altına az 
 - İnternetten kamusal veriye ulaşma rehberi [https://ekolojikolektifi.org/portfolio/1867/](https://ekolojikolektifi.org/portfolio/1867/)
 - Ulusal Tez Merkezi [https://tez.yok.gov.tr/UlusalTezMerkezi](https://tez.yok.gov.tr/UlusalTezMerkezi)
 - TUİK Veritabanları [http://www.tuik.gov.tr/PreTabloArama.do?metod=search&araType=vt](http://www.tuik.gov.tr/PreTabloArama.do?metod=search&araType=vt)
-
+- Resmi Gazete Mevzuat Bilgi Sistemi [https://www.mevzuat.gov.tr](https://www.mevzuat.gov.tr)
 
 ### Eğitim, Kreş-İlk-Orta-Meslek-Yüksek Öğretim, Dershaneler, Müfredat, Öğretmenler, Alternatif Eğitim Ağları
 - Bianet Arşivi Eğitim [http://bianet.org/bianet/egitim](http://bianet.org/bianet/egitim)
@@ -182,8 +182,17 @@ Bu sayfada, toplumsal meselelere dair belirlediğimiz ana konuların altına az 
 
 ### Ekolojik Kriz, Mülksüzleştirme, Enerji, Tarım, Gıda, Su, Halk Sağlığı, Afetler, Kent
 - IBB Verileri [https://data.ibb.gov.tr](https://data.ibb.gov.tr)
+- İstanbul İstatistik Ofisi [https://istatistik.istanbul/](https://istatistik.istanbul/)
+- İBB Askı Plan Uygulaması [https://planaski.ibb.gov.tr/](https://planaski.ibb.gov.tr/)
+- İBB Askı sürecinde olan planlar [http://application2.ibb.gov.tr/IBBWC/ImarPlanlari.aspx](http://application2.ibb.gov.tr/IBBWC/ImarPlanlari.aspx)
+- Enerji firmalarının finansal kredileri için IJ Global [https://ijglobal.com](https://ijglobal.com)
 - Kentsel Politikanın Desteklenmesi İçin Yeni Araçlar, Rapor TESEV [https://www.tesev.org.tr/tr/research/kentsel-politikanin-desteklenmesi-icin-yeni-araclar-acik-veri-platformlari-ve-dijital-kent-panelleri/](https://www.tesev.org.tr/tr/research/kentsel-politikanin-desteklenmesi-icin-yeni-araclar-acik-veri-platformlari-ve-dijital-kent-panelleri/)
 - Veriye Dayalı Politika Aracı kent95 (İstanbul, İzmir, Gaziantep) [http://harita.kent95.org/](http://harita.kent95.org/)
+- Megaprojeler İstanbul [https://megaprojeleristanbul.com](https://megaprojeleristanbul.com)
+- Kentsel Politikanın Desteklenmesi için Açık Veri Platformları Raporu [https://www.tesev.org.tr/tr/research/kentsel-politikanin-desteklenmesi-icin-yeni-araclar-acik-veri-platformlari-ve-dijital-kent-panelleri/](https://www.tesev.org.tr/tr/research/kentsel-politikanin-desteklenmesi-icin-yeni-araclar-acik-veri-platformlari-ve-dijital-kent-panelleri/)
+- Şehirlerin Açık Veri Portalleri [http://dataportals.org](http://dataportals.org)
+- Türkiye Ulusal Coğrafi Veri Portalı [https://atlas.gov.tr/](https://atlas.gov.tr/)
+- Ekoloji Almanağı [https://www.academia.edu/35470989/Ekoloji_Almana%C4%9F%C4%B1](https://www.academia.edu/35470989/Ekoloji_Almana%C4%9F%C4%B1)
 - MAPEG Maden ve Petrol Lisansları ve İstatistikleri [http://www.mapeg.gov.tr](http://www.mapeg.gov.tr)
 - Mülksüzleştirme Ağları [https://graphcommons.com/hubs/mulksuzlestirme](https://graphcommons.com/hubs/mulksuzlestirme)
 - Bianet Arşivi Çevre [http://bianet.org/bianet/cevre](http://bianet.org/bianet/cevre)
@@ -197,6 +206,10 @@ Bu sayfada, toplumsal meselelere dair belirlediğimiz ana konuların altına az 
 - Yeşil Gazete Arşivi [https://yesilgazete.org](https://yesilgazete.org)
 - Yeşilist Arşivi [https://www.yesilist.com](https://www.yesilist.com)
 - Karasaban Arşivi [https://www.karasaban.net](https://www.karasaban.net)
+- Copernicus Urban Atlas [https://land.copernicus.eu/local/urban-atlas](https://land.copernicus.eu/local/urban-atlas)
+- İstanbul Kent Mücadele Arşivi (İKM Arşiv) [https://www.ikmarsiv.org](https://www.ikmarsiv.org)
+- Küresel Enerji Santrali Veritabanı [https://github.com/wri/global-power-plant-database](https://github.com/wri/global-power-plant-database)
+
 
 ### Emek, İşçi Sağlığı, Emek Direnişleri, Göç/Hareketlilik, Kent
 - SGK İstatistik Yıllıkları (Çalışan-İşveren, Emekli, Sağlık) [http://www.sgk.gov.tr/wps/portal/sgk/tr/kurumsal/istatistik/sgk_istatistik_yilliklari](http://www.sgk.gov.tr/wps/portal/sgk/tr/kurumsal/istatistik/sgk_istatistik_yilliklari)
@@ -204,6 +217,7 @@ Bu sayfada, toplumsal meselelere dair belirlediğimiz ana konuların altına az 
 - Evrensel Haber Arşivi [https://www.evrensel.net/arsiv/](https://www.evrensel.net/arsiv/)
 - İşçi Sağlığı ve İş Güvenliği Meclisi İş Cinayetleri Veri Bankası [http://www.isigmeclisi.org/](http://www.isigmeclisi.org/)
 - İş Sağlığı ve Güvenliği Bilgi Yönetim Sistemi İBYS [https://ibys.csgb.gov.tr/](https://ibys.csgb.gov.tr/)
+- İşçi Sınıfı Eylemleri Raporu 2018 [https://emekcalisma.files.wordpress.com/2019/06/ect_iscieylemi_rapor-2018-1.pdf](https://emekcalisma.files.wordpress.com/2019/06/ect_iscieylemi_rapor-2018-1.pdf)
 - Sendika.org (2000-2020 Emek Haberleri ve Yazıları Arşivi) [https://sendika63.org/hakkimizda/](https://sendika63.org/hakkimizda/)
 - Emek Çalışmaları Topluluğu [https://emekcalisma.org](https://emekcalisma.org)
 - DİSK-AR DİSK Konfederasyonu Araştırma Merkezi [http://disk.org.tr/category/diskten/disk-ar/](http://disk.org.tr/category/diskten/disk-ar/)
@@ -258,6 +272,7 @@ Bu sayfada, toplumsal meselelere dair belirlediğimiz ana konuların altına az 
 - Sağlık Bakanlığı Kamu Hastaneleri Genel Müdürlüğü [https://khgm.saglik.gov.tr](https://khgm.saglik.gov.tr)
 - SGK Veri Uygulaması [https://veri.sgk.gov.tr](https://veri.sgk.gov.tr)
 - Covid-19 Açık Kaynak Projeler [http://open-source-covid-19.weileizeng.com](http://open-source-covid-19.weileizeng.com)
+- İstanbul için yüksek risk yaş grubunun mahallelere dağılımı [https://geo.bimtas.istanbul/portal/apps/opsdashboard/index.html#/bfbf18e3b41f4ae8bcdbbf1f1596b213](https://geo.bimtas.istanbul/portal/apps/opsdashboard/index.html#/bfbf18e3b41f4ae8bcdbbf1f1596b213)
 
 ### Toplumsal Cinsiyet, Davalar, Şiddet, Ayrımcılıklar
 - 5harfliler Arşiv [http://www.5harfliler.com/arsiv](http://www.5harfliler.com/arsiv)
