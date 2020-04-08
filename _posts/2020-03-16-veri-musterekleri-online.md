@@ -150,11 +150,15 @@ Bu sayfada, toplumsal meselelere dair belirlediğimiz ana konuların altına az 
 - TUİK Veritabanları [http://www.tuik.gov.tr/PreTabloArama.do?metod=search&araType=vt](http://www.tuik.gov.tr/PreTabloArama.do?metod=search&araType=vt)
 - Resmi Gazete Mevzuat Bilgi Sistemi [https://www.mevzuat.gov.tr](https://www.mevzuat.gov.tr)
 
+<a name="verikaynaklari-egitim"></a>
+
 ### Eğitim, Kreş-İlk-Orta-Meslek-Yüksek Öğretim, Dershaneler, Müfredat, Öğretmenler, Alternatif Eğitim Ağları
 - Bianet Arşivi Eğitim [http://bianet.org/bianet/egitim](http://bianet.org/bianet/egitim)
 - E-Bursum Türkiye Burs Analizi [https://e-bursum.com/tba](https://e-bursum.com/tba)
 - Eğitim Reformu Girişimi Arşivi [https://www.egitimreformugirisimi.org](https://www.egitimreformugirisimi.org)
 - Öğretmen Ağı Arşivi [https://www.ogretmenagi.org](https://www.ogretmenagi.org)
+
+<a name="verikaynaklari-ekolokik-kriz"></a>
 
 ### Ekolojik Kriz, Mülksüzleştirme, Enerji, Tarım, Gıda, Su, Halk Sağlığı, Afetler, Kent
 - IBB Verileri [https://data.ibb.gov.tr](https://data.ibb.gov.tr)
@@ -186,6 +190,7 @@ Bu sayfada, toplumsal meselelere dair belirlediğimiz ana konuların altına az 
 - İstanbul Kent Mücadele Arşivi (İKM Arşiv) [https://www.ikmarsiv.org](https://www.ikmarsiv.org)
 - Küresel Enerji Santrali Veritabanı [https://github.com/wri/global-power-plant-database](https://github.com/wri/global-power-plant-database)
 
+<a name="verikaynaklari-emek"></a>
 
 ### Emek, İşçi Sağlığı, Emek Direnişleri, Göç/Hareketlilik, Kent
 - SGK İstatistik Yıllıkları (Çalışan-İşveren, Emekli, Sağlık) [http://www.sgk.gov.tr/wps/portal/sgk/tr/kurumsal/istatistik/sgk_istatistik_yilliklari](http://www.sgk.gov.tr/wps/portal/sgk/tr/kurumsal/istatistik/sgk_istatistik_yilliklari)
@@ -202,11 +207,15 @@ Bu sayfada, toplumsal meselelere dair belirlediğimiz ana konuların altına az 
 - Temiz Giysi Kapmanyası Arşivi [http://www.temizgiysi.org](http://www.temizgiysi.org)
 - İcra takipleri, borcu yüzünden kapatılan su, elektrik, doğal gaz, yardım dağıtımı gibi mutlak yoksulluk verileri (#Geçinemiyoruz verileri) [https://twitter.com/search?q=Geçinemiyoruz](https://twitter.com/search?q=Geçinemiyoruz)
 
+<a name="verikaynaklari-dijital-haklar"></a>
+
 ### Dijital Haklar, İnternet Özgürlüğü, Medya Sahipliği
 - Türkiye Medya Sahipleri Ağı [https://graphcommons.com/graphs/09426282-c311-4b39-be2c-1bd4f93b5771](https://graphcommons.com/graphs/09426282-c311-4b39-be2c-1bd4f93b5771)
 - Sansür Endeksi Arşivi [https://www.indexoncensorship.org](https://www.indexoncensorship.org)
 - Netblocks [https://netblocks.org](https://netblocks.org)
 - RSF Sınır Tanımayan Gazeteciler Arşivi [https://rsf.org/en](https://rsf.org/en)
+
+<a name="verikaynaklari-gocmen"></a>
 
 ### Göçmen, Sığınmacı ve Mülteciler, Şiddet, Ayrımcılıklar, İnsani Yardımlar, Örgütlenmeler, Kent
 - Multeci.net Arşivi [http://multeci.net](http://multeci.net)
@@ -216,10 +225,14 @@ Bu sayfada, toplumsal meselelere dair belirlediğimiz ana konuların altına az 
 - Göçmen Araştırma Derneği Arşivi [https://www.gocarastirmalaridernegi.org/tr/](https://www.gocarastirmalaridernegi.org/tr/)
 - Halkların Köprüsü Derneği Arşivı, Mülteci Ölümleri Almanağı 2015 [https://www.halklarinkoprusu.org/](https://www.halklarinkoprusu.org/)
 
+<a name="verikaynaklari-hayvan-haklari"></a>
+
 ### Hayvan Hakları, Davalar, Şiddet, Türcü Hak İhlalleri
 - HAKİM Hayvan Hak İhlalleri Raporu [www.sivilsayfalar.org/2020/02/18/hakim-hayvan-haklari-ihlalleri-raporunu-acikladi/](www.sivilsayfalar.org/2020/02/18/hakim-hayvan-haklari-ihlalleri-raporunu-acikladi/)
 - Bianet Arşivi Hayvan Hakları [http://bianet.org/bianet/hayvan-haklari](http://bianet.org/bianet/hayvan-haklari)
 - Veri Gazeteciliği Hayvan Hakları Dersi [http://www.verigazeteciligi.com/solo-proje-hayvan-haklari](http://www.verigazeteciligi.com/solo-proje-hayvan-haklari)
+
+<a name="verikaynaklari-insan-haklari"></a>
 
 ### İnsan Hakları, Davalar, Şiddet, Ayrımcılıklar, Hak İhlalleri
 - Adli İstatistikler [http://www.adlisicil.adalet.gov.tr/Home/SayfaDetay/adalet-istatistikleri-yayin-arsivi](http://www.adlisicil.adalet.gov.tr/Home/SayfaDetay/adalet-istatistikleri-yayin-arsivi)
@@ -231,6 +244,8 @@ Bu sayfada, toplumsal meselelere dair belirlediğimiz ana konuların altına az 
 - Avrupa İnsan Hakları Mahkemesi Veritabanı [https://hudoc.echr.coe.int/eng](https://hudoc.echr.coe.int/eng)
 - OHAL’de İnsan Hakları İhlalleri Raporları (İHD, [Mazlum-Der](https://istanbul.mazlumder.org/tr/main/faaliyetler/basin-aciklamalari/1/ohal-donemi-hak-ihlalleri-raporumuz-yayinlanm/13231), [Heinrich Böll Vakfı](https://www.raporlar.org/ohalraporuhboll/))
 
+<a name="verikaynaklari-kamu-ihaleleri"></a>
+
 ### Kamu İhaleleri, Karteller, Yolsuzluk
 - İKAP İhale Arama Motoru [https://ekap.kik.gov.tr/EKAP](https://ekap.kik.gov.tr/EKAP)
 - TOKİ İhale Tarihleri [https://toki.gov.tr/ihale-tarihleri](https://toki.gov.tr/ihale-tarihleri)
@@ -239,6 +254,8 @@ Bu sayfada, toplumsal meselelere dair belirlediğimiz ana konuların altına az 
 - TBMM'de vekiller, komisyonları ve imzaladıkları kanun teklifleri [https://graphcommons.com/hubs/tbmm](https://graphcommons.com/hubs/tbmm)
 - TBMM Soru Önergesi Sorgulama [https://www.tbmm.gov.tr/develop/owa/yazili_sozlu_soru_sd.sorgu_baslangic](https://www.tbmm.gov.tr/develop/owa/yazili_sozlu_soru_sd.sorgu_baslangic)
 - TC Merkez Bankası Verileri [https://medium.com/@mertalabas/python-i%CC%87le-merkez-bankas%C4%B1-tcmb-verilerine-eri%C5%9Fim-3bf2baf3cce3](https://medium.com/@mertalabas/python-i%CC%87le-merkez-bankas%C4%B1-tcmb-verilerine-eri%C5%9Fim-3bf2baf3cce3)
+
+<a name="verikaynaklari-saglik"></a>
 
 ### Sağlık, Aile Hekimliği, Devlet-Üniversite-Özel-Şehir Hastaneleri, Sağlık Harcamaları, Hastalıklar, Yeni SGK yapılanması
 - Türk Tabipler Birliği Arşivi [http://www.ttb.org.tr](http://www.ttb.org.tr)
@@ -249,6 +266,8 @@ Bu sayfada, toplumsal meselelere dair belirlediğimiz ana konuların altına az 
 - SGK Veri Uygulaması [https://veri.sgk.gov.tr](https://veri.sgk.gov.tr)
 - Covid-19 Açık Kaynak Projeler [http://open-source-covid-19.weileizeng.com](http://open-source-covid-19.weileizeng.com)
 - İstanbul için yüksek risk yaş grubunun mahallelere dağılımı [https://geo.bimtas.istanbul/portal/apps/opsdashboard/index.html#/bfbf18e3b41f4ae8bcdbbf1f1596b213](https://geo.bimtas.istanbul/portal/apps/opsdashboard/index.html#/bfbf18e3b41f4ae8bcdbbf1f1596b213)
+
+<a name="verikaynaklari-toplumsal-cinsiyet"></a>
 
 ### Toplumsal Cinsiyet, Davalar, Şiddet, Ayrımcılıklar
 - 5harfliler Arşiv [http://www.5harfliler.com/arsiv](http://www.5harfliler.com/arsiv)
