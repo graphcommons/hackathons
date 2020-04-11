@@ -149,6 +149,12 @@ Bu sayfada, toplumsal meselelere dair belirlediğimiz ana konuların altına az 
 - Ulusal Tez Merkezi [https://tez.yok.gov.tr/UlusalTezMerkezi](https://tez.yok.gov.tr/UlusalTezMerkezi)
 - TUİK Veritabanları [http://www.tuik.gov.tr/PreTabloArama.do?metod=search&araType=vt](http://www.tuik.gov.tr/PreTabloArama.do?metod=search&araType=vt)
 - Resmi Gazete Mevzuat Bilgi Sistemi [https://www.mevzuat.gov.tr](https://www.mevzuat.gov.tr)
+- Dernek Sorgulama [https://www.turkiye.gov.tr/icisleri-ddb-dernek-sorgulama](https://www.turkiye.gov.tr/icisleri-ddb-dernek-sorgulama)
+
+### Web Scraper ile Veri Toplama Araçları
+- Web Scraper Tarayıcı Eklentisi [https://www.webscraper.io/](https://www.webscraper.io/)
+- Twint Twitter Scraper (APIsiz / Limitsiz) [https://github.com/twintproject/twint](https://github.com/twintproject/twint)
+- Twitter Scraper [https://github.com/taspinar/twitterscraper](https://github.com/taspinar/twitterscraper)
 
 <a name="verikaynaklari-egitim"></a>
 
@@ -166,6 +172,7 @@ Bu sayfada, toplumsal meselelere dair belirlediğimiz ana konuların altına az 
 - İBB Askı Plan Uygulaması [https://planaski.ibb.gov.tr/](https://planaski.ibb.gov.tr/)
 - İBB Askı sürecinde olan planlar [http://application2.ibb.gov.tr/IBBWC/ImarPlanlari.aspx](http://application2.ibb.gov.tr/IBBWC/ImarPlanlari.aspx)
 - Enerji firmalarının finansal kredileri için IJ Global [https://ijglobal.com](https://ijglobal.com)
+- Enerji Atlası [https://www.enerjiatlasi.com/](https://www.enerjiatlasi.com/)
 - Kentsel Politikanın Desteklenmesi İçin Yeni Araçlar, Rapor TESEV [https://www.tesev.org.tr/tr/research/kentsel-politikanin-desteklenmesi-icin-yeni-araclar-acik-veri-platformlari-ve-dijital-kent-panelleri/](https://www.tesev.org.tr/tr/research/kentsel-politikanin-desteklenmesi-icin-yeni-araclar-acik-veri-platformlari-ve-dijital-kent-panelleri/)
 - Veriye Dayalı Politika Aracı kent95 (İstanbul, İzmir, Gaziantep) [http://harita.kent95.org/](http://harita.kent95.org/)
 - Megaprojeler İstanbul [https://megaprojeleristanbul.com](https://megaprojeleristanbul.com)
@@ -189,6 +196,11 @@ Bu sayfada, toplumsal meselelere dair belirlediğimiz ana konuların altına az 
 - Copernicus Urban Atlas [https://land.copernicus.eu/local/urban-atlas](https://land.copernicus.eu/local/urban-atlas)
 - İstanbul Kent Mücadele Arşivi (İKM Arşiv) [https://www.ikmarsiv.org](https://www.ikmarsiv.org)
 - Küresel Enerji Santrali Veritabanı [https://github.com/wri/global-power-plant-database](https://github.com/wri/global-power-plant-database)
+- MTA Kömür Arama Araştırmaları [https://www.mta.gov.tr/v3.0/arastirmalar/komur-arama-arastirmalari](https://www.mta.gov.tr/v3.0/arastirmalar/komur-arama-arastirmalari)
+- Taşkömürü İhaleleri [http://taskomuru.net/tr/](http://taskomuru.net/tr/)
+- EÜAŞ Maden Sahaları [https://www.euas.gov.tr/tr-TR/santraller/maden-sahalari](https://www.euas.gov.tr/tr-TR/santraller/maden-sahalari)
+- Korunan alanlar, milli parklar, tabiat anıtları, yaban hayatını geliştirme sahaları ve sulak alanlar için Google Earth konum dosyaları [http://www.kursatozcan.com/tag/kmz/](http://www.kursatozcan.com/tag/kmz/)
+
 
 <a name="verikaynaklari-emek"></a>
 
@@ -206,6 +218,8 @@ Bu sayfada, toplumsal meselelere dair belirlediğimiz ana konuların altına az 
 - MESS (Türkiye Metal Sanayicileri Sendikası) İstatistikleri [https://www.mess.org.tr/tr/istatistikler/](https://www.mess.org.tr/tr/istatistikler/)
 - Temiz Giysi Kapmanyası Arşivi [http://www.temizgiysi.org](http://www.temizgiysi.org)
 - İcra takipleri, borcu yüzünden kapatılan su, elektrik, doğal gaz, yardım dağıtımı gibi mutlak yoksulluk verileri (#Geçinemiyoruz verileri) [https://twitter.com/search?q=Geçinemiyoruz](https://twitter.com/search?q=Geçinemiyoruz)
+- [Covid-19 Eylem Haritası Türkiye](https://www.google.com/maps/d/u/0/viewer?mid=1gbzXJsu8DCADAgPvtFT0spRo1wefLsdk&ll=38.53263495931847%2C35.62972457716171&z=5)
+- Biz Bize Yeteriz Kampanyasına bağış yapan şirketler [https://bizbizeyeteriz.gov.tr/](https://bizbizeyeteriz.gov.tr/)
 
 <a name="verikaynaklari-dijital-haklar"></a>
 
