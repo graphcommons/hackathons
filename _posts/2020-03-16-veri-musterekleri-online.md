@@ -67,7 +67,7 @@ Online hackathon için hazırladığımız bu program süreç içinde dönüşeb
     - Veri Müşterekleri ve hackathon konuları ilişki ağları
     - Ağ haritalama ve Graph Commons
 - Soru & Cevap
-- **1.Haftanın işi: Çalışma konularının ve grupların oluşturulması**
+- 1.Haftanın işi: Çalışma konularının ve grupların oluşturulması
     - Yazılımcı, veri türetme, temsil etme, çaprazlama sürecine nasıl yardımcı olabilir? (2015 ve 2016 hackathonlarından örnekler)
     - Chat kanalında çalışma grupları oluşturmak için ön hazırlıklar; bir sonraki haftaki oturumda grupların ne yapacağına dair veri kaynaklarının sunulması
 
@@ -80,28 +80,27 @@ Online hackathon için hazırladığımız bu program süreç içinde dönüşeb
 - İki çalışma grubunun sunumu (20 dk)
     - Belirlenen konu, ekip, veri kaynakları ve prototip fikrinin anlatımı
     - Geri bildirim
-- **2.Haftanın işi: Prototip geliştirme**
+- 2.Haftanın işi: Prototip geliştirme
     - İlk prototiplerin chat kanalında paylaşımı ve geri bildirimler
 
 ### 3) Üçüncü oturum 4 Nisan Cumartesi 11.00-13.00
-- Çalışma gruplarının sunumu
-    - Belirlenen konu, ekip, veri kaynakları ve prototip fikrinin anlatımı
-    - Geri bildirim
-- **3.Haftanın işi: Prototip geliştirme**
-    - İlk prototiplerin Github’a ve Graph Commons’a girilmesi, chat kanalında paylaşımı, geri bildirimler
+- Çalışma gruplarının breakout odalarında konuşması (20 dk)
+- Çalışma gruplarının sunumu ve geri bildirimler (30 dk)
+- ARA (10 dk)
+- Çalışma gruplarının sunumu ve geri bildirimler (40 dk)
+- 3.Haftanın işi: Prototip geliştirme (10 dk)
 
 ### 4) Dördüncü oturum 11 Nisan Cumartesi 11.00-13.00
-- Prototiplerin sunumu ve gözden geçirilmesi
-    - Farklı veri setleri arasında kurulabilecek köprüleri tartışma
-    - Veri alışverişinin sağlanması için bir veri protokolü üzerinde tartışma
-- **4.Haftanın işi: Prototip iyileştirme**
-    - İyileştirilmiş prototiplerin Github’a ve Graph Commons’a girilmesi, chat kanalında paylaşımı, geri bildirimler
+- Çalışma gruplarının breakout odalarında konuşması (20 dk)
+- Çalışma gruplarının sunumu ve geri bildirimler (30 dk)
+- ARA (10 dk)
+- Çalışma gruplarının sunumu ve geri bildirimler (40 dk)
+- 4.Haftanın işi: Prototip geliştirme (10 dk)
 
 ### 5) Son oturum 18 Nisan Cumartesi 11.00-13.00
 - Prototiplerin sunumu
 - Soru & cevap, tartışma
 - Sonraki adımlar ve kapanış
-
 
 <br />
 
