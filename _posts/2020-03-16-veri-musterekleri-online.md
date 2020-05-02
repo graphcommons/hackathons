@@ -150,10 +150,12 @@ Bu sayfada, toplumsal meselelere dair belirlediğimiz ana konuların altına az 
 - Resmi Gazete Mevzuat Bilgi Sistemi [https://www.mevzuat.gov.tr](https://www.mevzuat.gov.tr)
 - Dernek Sorgulama [https://www.turkiye.gov.tr/icisleri-ddb-dernek-sorgulama](https://www.turkiye.gov.tr/icisleri-ddb-dernek-sorgulama)
 
-### Web Scraper ile Veri Toplama Araçları
+### Veri Toplama ve İşleme Araçları
 - Web Scraper Tarayıcı Eklentisi [https://www.webscraper.io/](https://www.webscraper.io/)
 - Twint Twitter Scraper (APIsiz / Limitsiz) [https://github.com/twintproject/twint](https://github.com/twintproject/twint)
 - Twitter Scraper [https://github.com/taspinar/twitterscraper](https://github.com/taspinar/twitterscraper)
+- Zemberek Türkçe Doğal Dil İşleme (NLP) https://github.com/ahmetaa/zemberek-nlp
+- Zemberek Named Entity Extraction (NER) https://github.com/ahmetaa/zemberek-nlp/tree/master/ner
 
 <a name="verikaynaklari-egitim"></a>
 
@@ -219,6 +221,7 @@ Bu sayfada, toplumsal meselelere dair belirlediğimiz ana konuların altına az 
 - İcra takipleri, borcu yüzünden kapatılan su, elektrik, doğal gaz, yardım dağıtımı gibi mutlak yoksulluk verileri (#Geçinemiyoruz verileri) [https://twitter.com/search?q=Geçinemiyoruz](https://twitter.com/search?q=Geçinemiyoruz)
 - [Covid-19 Eylem Haritası Türkiye](https://www.google.com/maps/d/u/0/viewer?mid=1gbzXJsu8DCADAgPvtFT0spRo1wefLsdk&ll=38.53263495931847%2C35.62972457716171&z=5)
 - Biz Bize Yeteriz Kampanyasına bağış yapan şirketler [https://bizbizeyeteriz.gov.tr/](https://bizbizeyeteriz.gov.tr/)
+- https://grlplus.github.io/covid19/
 
 <a name="verikaynaklari-dijital-haklar"></a>
 
